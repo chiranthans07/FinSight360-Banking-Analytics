@@ -1,0 +1,20 @@
+table_name,column_name,business_definition,role
+branches,branch_id,Unique branch identifier,Primary key
+branches,city,Branch city,Geographic analysis
+customers,customer_id,Unique customer identifier,Primary key
+customers,customer_segment,Customer value segment,Segmentation
+customers,credit_score,Synthetic credit score,Risk analysis
+accounts,account_id,Unique account identifier,Primary key
+accounts,customer_id,Customer owning account,Foreign key -> customers
+accounts,branch_id,Branch servicing account,Foreign key -> branches
+transactions,transaction_id,Unique transaction identifier,Primary key
+transactions,account_id,Account used for transaction,Foreign key -> accounts
+transactions,amount,Transaction value in INR,Financial KPI
+transactions,status,Transaction outcome,Operational analysis
+support_tickets,ticket_id,Unique support ticket,Primary key
+support_tickets,customer_id,Customer raising ticket,Foreign key -> customers
+support_tickets,resolution_hours,Time to resolve,SLA analysis
+fraud_alerts,alert_id,Unique risk alert,Primary key
+fraud_alerts,transaction_id,Transaction associated with alert,Foreign key -> transactions
+fraud_alerts,risk_score,Synthetic risk score 1-100,Risk prioritization
+fraud_alerts,severity,Alert severity,Risk analysis

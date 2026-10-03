@@ -1,0 +1,2501 @@
+alert_id,transaction_id,customer_id,alert_date,risk_type,risk_score,severity,resolution_status
+5000001,3033255,102264,2025-07-01,Unusual Amount,100.0,High,Under Review
+5000002,3016711,103163,2025-04-16,Multiple Failed Attempts,47.2,Low,Open
+5000003,3044816,101204,2025-02-11,High-Risk Merchant,80.0,Medium,Under Review
+5000004,3027088,104780,2025-10-02,High-Risk Merchant,74.6,High,Resolved
+5000005,3048770,101185,2025-09-22,Location Anomaly,85.6,Medium,Open
+5000006,3036941,102546,2025-11-28,Multiple Failed Attempts,52.2,Medium,False Positive
+5000007,3020447,100790,2025-06-30,Unusual Amount,66.4,Medium,Under Review
+5000008,3019825,103882,2025-07-15,High-Risk Merchant,74.6,High,Resolved
+5000009,3048578,103172,2025-07-14,High-Risk Merchant,54.9,Medium,Resolved
+5000010,3016967,101561,2025-02-03,High-Risk Merchant,52.0,High,Open
+5000011,3043738,104397,2025-09-17,Location Anomaly,25.1,Low,Resolved
+5000012,3017165,100760,2025-05-16,International Activity,53.3,High,Under Review
+5000013,3034738,101816,2025-05-24,International Activity,62.9,High,Resolved
+5000014,3029634,102208,2025-02-13,Rapid Transactions,59.9,Low,Resolved
+5000015,3028679,103161,2025-04-07,Unusual Amount,47.1,High,Under Review
+5000016,3049058,103706,2025-06-29,Multiple Failed Attempts,83.9,High,Under Review
+5000017,3004145,104986,2025-10-22,Multiple Failed Attempts,73.6,High,Resolved
+5000018,3033930,103487,2025-10-18,High-Risk Merchant,81.0,Medium,Resolved
+5000019,3033538,101856,2025-12-07,Rapid Transactions,77.0,High,Open
+5000020,3007695,102231,2025-08-15,International Activity,66.8,Medium,Resolved
+5000021,3014561,101238,2025-04-02,Location Anomaly,96.1,High,Resolved
+5000022,3001524,103196,2025-10-05,High-Risk Merchant,76.6,Medium,Resolved
+5000023,3042776,102142,2025-02-14,High-Risk Merchant,69.7,Medium,Resolved
+5000024,3003719,104360,2025-05-26,International Activity,81.9,High,Resolved
+5000025,3015530,104134,2025-01-02,Unusual Amount,52.6,Medium,Resolved
+5000026,3033707,102119,2025-12-28,Rapid Transactions,67.7,Low,Under Review
+5000027,3006711,104871,2025-01-07,Location Anomaly,77.9,Medium,Resolved
+5000028,3033536,100508,2025-04-13,Location Anomaly,58.5,Medium,Open
+5000029,3049671,101279,2025-07-08,Location Anomaly,67.5,Low,Under Review
+5000030,3018150,101361,2025-06-08,International Activity,61.7,Low,Resolved
+5000031,3010383,103450,2025-09-28,High-Risk Merchant,81.3,Low,Under Review
+5000032,3038396,103328,2025-03-11,Rapid Transactions,99.9,Low,Resolved
+5000033,3042798,101497,2025-04-19,Rapid Transactions,38.0,Medium,Resolved
+5000034,3009209,102404,2025-06-28,High-Risk Merchant,51.1,Low,Open
+5000035,3017717,101629,2025-06-18,Location Anomaly,52.9,Medium,Resolved
+5000036,3039997,103571,2025-01-25,International Activity,70.4,Medium,Resolved
+5000037,3006697,104798,2025-03-04,Location Anomaly,63.7,Medium,Resolved
+5000038,3045403,104314,2025-02-25,International Activity,63.4,Medium,Resolved
+5000039,3023624,101665,2025-02-05,High-Risk Merchant,47.3,High,Open
+5000040,3028879,103029,2025-04-25,Unusual Amount,68.5,Medium,Resolved
+5000041,3037594,102747,2025-03-07,Multiple Failed Attempts,56.3,Medium,Resolved
+5000042,3011093,101880,2025-07-14,International Activity,61.4,Low,Open
+5000043,3012742,101524,2025-01-14,Location Anomaly,84.0,High,Open
+5000044,3021199,102242,2025-01-05,Rapid Transactions,26.8,Medium,Under Review
+5000045,3049931,104392,2025-07-13,Unusual Amount,88.4,High,Resolved
+5000046,3016342,101956,2025-11-06,International Activity,77.3,Low,Resolved
+5000047,3002066,101418,2025-01-23,Multiple Failed Attempts,79.7,Low,Resolved
+5000048,3006943,100641,2025-02-23,Rapid Transactions,55.2,High,Resolved
+5000049,3017515,101495,2025-08-12,Multiple Failed Attempts,40.9,Low,Resolved
+5000050,3033756,103737,2025-08-24,Multiple Failed Attempts,92.8,Low,Resolved
+5000051,3002956,103640,2025-04-14,Multiple Failed Attempts,73.3,Medium,Resolved
+5000052,3036603,101903,2025-01-17,International Activity,88.2,Medium,Resolved
+5000053,3041288,103553,2025-08-21,International Activity,84.3,Medium,Under Review
+5000054,3035717,102654,2025-07-29,Rapid Transactions,85.8,High,Resolved
+5000055,3024778,100371,2025-02-22,Unusual Amount,64.6,Medium,Under Review
+5000056,3033023,104808,2025-12-14,Location Anomaly,69.7,High,False Positive
+5000057,3045683,104742,2025-10-31,Unusual Amount,53.5,Medium,Resolved
+5000058,3027378,100587,2025-08-10,High-Risk Merchant,40.7,Low,Resolved
+5000059,3016446,102234,2025-04-02,Multiple Failed Attempts,59.0,Low,Resolved
+5000060,3037441,101910,2025-12-21,Unusual Amount,57.0,Low,Resolved
+5000061,3044320,100669,2025-11-21,Location Anomaly,66.5,High,Resolved
+5000062,3026099,101168,2025-06-29,Multiple Failed Attempts,82.2,High,Resolved
+5000063,3019682,104776,2025-10-22,Rapid Transactions,64.4,Low,Resolved
+5000064,3011123,104754,2025-09-19,Location Anomaly,93.3,Medium,Resolved
+5000065,3020451,101120,2025-09-27,High-Risk Merchant,73.3,Low,Resolved
+5000066,3044851,101441,2025-02-06,Rapid Transactions,49.6,Medium,Resolved
+5000067,3013448,101082,2025-09-10,International Activity,52.0,High,Resolved
+5000068,3027793,104601,2025-11-12,Location Anomaly,91.1,Low,Open
+5000069,3027724,101952,2025-05-27,International Activity,50.3,Medium,Resolved
+5000070,3031279,102231,2025-08-28,High-Risk Merchant,28.8,Medium,Resolved
+5000071,3042000,101250,2025-03-30,High-Risk Merchant,86.6,High,Resolved
+5000072,3025862,102422,2025-06-29,Rapid Transactions,68.5,Low,Open
+5000073,3048679,102484,2025-04-05,Unusual Amount,87.8,Medium,Resolved
+5000074,3023227,100730,2025-03-25,High-Risk Merchant,70.9,Medium,Open
+5000075,3008569,104504,2025-12-13,Location Anomaly,60.3,High,Under Review
+5000076,3009805,102560,2025-08-30,Rapid Transactions,100.0,Low,Open
+5000077,3018854,104216,2025-06-03,International Activity,62.4,Medium,Resolved
+5000078,3043912,103034,2025-06-10,Unusual Amount,60.3,Medium,Resolved
+5000079,3034314,104962,2025-08-05,Multiple Failed Attempts,90.5,Medium,Resolved
+5000080,3028652,104961,2025-07-19,Unusual Amount,68.6,Critical,Resolved
+5000081,3044286,103892,2025-04-27,High-Risk Merchant,77.5,Low,False Positive
+5000082,3014268,100439,2025-08-09,Location Anomaly,41.3,High,Under Review
+5000083,3049096,100965,2025-07-10,Unusual Amount,90.0,High,Resolved
+5000084,3024033,101611,2025-11-05,Multiple Failed Attempts,54.7,Low,Under Review
+5000085,3029057,103398,2025-07-02,International Activity,59.1,Medium,Open
+5000086,3047389,103653,2025-11-07,Unusual Amount,82.9,Medium,Resolved
+5000087,3042883,102454,2025-10-26,Location Anomaly,61.5,High,Resolved
+5000088,3013686,103996,2025-06-22,High-Risk Merchant,57.4,Low,Open
+5000089,3003599,104535,2025-07-09,Location Anomaly,73.5,Medium,Under Review
+5000090,3017163,104327,2025-01-15,International Activity,88.6,High,Under Review
+5000091,3039520,101769,2025-11-18,Unusual Amount,82.7,Medium,Resolved
+5000092,3016187,100906,2025-07-17,High-Risk Merchant,93.6,Low,Resolved
+5000093,3041640,103488,2025-08-04,Rapid Transactions,58.5,Medium,Resolved
+5000094,3046120,104347,2025-09-01,International Activity,72.9,Low,Open
+5000095,3032851,104169,2025-08-07,Location Anomaly,62.7,Medium,Under Review
+5000096,3026545,100264,2025-11-22,International Activity,71.3,Medium,Resolved
+5000097,3000948,104134,2025-08-18,High-Risk Merchant,72.3,High,Open
+5000098,3028705,104114,2025-02-18,Multiple Failed Attempts,100.0,High,Resolved
+5000099,3004230,103634,2025-01-03,Unusual Amount,76.1,Medium,Under Review
+5000100,3042027,100736,2025-09-06,Unusual Amount,65.7,Medium,Resolved
+5000101,3024695,103460,2025-07-01,International Activity,58.3,Medium,Resolved
+5000102,3023553,101865,2025-04-15,Rapid Transactions,67.8,High,Resolved
+5000103,3031255,103879,2025-10-22,Location Anomaly,70.0,Low,Open
+5000104,3015106,104900,2025-10-30,Location Anomaly,58.7,Low,Resolved
+5000105,3019231,101023,2025-12-03,High-Risk Merchant,57.2,Medium,Under Review
+5000106,3019156,102817,2025-11-03,Rapid Transactions,76.6,Medium,Resolved
+5000107,3006403,103150,2025-11-22,Multiple Failed Attempts,49.7,Low,Resolved
+5000108,3041388,104706,2025-02-21,Location Anomaly,53.9,High,Resolved
+5000109,3039779,104165,2025-06-22,Unusual Amount,59.8,Medium,Under Review
+5000110,3024891,102890,2025-11-19,Rapid Transactions,72.8,Medium,Under Review
+5000111,3015084,104334,2025-09-26,High-Risk Merchant,80.9,Critical,False Positive
+5000112,3019860,101472,2025-07-16,Unusual Amount,80.9,High,Under Review
+5000113,3024432,103840,2025-11-18,Multiple Failed Attempts,47.2,Medium,False Positive
+5000114,3008372,101415,2025-06-07,Unusual Amount,78.9,Low,Under Review
+5000115,3035167,100031,2025-04-17,International Activity,53.8,Medium,Resolved
+5000116,3008177,102715,2025-07-06,International Activity,42.3,Medium,Open
+5000117,3029503,100824,2025-08-26,Location Anomaly,61.8,High,Resolved
+5000118,3010307,103607,2025-09-30,Location Anomaly,90.1,Medium,Resolved
+5000119,3003613,104332,2025-08-27,High-Risk Merchant,76.2,High,Resolved
+5000120,3003387,100094,2025-07-15,Multiple Failed Attempts,68.0,Medium,Resolved
+5000121,3028228,103831,2025-02-16,High-Risk Merchant,96.3,Critical,Open
+5000122,3019578,101317,2025-12-19,International Activity,52.1,Low,Resolved
+5000123,3024817,101464,2025-06-03,Multiple Failed Attempts,78.4,Low,Resolved
+5000124,3043910,100838,2025-07-20,Location Anomaly,46.7,Low,Under Review
+5000125,3029743,103932,2025-02-25,Unusual Amount,59.0,Medium,Resolved
+5000126,3037370,100807,2025-10-01,Multiple Failed Attempts,62.4,High,Resolved
+5000127,3044483,101392,2025-11-07,Location Anomaly,58.0,High,Open
+5000128,3022282,103964,2025-01-16,International Activity,40.4,High,Open
+5000129,3004882,104707,2025-01-07,Unusual Amount,84.8,Low,Under Review
+5000130,3037491,100381,2025-11-20,Multiple Failed Attempts,59.2,Low,Open
+5000131,3030780,104279,2025-03-03,Rapid Transactions,39.7,High,Open
+5000132,3045028,103113,2025-11-11,Location Anomaly,51.3,Low,False Positive
+5000133,3005664,102311,2025-01-13,High-Risk Merchant,39.3,Low,Resolved
+5000134,3012721,103116,2025-04-15,International Activity,65.3,Low,Open
+5000135,3032437,100719,2025-05-25,High-Risk Merchant,80.9,Low,Under Review
+5000136,3025879,103549,2025-05-20,Multiple Failed Attempts,62.4,Medium,Under Review
+5000137,3021798,104811,2025-11-28,Unusual Amount,79.4,Low,Under Review
+5000138,3044823,104835,2025-03-21,Multiple Failed Attempts,52.5,Low,Resolved
+5000139,3013364,103343,2025-03-17,Unusual Amount,100.0,High,False Positive
+5000140,3042266,101836,2025-08-27,Unusual Amount,64.6,Medium,Resolved
+5000141,3018070,102646,2025-10-09,Unusual Amount,80.7,Critical,Resolved
+5000142,3010805,102849,2025-09-19,International Activity,70.9,Medium,Resolved
+5000143,3010402,100481,2025-12-06,Location Anomaly,66.1,Critical,Resolved
+5000144,3021862,100547,2025-11-10,Unusual Amount,95.6,Medium,Resolved
+5000145,3019593,102286,2025-05-13,International Activity,53.2,Medium,Resolved
+5000146,3004946,102393,2025-09-14,Rapid Transactions,59.7,Medium,Resolved
+5000147,3032844,101640,2025-11-24,High-Risk Merchant,56.6,High,Open
+5000148,3031469,102160,2025-05-21,Rapid Transactions,53.2,Low,False Positive
+5000149,3035820,100852,2025-01-19,Rapid Transactions,90.8,Medium,Resolved
+5000150,3034213,104060,2025-02-10,Rapid Transactions,75.5,Medium,Open
+5000151,3021716,103916,2025-04-30,Multiple Failed Attempts,100.0,Low,Resolved
+5000152,3014485,103294,2025-08-28,International Activity,83.0,Low,Under Review
+5000153,3045581,102747,2025-12-17,Rapid Transactions,81.4,Low,Under Review
+5000154,3002141,102404,2025-11-09,Multiple Failed Attempts,74.6,Critical,Under Review
+5000155,3016905,101227,2025-10-11,Unusual Amount,67.5,High,Resolved
+5000156,3031199,102461,2025-04-15,Location Anomaly,71.5,Medium,Under Review
+5000157,3000574,100018,2025-07-08,Rapid Transactions,99.4,Medium,Open
+5000158,3006065,104378,2025-11-29,Rapid Transactions,72.8,Medium,Under Review
+5000159,3013437,101527,2025-09-26,Location Anomaly,54.6,Low,Resolved
+5000160,3039828,104375,2025-07-10,International Activity,63.7,Medium,Under Review
+5000161,3007066,103763,2025-08-22,Multiple Failed Attempts,86.8,High,Resolved
+5000162,3024031,101392,2025-01-24,Rapid Transactions,56.1,High,Resolved
+5000163,3049507,100841,2025-12-23,Rapid Transactions,53.0,Low,Resolved
+5000164,3045374,103990,2025-02-20,Unusual Amount,53.8,Low,Resolved
+5000165,3032821,102928,2025-08-22,International Activity,78.4,Low,Resolved
+5000166,3013594,104045,2025-04-11,Unusual Amount,87.1,High,False Positive
+5000167,3003797,103306,2025-05-20,International Activity,55.4,Critical,Resolved
+5000168,3027289,101374,2025-06-01,Rapid Transactions,69.5,Low,Open
+5000169,3019389,100470,2025-03-14,Location Anomaly,80.5,Low,False Positive
+5000170,3031897,103253,2025-06-18,Location Anomaly,38.3,High,False Positive
+5000171,3000680,101387,2025-11-05,International Activity,39.6,Medium,Resolved
+5000172,3029285,103386,2025-01-27,Location Anomaly,54.3,Medium,Resolved
+5000173,3018884,103767,2025-11-13,International Activity,59.6,Medium,Resolved
+5000174,3006050,104715,2025-12-21,Location Anomaly,75.5,Low,Under Review
+5000175,3028737,100663,2025-06-21,Rapid Transactions,54.1,Medium,Open
+5000176,3031241,101959,2025-02-14,International Activity,78.3,Low,Open
+5000177,3003515,104783,2025-02-04,International Activity,54.2,High,Resolved
+5000178,3049025,101804,2025-06-02,Rapid Transactions,72.6,High,Open
+5000179,3039034,103652,2025-03-31,Multiple Failed Attempts,66.2,High,Under Review
+5000180,3030202,103380,2025-01-12,Multiple Failed Attempts,81.9,High,Open
+5000181,3031981,101358,2025-03-12,Location Anomaly,62.8,Low,False Positive
+5000182,3002220,103185,2025-01-15,High-Risk Merchant,73.5,Low,Resolved
+5000183,3017497,103504,2025-11-20,International Activity,60.7,Medium,Open
+5000184,3046815,100644,2025-10-25,International Activity,74.0,High,Open
+5000185,3027100,104704,2025-09-03,High-Risk Merchant,70.5,High,Resolved
+5000186,3002054,103383,2025-08-30,Location Anomaly,66.5,Medium,Resolved
+5000187,3043386,100203,2025-06-15,High-Risk Merchant,82.8,Low,Resolved
+5000188,3003885,101743,2025-04-17,High-Risk Merchant,76.4,High,Under Review
+5000189,3022623,101484,2025-05-05,Multiple Failed Attempts,70.3,Medium,Resolved
+5000190,3046973,103625,2025-11-20,Unusual Amount,100.0,Low,Resolved
+5000191,3045043,101159,2025-12-14,Multiple Failed Attempts,82.0,Medium,False Positive
+5000192,3006971,100726,2025-04-26,Location Anomaly,40.5,Medium,Resolved
+5000193,3041549,101454,2025-06-10,Unusual Amount,62.1,High,Open
+5000194,3020172,103628,2025-02-19,Location Anomaly,54.7,High,Resolved
+5000195,3007033,102500,2025-02-15,Multiple Failed Attempts,54.6,Medium,Resolved
+5000196,3017330,104605,2025-09-14,International Activity,61.0,Medium,Resolved
+5000197,3031494,104035,2025-07-22,Rapid Transactions,60.2,Medium,Resolved
+5000198,3033476,103550,2025-11-01,International Activity,39.9,Medium,Under Review
+5000199,3024157,102507,2025-05-25,Rapid Transactions,33.4,Medium,Under Review
+5000200,3038130,104729,2025-10-02,Location Anomaly,81.9,Low,Resolved
+5000201,3040769,101506,2025-03-11,Rapid Transactions,63.9,Medium,Resolved
+5000202,3003598,104132,2025-03-04,Location Anomaly,23.1,High,False Positive
+5000203,3021132,103030,2025-06-14,High-Risk Merchant,45.7,Low,Under Review
+5000204,3007500,104267,2025-06-03,Location Anomaly,74.1,Medium,False Positive
+5000205,3014443,103754,2025-08-04,High-Risk Merchant,53.2,High,Resolved
+5000206,3045099,103435,2025-02-07,Unusual Amount,88.5,High,Under Review
+5000207,3004666,102879,2025-02-22,High-Risk Merchant,74.1,Low,Under Review
+5000208,3008876,102208,2025-07-01,Location Anomaly,52.1,Medium,Resolved
+5000209,3016883,102282,2025-12-30,Rapid Transactions,71.4,Low,Resolved
+5000210,3037146,100016,2025-09-29,Location Anomaly,57.8,High,Resolved
+5000211,3023871,102087,2025-02-17,High-Risk Merchant,82.1,High,Resolved
+5000212,3032140,101281,2025-04-15,Rapid Transactions,74.4,Low,Under Review
+5000213,3020309,102012,2025-11-01,Multiple Failed Attempts,48.5,Medium,Resolved
+5000214,3018917,102863,2025-09-20,International Activity,79.7,Low,Resolved
+5000215,3022718,101575,2025-07-27,Multiple Failed Attempts,49.7,Low,Resolved
+5000216,3009319,100742,2025-10-31,High-Risk Merchant,70.0,Medium,Resolved
+5000217,3006983,101962,2025-02-27,Rapid Transactions,80.4,High,False Positive
+5000218,3020924,101150,2025-03-29,Rapid Transactions,24.3,Low,Under Review
+5000219,3013141,100138,2025-03-07,High-Risk Merchant,58.0,Low,Under Review
+5000220,3019297,104755,2025-01-09,International Activity,37.0,Medium,Open
+5000221,3001847,101289,2025-10-31,International Activity,58.4,Critical,Resolved
+5000222,3031479,103762,2025-03-29,Location Anomaly,49.4,Low,Resolved
+5000223,3003951,102698,2025-02-10,Location Anomaly,58.9,Medium,Resolved
+5000224,3027548,103037,2025-05-30,Unusual Amount,68.5,Medium,Resolved
+5000225,3020145,104959,2025-08-03,Rapid Transactions,69.0,High,Resolved
+5000226,3026927,102495,2025-07-22,Location Anomaly,61.1,Low,Resolved
+5000227,3022979,100723,2025-05-25,Location Anomaly,62.4,Low,Under Review
+5000228,3009348,100798,2025-03-25,Rapid Transactions,60.5,Low,Resolved
+5000229,3000909,104690,2025-07-17,Rapid Transactions,45.2,Low,Resolved
+5000230,3014221,101953,2025-02-08,Location Anomaly,72.1,High,Under Review
+5000231,3032200,103135,2025-08-02,International Activity,63.4,Medium,Resolved
+5000232,3025269,100673,2025-09-21,Multiple Failed Attempts,85.3,Low,Resolved
+5000233,3044441,104456,2025-03-24,Multiple Failed Attempts,57.7,Medium,Open
+5000234,3003235,101657,2025-04-04,Location Anomaly,32.5,Medium,Open
+5000235,3031842,104659,2025-09-19,International Activity,65.3,Medium,Under Review
+5000236,3042370,101097,2025-10-03,Multiple Failed Attempts,68.1,Low,Under Review
+5000237,3007449,102884,2025-11-23,International Activity,77.6,Medium,Under Review
+5000238,3031976,104930,2025-03-22,Unusual Amount,59.1,Low,Resolved
+5000239,3034605,100024,2025-12-03,Rapid Transactions,76.6,Low,Resolved
+5000240,3037500,101164,2025-12-31,High-Risk Merchant,72.4,High,Resolved
+5000241,3042235,101301,2025-04-27,International Activity,87.5,Low,Resolved
+5000242,3048778,101536,2025-04-19,Location Anomaly,72.4,High,Resolved
+5000243,3015792,103364,2025-01-10,Multiple Failed Attempts,49.6,Low,Resolved
+5000244,3002364,102197,2025-06-27,Multiple Failed Attempts,50.0,Low,Under Review
+5000245,3041480,103486,2025-03-20,Location Anomaly,56.4,Medium,Resolved
+5000246,3037376,104948,2025-02-23,International Activity,67.2,Medium,Resolved
+5000247,3014286,100307,2025-04-14,High-Risk Merchant,58.3,Low,Resolved
+5000248,3032152,100362,2025-11-08,Unusual Amount,28.8,Medium,Resolved
+5000249,3001310,102214,2025-06-11,Unusual Amount,54.2,Medium,False Positive
+5000250,3032935,102417,2025-11-26,Multiple Failed Attempts,96.9,High,False Positive
+5000251,3048262,103457,2025-06-23,Unusual Amount,45.5,Medium,Resolved
+5000252,3036092,103018,2025-07-21,Multiple Failed Attempts,53.8,High,Resolved
+5000253,3011555,101225,2025-09-03,High-Risk Merchant,73.1,High,Under Review
+5000254,3008757,102210,2025-05-17,Multiple Failed Attempts,85.8,High,False Positive
+5000255,3049227,100777,2025-05-04,Unusual Amount,58.2,High,Resolved
+5000256,3021729,104174,2025-10-24,Multiple Failed Attempts,82.3,Medium,Resolved
+5000257,3037700,103241,2025-06-09,Location Anomaly,74.0,Medium,Under Review
+5000258,3048928,100357,2025-06-30,International Activity,100.0,Low,False Positive
+5000259,3012723,101107,2025-04-09,International Activity,64.7,Low,Resolved
+5000260,3039064,100291,2025-03-20,International Activity,100.0,Low,Resolved
+5000261,3032019,101823,2025-08-05,International Activity,71.3,Medium,Resolved
+5000262,3030524,100246,2025-11-26,Unusual Amount,80.4,Medium,False Positive
+5000263,3019106,104805,2025-08-26,Multiple Failed Attempts,66.6,Low,Resolved
+5000264,3048281,100671,2025-12-07,Unusual Amount,77.3,High,Resolved
+5000265,3004901,102619,2025-07-01,Location Anomaly,36.1,Medium,Resolved
+5000266,3046465,104653,2025-12-03,High-Risk Merchant,67.0,Medium,Open
+5000267,3030882,104028,2025-05-02,International Activity,49.8,Medium,Resolved
+5000268,3047796,102804,2025-01-22,Unusual Amount,84.6,High,Resolved
+5000269,3010608,101627,2025-02-21,Unusual Amount,44.2,Low,Resolved
+5000270,3038035,103708,2025-12-08,Multiple Failed Attempts,83.0,Low,Resolved
+5000271,3044597,101496,2025-12-13,Unusual Amount,88.1,Low,Resolved
+5000272,3038579,104339,2025-11-27,Multiple Failed Attempts,44.3,Medium,Resolved
+5000273,3032688,100402,2025-01-18,International Activity,95.0,Low,Resolved
+5000274,3001524,104861,2025-07-12,Location Anomaly,40.6,High,Resolved
+5000275,3021615,103389,2025-06-30,High-Risk Merchant,72.6,Low,Resolved
+5000276,3004425,101479,2025-03-17,Location Anomaly,56.0,Medium,Under Review
+5000277,3036814,102439,2025-10-22,International Activity,71.8,High,Open
+5000278,3027952,102078,2025-09-25,Multiple Failed Attempts,69.6,High,Resolved
+5000279,3021135,101522,2025-04-19,High-Risk Merchant,45.2,Medium,Resolved
+5000280,3041924,102406,2025-10-11,International Activity,71.1,Medium,Resolved
+5000281,3004966,100389,2025-09-16,Multiple Failed Attempts,38.8,Low,Resolved
+5000282,3007438,101856,2025-11-19,International Activity,70.9,Medium,Resolved
+5000283,3006405,104623,2025-01-20,Rapid Transactions,88.5,Medium,Resolved
+5000284,3037953,101091,2025-08-16,Unusual Amount,85.3,Low,Under Review
+5000285,3045468,104379,2025-04-06,Multiple Failed Attempts,59.1,High,Resolved
+5000286,3015843,103166,2025-07-14,High-Risk Merchant,100.0,High,Resolved
+5000287,3015310,102187,2025-04-21,Rapid Transactions,62.1,Low,Resolved
+5000288,3015186,101298,2025-01-02,Location Anomaly,79.5,Low,Open
+5000289,3042361,100379,2025-04-03,Rapid Transactions,45.4,Low,Open
+5000290,3007681,104194,2025-03-13,Location Anomaly,77.8,Low,Resolved
+5000291,3042560,102723,2025-10-19,High-Risk Merchant,12.6,High,Open
+5000292,3034063,104035,2025-04-08,Multiple Failed Attempts,58.2,High,False Positive
+5000293,3013054,102747,2025-05-01,International Activity,83.9,Medium,Open
+5000294,3010504,103945,2025-02-17,International Activity,63.4,Medium,Under Review
+5000295,3035600,101789,2025-07-09,Location Anomaly,71.8,Critical,False Positive
+5000296,3007275,102166,2025-12-01,Unusual Amount,73.2,Medium,Under Review
+5000297,3017491,101327,2025-10-31,Unusual Amount,60.6,High,Under Review
+5000298,3007222,102864,2025-10-15,Unusual Amount,50.3,Medium,Resolved
+5000299,3041608,104346,2025-12-23,Rapid Transactions,64.8,Medium,Resolved
+5000300,3009140,101713,2025-05-05,Unusual Amount,54.0,Low,Resolved
+5000301,3014600,103659,2025-09-10,Unusual Amount,64.1,Medium,Resolved
+5000302,3038428,101656,2025-09-14,Multiple Failed Attempts,74.5,Low,Resolved
+5000303,3042142,103702,2025-12-15,High-Risk Merchant,93.2,High,Resolved
+5000304,3020053,102858,2025-01-26,Multiple Failed Attempts,73.8,Medium,Resolved
+5000305,3011758,104668,2025-02-23,Rapid Transactions,65.0,Low,Open
+5000306,3017700,101416,2025-09-11,High-Risk Merchant,33.3,Medium,Resolved
+5000307,3004307,100757,2025-01-14,High-Risk Merchant,49.6,High,Open
+5000308,3031903,104693,2025-01-23,Unusual Amount,48.7,Critical,False Positive
+5000309,3027129,100695,2025-11-14,Rapid Transactions,97.2,Low,Resolved
+5000310,3007713,103605,2025-10-25,International Activity,77.5,Low,Resolved
+5000311,3020689,104410,2025-03-17,High-Risk Merchant,74.6,High,Resolved
+5000312,3038898,101136,2025-08-26,Multiple Failed Attempts,41.3,Low,Resolved
+5000313,3006107,101332,2025-04-21,Multiple Failed Attempts,83.8,Low,Resolved
+5000314,3030144,101848,2025-02-18,High-Risk Merchant,56.0,High,Under Review
+5000315,3041229,103486,2025-07-30,International Activity,56.9,Low,Resolved
+5000316,3047446,103284,2025-11-19,Rapid Transactions,87.7,Medium,Resolved
+5000317,3034039,101813,2025-09-21,Location Anomaly,85.7,Low,Resolved
+5000318,3049435,104159,2025-08-19,International Activity,86.7,Medium,Under Review
+5000319,3005418,101885,2025-12-01,International Activity,28.4,Critical,Resolved
+5000320,3014397,103558,2025-10-07,International Activity,100.0,Low,False Positive
+5000321,3032433,102881,2025-12-13,High-Risk Merchant,87.3,High,Resolved
+5000322,3001419,101171,2025-12-30,High-Risk Merchant,51.4,High,False Positive
+5000323,3018276,102734,2025-09-11,Multiple Failed Attempts,53.4,Medium,Resolved
+5000324,3038670,102581,2025-03-10,High-Risk Merchant,63.7,Medium,Under Review
+5000325,3049490,102953,2025-06-16,Location Anomaly,62.3,Low,Resolved
+5000326,3003954,101696,2025-04-26,Location Anomaly,49.2,Medium,Under Review
+5000327,3038752,103735,2025-09-24,Location Anomaly,82.6,Medium,Resolved
+5000328,3002470,101903,2025-04-23,Multiple Failed Attempts,31.7,High,Resolved
+5000329,3011710,104836,2025-12-10,Unusual Amount,54.6,High,Under Review
+5000330,3016229,101113,2025-04-30,Rapid Transactions,71.1,Low,Open
+5000331,3028287,100452,2025-06-02,International Activity,43.3,Medium,Open
+5000332,3035007,104509,2025-12-05,International Activity,60.8,Medium,Resolved
+5000333,3014198,102736,2025-09-09,Unusual Amount,84.7,Medium,Under Review
+5000334,3043626,103503,2025-10-09,Multiple Failed Attempts,63.6,Medium,Resolved
+5000335,3001100,101963,2025-12-04,High-Risk Merchant,72.2,Medium,Resolved
+5000336,3038601,100733,2025-07-04,Rapid Transactions,44.2,Low,Resolved
+5000337,3047357,104060,2025-02-22,Multiple Failed Attempts,62.0,High,Under Review
+5000338,3036301,104443,2025-01-20,Location Anomaly,69.6,Medium,Under Review
+5000339,3008625,101878,2025-11-12,Unusual Amount,56.2,Medium,Under Review
+5000340,3008893,104913,2025-02-16,High-Risk Merchant,30.9,High,Under Review
+5000341,3031727,103192,2025-12-22,High-Risk Merchant,69.4,Medium,Resolved
+5000342,3029801,104264,2025-07-20,Rapid Transactions,45.5,Low,Resolved
+5000343,3033964,101294,2025-01-08,High-Risk Merchant,38.5,High,Resolved
+5000344,3009593,104516,2025-06-03,International Activity,65.4,Low,Under Review
+5000345,3015152,100501,2025-09-18,Location Anomaly,44.0,Medium,Open
+5000346,3019053,102378,2025-07-25,High-Risk Merchant,70.2,Medium,Resolved
+5000347,3013998,100542,2025-11-10,Multiple Failed Attempts,35.7,High,Resolved
+5000348,3003847,100609,2025-01-25,High-Risk Merchant,89.3,High,Resolved
+5000349,3040011,104414,2025-02-03,International Activity,59.5,High,Resolved
+5000350,3031986,101975,2025-09-29,Rapid Transactions,77.9,Critical,Resolved
+5000351,3048255,100931,2025-06-06,Multiple Failed Attempts,46.9,Medium,False Positive
+5000352,3020576,104106,2025-03-13,Rapid Transactions,36.1,Low,Under Review
+5000353,3042833,104241,2025-11-26,Rapid Transactions,86.8,Low,False Positive
+5000354,3017471,103452,2025-05-04,High-Risk Merchant,65.9,Medium,Resolved
+5000355,3026403,100872,2025-08-19,High-Risk Merchant,66.7,Low,Open
+5000356,3010871,101414,2025-09-04,Multiple Failed Attempts,46.1,Low,False Positive
+5000357,3007677,104475,2025-03-30,Multiple Failed Attempts,84.3,Medium,Open
+5000358,3019907,104097,2025-08-19,Location Anomaly,97.3,Low,Resolved
+5000359,3028858,104905,2025-03-06,Rapid Transactions,87.7,High,Resolved
+5000360,3029043,100377,2025-10-20,Rapid Transactions,94.9,Low,Open
+5000361,3008954,101543,2025-07-29,Rapid Transactions,100.0,Low,Open
+5000362,3019840,104762,2025-06-26,Rapid Transactions,54.6,Medium,Resolved
+5000363,3001927,104362,2025-06-02,High-Risk Merchant,66.0,Low,Resolved
+5000364,3021912,102192,2025-02-11,Multiple Failed Attempts,69.8,High,Resolved
+5000365,3044562,102763,2025-06-10,International Activity,41.9,High,False Positive
+5000366,3006410,104871,2025-12-31,Multiple Failed Attempts,72.6,High,Resolved
+5000367,3012095,104637,2025-09-15,Location Anomaly,88.0,High,False Positive
+5000368,3004981,102667,2025-04-04,Unusual Amount,65.9,Medium,Resolved
+5000369,3045453,104572,2025-07-04,Multiple Failed Attempts,46.9,Low,Resolved
+5000370,3046259,104094,2025-07-07,High-Risk Merchant,98.5,High,Under Review
+5000371,3045443,101317,2025-08-02,Location Anomaly,84.8,Low,Resolved
+5000372,3010908,101070,2025-09-26,Rapid Transactions,84.0,Medium,Resolved
+5000373,3027779,104263,2025-06-11,Rapid Transactions,28.8,High,Under Review
+5000374,3021410,100861,2025-12-31,Unusual Amount,67.6,Low,Under Review
+5000375,3022003,104309,2025-04-19,High-Risk Merchant,91.7,Low,Resolved
+5000376,3012912,103465,2025-03-09,International Activity,71.0,Medium,Resolved
+5000377,3044683,103015,2025-05-19,International Activity,100.0,Medium,Under Review
+5000378,3003017,101154,2025-10-30,International Activity,61.1,Low,Resolved
+5000379,3001500,104166,2025-06-24,Unusual Amount,34.8,Critical,Under Review
+5000380,3013439,104724,2025-06-20,Unusual Amount,79.1,High,Under Review
+5000381,3031237,102707,2025-12-17,Multiple Failed Attempts,63.3,Critical,Resolved
+5000382,3037602,104758,2025-06-19,Rapid Transactions,59.1,High,Resolved
+5000383,3016254,100506,2025-11-18,Unusual Amount,85.2,Medium,Under Review
+5000384,3020679,101736,2025-12-03,High-Risk Merchant,65.3,Low,Under Review
+5000385,3038193,100372,2025-05-08,Unusual Amount,81.1,Medium,Resolved
+5000386,3002229,100931,2025-10-04,International Activity,62.3,Medium,Resolved
+5000387,3004208,104452,2025-10-10,International Activity,80.3,Medium,Resolved
+5000388,3028515,101011,2025-12-28,Multiple Failed Attempts,70.4,Low,Resolved
+5000389,3031317,103588,2025-09-18,Multiple Failed Attempts,100.0,High,Resolved
+5000390,3015549,100539,2025-01-14,Location Anomaly,46.9,Medium,Under Review
+5000391,3032763,100593,2025-04-17,Rapid Transactions,72.4,Low,Open
+5000392,3032983,100892,2025-10-29,Multiple Failed Attempts,83.0,Medium,Resolved
+5000393,3035694,104272,2025-01-30,High-Risk Merchant,65.4,High,Resolved
+5000394,3000306,102756,2025-01-10,Location Anomaly,44.8,High,Resolved
+5000395,3030242,104535,2025-01-25,International Activity,66.5,High,False Positive
+5000396,3034282,102403,2025-11-19,Multiple Failed Attempts,53.3,Medium,Under Review
+5000397,3008020,102090,2025-07-23,Location Anomaly,69.3,Low,Under Review
+5000398,3035036,100566,2025-05-07,Multiple Failed Attempts,55.7,Medium,Under Review
+5000399,3019311,100554,2025-09-29,Location Anomaly,75.5,High,Resolved
+5000400,3036717,103297,2025-01-13,Rapid Transactions,97.3,Low,Under Review
+5000401,3034951,103755,2025-11-20,Rapid Transactions,70.7,High,Resolved
+5000402,3026008,100171,2025-02-05,Rapid Transactions,76.8,Medium,Resolved
+5000403,3039093,103901,2025-05-11,Multiple Failed Attempts,55.0,Medium,Resolved
+5000404,3044422,103646,2025-12-29,Rapid Transactions,60.1,Low,Resolved
+5000405,3020257,101643,2025-01-06,Rapid Transactions,65.7,Low,Under Review
+5000406,3007167,103134,2025-10-02,International Activity,100.0,Medium,Resolved
+5000407,3032299,103180,2025-12-09,Location Anomaly,78.1,Critical,Resolved
+5000408,3019587,101538,2025-07-14,International Activity,43.1,High,Resolved
+5000409,3039402,101634,2025-08-08,Unusual Amount,51.0,Medium,Resolved
+5000410,3018521,102644,2025-09-04,High-Risk Merchant,75.8,Medium,Resolved
+5000411,3000080,101865,2025-07-01,Location Anomaly,77.5,Low,Resolved
+5000412,3028364,100170,2025-11-11,Location Anomaly,81.8,Medium,False Positive
+5000413,3007387,100639,2025-02-22,International Activity,92.5,Medium,Resolved
+5000414,3011650,101101,2025-01-02,International Activity,35.9,High,Resolved
+5000415,3001009,104528,2025-03-20,Unusual Amount,39.9,Medium,Resolved
+5000416,3036166,103689,2025-02-05,Unusual Amount,93.3,Medium,Open
+5000417,3042328,104621,2025-06-20,International Activity,52.6,High,Resolved
+5000418,3024043,101881,2025-05-07,International Activity,45.8,Low,Resolved
+5000419,3025683,102938,2025-07-03,Multiple Failed Attempts,62.5,Low,Resolved
+5000420,3035191,100851,2025-09-03,Unusual Amount,61.8,Low,Resolved
+5000421,3012307,101253,2025-05-31,Location Anomaly,67.5,Low,Open
+5000422,3020846,102106,2025-08-27,High-Risk Merchant,56.0,Low,Resolved
+5000423,3039637,100965,2025-08-21,Unusual Amount,70.1,Low,Open
+5000424,3000749,102376,2025-10-10,Location Anomaly,35.9,High,False Positive
+5000425,3027589,104434,2025-12-07,Unusual Amount,69.7,Medium,Resolved
+5000426,3003245,100315,2025-05-01,International Activity,22.7,High,False Positive
+5000427,3017048,101124,2025-11-30,International Activity,33.0,Medium,Resolved
+5000428,3011326,104556,2025-06-19,High-Risk Merchant,83.0,Low,Resolved
+5000429,3021974,104236,2025-04-08,International Activity,68.6,High,Resolved
+5000430,3007878,102753,2025-03-23,Location Anomaly,38.3,Medium,False Positive
+5000431,3017690,102693,2025-09-09,High-Risk Merchant,68.6,High,Under Review
+5000432,3017726,100768,2025-12-17,Location Anomaly,62.1,Medium,Resolved
+5000433,3047404,100010,2025-07-14,Unusual Amount,76.6,Low,Under Review
+5000434,3001657,104832,2025-12-03,Multiple Failed Attempts,62.9,High,Under Review
+5000435,3020135,103669,2025-12-13,Multiple Failed Attempts,78.2,Medium,Resolved
+5000436,3023627,103333,2025-07-22,International Activity,55.5,Low,Under Review
+5000437,3028165,102812,2025-06-29,High-Risk Merchant,47.5,High,Under Review
+5000438,3033065,103162,2025-06-17,International Activity,78.6,Low,Under Review
+5000439,3015296,104329,2025-05-07,Location Anomaly,55.4,Medium,Resolved
+5000440,3023354,101430,2025-02-03,High-Risk Merchant,10.3,High,Open
+5000441,3023479,103845,2025-06-12,International Activity,30.1,Medium,Resolved
+5000442,3025769,100289,2025-07-26,Unusual Amount,72.3,Low,Resolved
+5000443,3039204,104261,2025-04-02,International Activity,78.4,Low,Resolved
+5000444,3029698,104164,2025-06-13,High-Risk Merchant,57.8,Medium,Resolved
+5000445,3034018,101638,2025-07-20,Location Anomaly,72.3,Medium,Resolved
+5000446,3014594,101747,2025-04-28,Rapid Transactions,66.4,Low,False Positive
+5000447,3024516,101781,2025-05-05,High-Risk Merchant,66.7,Medium,Resolved
+5000448,3002922,100208,2025-11-17,Unusual Amount,64.0,Critical,Open
+5000449,3003663,104005,2025-11-25,Location Anomaly,58.8,Medium,Resolved
+5000450,3028960,100228,2025-08-14,Multiple Failed Attempts,72.7,Medium,Resolved
+5000451,3034015,104870,2025-03-15,International Activity,77.9,Medium,Resolved
+5000452,3027024,100641,2025-11-18,Rapid Transactions,46.1,Low,Resolved
+5000453,3040669,101745,2025-02-21,International Activity,72.6,Critical,False Positive
+5000454,3042426,101442,2025-02-15,Rapid Transactions,53.0,Low,Resolved
+5000455,3038166,103017,2025-09-04,Multiple Failed Attempts,58.5,High,Resolved
+5000456,3046062,104229,2025-02-24,Rapid Transactions,52.3,Medium,Resolved
+5000457,3042234,102232,2025-11-13,Unusual Amount,66.9,Critical,Resolved
+5000458,3044880,104567,2025-03-27,Unusual Amount,100.0,High,Open
+5000459,3035399,104574,2025-06-16,International Activity,56.8,Medium,Resolved
+5000460,3008694,103121,2025-11-26,International Activity,78.6,Low,Resolved
+5000461,3030019,101762,2025-04-09,Location Anomaly,79.6,Low,Resolved
+5000462,3047796,104694,2025-12-13,Unusual Amount,68.4,Medium,Resolved
+5000463,3034781,103384,2025-05-23,High-Risk Merchant,75.8,High,Resolved
+5000464,3019711,103105,2025-12-22,Unusual Amount,41.6,Medium,Resolved
+5000465,3046955,103403,2025-05-17,Unusual Amount,58.7,Low,Resolved
+5000466,3028207,101330,2025-07-16,Unusual Amount,65.6,Medium,Resolved
+5000467,3049851,101761,2025-06-29,Rapid Transactions,91.3,High,Resolved
+5000468,3031607,100116,2025-12-13,International Activity,77.3,High,Resolved
+5000469,3018579,104490,2025-01-25,Rapid Transactions,66.1,Low,Open
+5000470,3028035,100789,2025-12-03,Rapid Transactions,69.3,High,False Positive
+5000471,3032296,100062,2025-10-14,International Activity,41.7,Critical,Open
+5000472,3044472,100035,2025-10-11,International Activity,63.0,Critical,Resolved
+5000473,3018323,102732,2025-06-08,Multiple Failed Attempts,66.9,Medium,Under Review
+5000474,3006721,100195,2025-05-11,Rapid Transactions,59.5,Medium,False Positive
+5000475,3015514,102221,2025-12-08,Multiple Failed Attempts,69.6,Medium,False Positive
+5000476,3034370,103833,2025-08-26,International Activity,100.0,High,Resolved
+5000477,3027233,101645,2025-06-08,Multiple Failed Attempts,53.9,Low,Resolved
+5000478,3005316,101453,2025-04-23,High-Risk Merchant,76.7,Medium,Resolved
+5000479,3019535,103461,2025-12-18,Rapid Transactions,61.6,Low,Resolved
+5000480,3013059,103761,2025-08-10,High-Risk Merchant,61.6,High,Resolved
+5000481,3004095,100141,2025-09-03,International Activity,63.6,Low,False Positive
+5000482,3042597,100472,2025-08-26,Rapid Transactions,52.7,Critical,Resolved
+5000483,3027107,102585,2025-01-10,Unusual Amount,68.6,Low,Resolved
+5000484,3001932,100943,2025-04-08,Location Anomaly,83.9,Low,Under Review
+5000485,3024279,101974,2025-03-05,Location Anomaly,91.9,Medium,Under Review
+5000486,3001248,102235,2025-04-08,Rapid Transactions,57.8,Low,Open
+5000487,3006152,100864,2025-06-05,Multiple Failed Attempts,77.4,High,Resolved
+5000488,3003186,100080,2025-07-07,Location Anomaly,57.7,High,Resolved
+5000489,3045663,103692,2025-08-18,Unusual Amount,76.2,Medium,Under Review
+5000490,3005329,102643,2025-06-20,International Activity,73.6,Medium,Resolved
+5000491,3014109,101389,2025-07-18,Unusual Amount,68.4,Medium,Under Review
+5000492,3021146,100552,2025-03-22,Multiple Failed Attempts,62.4,Medium,Resolved
+5000493,3015893,101300,2025-07-28,International Activity,70.4,Low,Resolved
+5000494,3013240,100570,2025-03-15,Location Anomaly,51.7,High,Resolved
+5000495,3020352,101276,2025-03-27,High-Risk Merchant,100.0,Medium,Resolved
+5000496,3020465,103398,2025-07-26,Unusual Amount,86.4,High,Under Review
+5000497,3008445,102553,2025-02-28,High-Risk Merchant,100.0,Low,False Positive
+5000498,3001087,102276,2025-04-09,Multiple Failed Attempts,45.5,High,Open
+5000499,3014023,104360,2025-12-13,Unusual Amount,68.2,Medium,False Positive
+5000500,3001834,102422,2025-02-03,Location Anomaly,70.9,High,Resolved
+5000501,3012294,100382,2025-07-04,Unusual Amount,60.5,High,Open
+5000502,3043587,101870,2025-11-20,Multiple Failed Attempts,72.2,Medium,Resolved
+5000503,3036998,100842,2025-12-29,Multiple Failed Attempts,73.9,Medium,False Positive
+5000504,3002852,104075,2025-09-29,Location Anomaly,84.2,High,Resolved
+5000505,3033317,103835,2025-01-11,International Activity,83.7,Medium,Under Review
+5000506,3006169,102904,2025-12-16,Location Anomaly,82.4,Low,Resolved
+5000507,3020635,103504,2025-11-19,Location Anomaly,64.2,Low,Resolved
+5000508,3049041,101710,2025-01-17,Rapid Transactions,53.0,High,Open
+5000509,3026123,104307,2025-08-14,Unusual Amount,55.9,Low,Resolved
+5000510,3032514,100663,2025-05-30,High-Risk Merchant,25.8,Low,Open
+5000511,3041374,100140,2025-10-22,International Activity,51.7,Low,Resolved
+5000512,3016189,100807,2025-12-23,Rapid Transactions,63.6,Medium,Resolved
+5000513,3047599,103422,2025-01-01,Location Anomaly,49.3,High,Under Review
+5000514,3018991,102002,2025-07-23,High-Risk Merchant,93.2,Medium,Open
+5000515,3027251,102333,2025-09-02,International Activity,36.9,Medium,Resolved
+5000516,3001431,102215,2025-08-29,International Activity,83.3,Low,Resolved
+5000517,3001540,104303,2025-08-04,Multiple Failed Attempts,30.4,Medium,Open
+5000518,3038585,100742,2025-07-05,High-Risk Merchant,77.9,Low,Under Review
+5000519,3031047,104399,2025-10-15,Multiple Failed Attempts,67.3,Critical,Under Review
+5000520,3049664,100690,2025-06-11,Unusual Amount,100.0,High,Under Review
+5000521,3013022,104284,2025-06-09,Location Anomaly,38.3,Medium,Resolved
+5000522,3042843,104634,2025-09-09,Unusual Amount,58.8,Medium,Open
+5000523,3016375,104909,2025-05-11,Location Anomaly,90.1,Critical,Resolved
+5000524,3008567,101508,2025-02-16,Unusual Amount,59.9,Medium,Resolved
+5000525,3025838,101816,2025-02-17,Location Anomaly,100.0,Medium,Resolved
+5000526,3042283,102699,2025-12-30,High-Risk Merchant,54.7,Medium,False Positive
+5000527,3018723,104913,2025-10-03,International Activity,67.6,High,Resolved
+5000528,3030241,102230,2025-06-01,High-Risk Merchant,54.0,Low,Open
+5000529,3008969,103104,2025-01-28,Unusual Amount,55.9,Critical,Resolved
+5000530,3032189,103324,2025-08-29,Unusual Amount,69.8,Medium,Under Review
+5000531,3023473,103790,2025-04-28,Location Anomaly,100.0,Medium,Resolved
+5000532,3032115,102164,2025-12-17,Rapid Transactions,93.3,High,Resolved
+5000533,3026008,100023,2025-03-09,Multiple Failed Attempts,52.3,High,Under Review
+5000534,3020724,102099,2025-01-06,Multiple Failed Attempts,90.0,Medium,Under Review
+5000535,3025345,100999,2025-10-13,International Activity,54.0,Low,False Positive
+5000536,3047012,100295,2025-05-24,Unusual Amount,38.1,Medium,False Positive
+5000537,3020149,104001,2025-08-04,Unusual Amount,76.2,High,Resolved
+5000538,3009003,103552,2025-05-05,Unusual Amount,67.3,Low,Under Review
+5000539,3007947,104690,2025-08-05,International Activity,68.0,Medium,False Positive
+5000540,3028211,101412,2025-04-04,High-Risk Merchant,74.9,Low,Under Review
+5000541,3036761,102534,2025-04-29,Location Anomaly,57.4,Medium,False Positive
+5000542,3002047,104430,2025-06-03,High-Risk Merchant,88.2,High,Resolved
+5000543,3026255,104305,2025-05-11,Multiple Failed Attempts,86.5,Medium,Resolved
+5000544,3033640,102556,2025-09-22,High-Risk Merchant,69.8,Medium,Resolved
+5000545,3022366,103009,2025-07-07,Location Anomaly,61.3,Critical,Resolved
+5000546,3010837,102793,2025-10-04,High-Risk Merchant,59.9,Medium,Resolved
+5000547,3025245,102152,2025-10-14,International Activity,49.2,High,Resolved
+5000548,3031513,100847,2025-03-20,Multiple Failed Attempts,21.9,Medium,False Positive
+5000549,3019880,103591,2025-02-23,Location Anomaly,64.0,Medium,Open
+5000550,3037393,104803,2025-02-03,High-Risk Merchant,40.5,Medium,Resolved
+5000551,3002958,101335,2025-08-14,Location Anomaly,60.9,Medium,Resolved
+5000552,3029806,101493,2025-12-09,Location Anomaly,90.1,Medium,Resolved
+5000553,3025035,104735,2025-09-27,Multiple Failed Attempts,86.1,Medium,Open
+5000554,3035514,103431,2025-02-28,Unusual Amount,68.7,Low,Open
+5000555,3049873,101424,2025-08-17,Multiple Failed Attempts,62.7,Low,Under Review
+5000556,3005973,102049,2025-04-19,Unusual Amount,56.0,Low,Under Review
+5000557,3000029,102886,2025-09-10,Unusual Amount,48.6,Medium,Under Review
+5000558,3000009,100495,2025-11-12,High-Risk Merchant,45.6,Medium,False Positive
+5000559,3049403,102136,2025-01-10,High-Risk Merchant,68.4,High,False Positive
+5000560,3032149,102998,2025-04-21,Rapid Transactions,73.5,Medium,Under Review
+5000561,3034275,104884,2025-03-11,Location Anomaly,59.9,Medium,Open
+5000562,3002419,104819,2025-10-30,Multiple Failed Attempts,54.9,Low,Open
+5000563,3047208,103826,2025-01-13,International Activity,67.8,High,Resolved
+5000564,3002581,100520,2025-03-15,High-Risk Merchant,79.1,High,Resolved
+5000565,3021039,101045,2025-02-25,Unusual Amount,66.6,High,Resolved
+5000566,3033802,101983,2025-07-24,Unusual Amount,57.5,High,Resolved
+5000567,3034750,103798,2025-05-25,Location Anomaly,17.5,Medium,Resolved
+5000568,3039954,104090,2025-07-12,Multiple Failed Attempts,70.2,High,Resolved
+5000569,3016806,102555,2025-05-20,Location Anomaly,59.4,Medium,False Positive
+5000570,3029169,103572,2025-01-31,Location Anomaly,81.4,Low,Open
+5000571,3008313,103787,2025-08-26,High-Risk Merchant,92.9,Medium,Resolved
+5000572,3032167,103426,2025-02-02,International Activity,59.7,High,Under Review
+5000573,3030201,104424,2025-09-17,Multiple Failed Attempts,47.0,Medium,Under Review
+5000574,3033386,102085,2025-06-10,International Activity,76.5,Medium,Under Review
+5000575,3006790,101219,2025-03-12,International Activity,53.8,Low,Resolved
+5000576,3034676,103182,2025-08-18,Multiple Failed Attempts,81.5,Medium,Open
+5000577,3003276,103028,2025-04-26,Rapid Transactions,49.5,Medium,Under Review
+5000578,3004940,100854,2025-03-15,Multiple Failed Attempts,62.1,Medium,Resolved
+5000579,3019632,103344,2025-05-23,Unusual Amount,90.1,Medium,Resolved
+5000580,3017007,100025,2025-08-10,Location Anomaly,84.2,High,Resolved
+5000581,3020470,103932,2025-09-18,Multiple Failed Attempts,53.1,Medium,Resolved
+5000582,3018581,104885,2025-08-21,Location Anomaly,71.1,Low,False Positive
+5000583,3018233,100872,2025-05-03,Multiple Failed Attempts,91.1,High,Under Review
+5000584,3027121,104961,2025-07-06,Multiple Failed Attempts,87.0,Medium,Resolved
+5000585,3048680,100516,2025-07-15,Rapid Transactions,77.7,Medium,Resolved
+5000586,3034197,102866,2025-02-11,Unusual Amount,64.8,Medium,Resolved
+5000587,3016252,104572,2025-02-11,Multiple Failed Attempts,82.5,Critical,False Positive
+5000588,3045081,100111,2025-12-04,Unusual Amount,83.0,High,Resolved
+5000589,3021565,100513,2025-09-20,Unusual Amount,73.1,Medium,False Positive
+5000590,3037016,100110,2025-06-06,Unusual Amount,72.3,Medium,False Positive
+5000591,3011284,104951,2025-05-26,High-Risk Merchant,80.1,Medium,Open
+5000592,3012235,101459,2025-10-28,International Activity,64.0,Medium,Resolved
+5000593,3001585,100012,2025-05-25,Rapid Transactions,52.6,High,Resolved
+5000594,3026035,103288,2025-10-19,Rapid Transactions,67.5,High,Resolved
+5000595,3021956,100173,2025-09-28,Rapid Transactions,59.9,High,Resolved
+5000596,3023566,104948,2025-09-22,Unusual Amount,79.2,Critical,Resolved
+5000597,3027009,102468,2025-04-13,Rapid Transactions,60.8,Low,Resolved
+5000598,3044804,102812,2025-01-14,Rapid Transactions,72.8,High,False Positive
+5000599,3048723,102321,2025-08-26,Multiple Failed Attempts,54.5,High,Resolved
+5000600,3000436,100309,2025-06-17,Location Anomaly,79.7,Low,Resolved
+5000601,3017287,103436,2025-12-04,Rapid Transactions,44.3,Low,Under Review
+5000602,3008905,102620,2025-12-15,Location Anomaly,77.1,Low,Resolved
+5000603,3030324,100468,2025-11-07,High-Risk Merchant,75.1,Low,Under Review
+5000604,3047042,100410,2025-10-06,Multiple Failed Attempts,78.9,Medium,False Positive
+5000605,3034661,102485,2025-06-15,Rapid Transactions,52.5,High,Resolved
+5000606,3041475,104668,2025-07-31,Rapid Transactions,43.3,Low,Resolved
+5000607,3006736,102689,2025-04-06,Multiple Failed Attempts,33.1,High,Open
+5000608,3036652,104783,2025-02-09,Location Anomaly,62.7,High,Open
+5000609,3029326,100479,2025-01-29,High-Risk Merchant,99.3,High,Resolved
+5000610,3016183,101456,2025-04-29,Multiple Failed Attempts,66.9,Low,False Positive
+5000611,3021415,102926,2025-05-18,Multiple Failed Attempts,81.5,High,Open
+5000612,3024659,101456,2025-01-30,Location Anomaly,38.2,Low,Open
+5000613,3023346,103109,2025-02-01,International Activity,73.1,High,Resolved
+5000614,3040147,101415,2025-12-06,Location Anomaly,100.0,High,Open
+5000615,3000322,102283,2025-09-07,Multiple Failed Attempts,73.2,Medium,False Positive
+5000616,3007037,101963,2025-06-01,Multiple Failed Attempts,76.4,Medium,Resolved
+5000617,3036577,100174,2025-07-05,Unusual Amount,100.0,Medium,Open
+5000618,3045187,102611,2025-08-13,Multiple Failed Attempts,62.5,High,Open
+5000619,3006282,101787,2025-11-13,Rapid Transactions,28.5,Medium,Open
+5000620,3006671,102073,2025-10-22,High-Risk Merchant,45.6,High,Under Review
+5000621,3022168,100392,2025-12-23,Location Anomaly,63.1,Low,Under Review
+5000622,3014146,102900,2025-08-23,Location Anomaly,73.2,Medium,Resolved
+5000623,3032659,104793,2025-10-27,High-Risk Merchant,41.4,Medium,Under Review
+5000624,3011385,103344,2025-03-16,Location Anomaly,83.5,Critical,Resolved
+5000625,3000166,100372,2025-01-10,Unusual Amount,73.4,Medium,Resolved
+5000626,3018960,101963,2025-03-09,Rapid Transactions,66.0,Low,Resolved
+5000627,3027923,100595,2025-05-08,International Activity,59.4,Low,Resolved
+5000628,3027609,101923,2025-06-24,High-Risk Merchant,87.3,Low,Open
+5000629,3010491,103530,2025-09-14,Location Anomaly,87.7,Medium,Resolved
+5000630,3016312,104504,2025-08-04,International Activity,77.0,Medium,Resolved
+5000631,3027501,103708,2025-09-28,Location Anomaly,63.3,Medium,Resolved
+5000632,3047417,103644,2025-02-03,High-Risk Merchant,89.5,Critical,Under Review
+5000633,3020533,101582,2025-07-13,High-Risk Merchant,40.0,Medium,Open
+5000634,3016538,102178,2025-03-30,Rapid Transactions,100.0,Medium,Resolved
+5000635,3001722,100149,2025-04-26,International Activity,75.7,Low,Resolved
+5000636,3029432,104499,2025-03-02,International Activity,94.5,Medium,Under Review
+5000637,3013755,100791,2025-11-02,High-Risk Merchant,68.3,Medium,Resolved
+5000638,3010173,100240,2025-03-31,High-Risk Merchant,62.2,Medium,Resolved
+5000639,3041249,100306,2025-07-31,International Activity,95.6,Low,Under Review
+5000640,3029384,103788,2025-09-15,Multiple Failed Attempts,44.3,Low,Open
+5000641,3023162,101863,2025-01-07,Multiple Failed Attempts,81.2,Medium,Resolved
+5000642,3022612,100498,2025-08-11,High-Risk Merchant,69.2,Medium,Resolved
+5000643,3029446,101262,2025-09-17,High-Risk Merchant,72.6,Medium,Open
+5000644,3002469,102868,2025-10-21,Rapid Transactions,65.6,Medium,Under Review
+5000645,3035564,102743,2025-10-16,Unusual Amount,75.0,High,Resolved
+5000646,3003176,104598,2025-07-12,Rapid Transactions,50.0,High,Resolved
+5000647,3025144,101168,2025-06-29,International Activity,79.6,Medium,Under Review
+5000648,3020751,102542,2025-03-11,International Activity,35.9,Low,Under Review
+5000649,3010379,102710,2025-10-12,International Activity,91.2,Low,Resolved
+5000650,3033655,100220,2025-09-16,Rapid Transactions,83.5,Medium,Resolved
+5000651,3043236,100071,2025-07-24,Unusual Amount,89.9,Low,Resolved
+5000652,3013352,102138,2025-04-05,Unusual Amount,99.5,Medium,Resolved
+5000653,3032030,104928,2025-09-29,Unusual Amount,85.0,Medium,Resolved
+5000654,3034222,103190,2025-09-15,International Activity,60.8,High,Resolved
+5000655,3031890,101802,2025-10-24,Location Anomaly,34.8,High,Resolved
+5000656,3013705,100880,2025-12-30,High-Risk Merchant,58.4,High,Resolved
+5000657,3022064,101901,2025-08-30,High-Risk Merchant,100.0,Medium,False Positive
+5000658,3043748,100620,2025-11-17,International Activity,77.1,High,Resolved
+5000659,3030468,102429,2025-11-02,Unusual Amount,35.0,Medium,Under Review
+5000660,3028386,103804,2025-11-04,Multiple Failed Attempts,67.1,Low,Under Review
+5000661,3018189,100573,2025-05-28,Location Anomaly,42.7,Medium,Under Review
+5000662,3030957,102674,2025-04-10,Location Anomaly,86.5,Low,Resolved
+5000663,3021106,100891,2025-10-01,Multiple Failed Attempts,64.8,Medium,Resolved
+5000664,3010743,102931,2025-06-07,High-Risk Merchant,75.7,High,Resolved
+5000665,3024510,102736,2025-07-31,Rapid Transactions,33.2,High,Resolved
+5000666,3047366,102842,2025-08-21,Multiple Failed Attempts,47.0,Medium,Resolved
+5000667,3032239,102532,2025-12-25,Unusual Amount,80.9,Medium,Under Review
+5000668,3022006,100402,2025-06-22,Rapid Transactions,88.2,Medium,Resolved
+5000669,3027849,104532,2025-05-22,International Activity,87.3,Medium,Open
+5000670,3022084,100432,2025-10-21,Location Anomaly,73.7,Low,Resolved
+5000671,3018723,104820,2025-03-14,International Activity,58.3,High,Resolved
+5000672,3031911,100996,2025-06-08,Multiple Failed Attempts,64.1,Low,Resolved
+5000673,3043112,100542,2025-06-28,Unusual Amount,25.2,Low,Resolved
+5000674,3039289,101539,2025-06-17,International Activity,52.3,Critical,Open
+5000675,3039368,103186,2025-03-12,International Activity,91.7,High,Resolved
+5000676,3008698,101427,2025-05-24,Location Anomaly,64.4,High,False Positive
+5000677,3037803,103178,2025-01-05,International Activity,68.4,Medium,Resolved
+5000678,3003517,100287,2025-04-29,Unusual Amount,78.3,Medium,Resolved
+5000679,3046180,102243,2025-03-07,Location Anomaly,32.9,High,Open
+5000680,3025221,101113,2025-03-24,Rapid Transactions,69.3,Low,Resolved
+5000681,3006678,103722,2025-05-27,International Activity,57.5,Medium,Resolved
+5000682,3024617,100369,2025-04-29,Rapid Transactions,43.0,High,Resolved
+5000683,3016033,103067,2025-03-04,High-Risk Merchant,51.7,Medium,Resolved
+5000684,3020571,100150,2025-07-15,Multiple Failed Attempts,93.7,Low,Resolved
+5000685,3029450,103321,2025-09-20,Multiple Failed Attempts,87.3,Medium,Resolved
+5000686,3025484,101355,2025-02-27,High-Risk Merchant,39.8,High,Under Review
+5000687,3029557,101650,2025-07-05,International Activity,82.2,Medium,Resolved
+5000688,3041318,101954,2025-12-03,Unusual Amount,79.1,Medium,False Positive
+5000689,3012742,100100,2025-04-04,Location Anomaly,74.4,Critical,Resolved
+5000690,3047873,104076,2025-09-01,Multiple Failed Attempts,98.5,Medium,Resolved
+5000691,3016789,102033,2025-10-03,Multiple Failed Attempts,67.9,Low,Open
+5000692,3023819,100301,2025-11-27,Rapid Transactions,71.3,Low,Resolved
+5000693,3045899,100535,2025-11-13,Unusual Amount,62.5,Low,Resolved
+5000694,3040075,104616,2025-01-11,High-Risk Merchant,77.6,Critical,Resolved
+5000695,3045520,100824,2025-11-13,High-Risk Merchant,76.0,Medium,Resolved
+5000696,3013888,102368,2025-08-21,International Activity,84.0,Medium,Open
+5000697,3028635,102459,2025-09-12,Unusual Amount,69.5,Low,Resolved
+5000698,3003882,103389,2025-07-15,Rapid Transactions,64.7,Medium,Resolved
+5000699,3005055,100166,2025-05-31,Unusual Amount,66.3,Low,Resolved
+5000700,3004978,102140,2025-09-11,Rapid Transactions,69.0,Low,False Positive
+5000701,3002429,104540,2025-08-21,International Activity,70.4,Medium,Resolved
+5000702,3042316,102769,2025-11-25,Unusual Amount,53.4,Low,Resolved
+5000703,3021328,101472,2025-11-13,High-Risk Merchant,47.5,Low,Resolved
+5000704,3039477,103571,2025-06-22,High-Risk Merchant,92.8,Low,Resolved
+5000705,3044848,102694,2025-05-04,High-Risk Merchant,76.9,Medium,Resolved
+5000706,3025232,104165,2025-06-17,Multiple Failed Attempts,57.3,Low,Resolved
+5000707,3024560,101528,2025-04-11,Location Anomaly,83.4,Medium,Resolved
+5000708,3007349,100344,2025-12-11,Multiple Failed Attempts,76.0,Medium,Under Review
+5000709,3007420,100714,2025-06-13,High-Risk Merchant,62.7,High,Resolved
+5000710,3020756,101612,2025-04-25,International Activity,75.9,High,Resolved
+5000711,3013752,102206,2025-09-05,Multiple Failed Attempts,81.9,High,Resolved
+5000712,3044323,103400,2025-06-29,International Activity,77.9,Medium,Open
+5000713,3046871,104907,2025-12-08,Location Anomaly,45.1,Low,Resolved
+5000714,3002081,100935,2025-10-30,Rapid Transactions,61.6,Medium,Resolved
+5000715,3033529,100179,2025-12-02,International Activity,26.8,Medium,Resolved
+5000716,3026104,103506,2025-07-18,Multiple Failed Attempts,75.2,Low,False Positive
+5000717,3031560,102359,2025-09-30,Multiple Failed Attempts,78.0,Medium,Under Review
+5000718,3019982,100868,2025-10-11,Unusual Amount,61.7,High,Open
+5000719,3035320,104072,2025-10-01,Multiple Failed Attempts,83.2,Critical,Resolved
+5000720,3013077,104546,2025-03-11,Multiple Failed Attempts,63.4,Low,Under Review
+5000721,3049615,101055,2025-11-27,Location Anomaly,63.8,Low,Open
+5000722,3045106,104993,2025-07-04,Unusual Amount,61.8,High,Resolved
+5000723,3049141,102799,2025-02-11,Rapid Transactions,99.4,Medium,Resolved
+5000724,3046101,101825,2025-03-03,Unusual Amount,73.2,High,Resolved
+5000725,3007720,104909,2025-04-22,High-Risk Merchant,92.6,Low,Resolved
+5000726,3029193,101221,2025-03-15,Unusual Amount,56.1,High,Resolved
+5000727,3034360,103671,2025-03-21,High-Risk Merchant,46.3,Medium,Resolved
+5000728,3002449,100209,2025-01-28,International Activity,86.2,Low,Resolved
+5000729,3032477,103208,2025-05-27,High-Risk Merchant,44.5,High,Resolved
+5000730,3008487,103104,2025-04-30,Rapid Transactions,84.4,Critical,Under Review
+5000731,3027014,100544,2025-09-21,Unusual Amount,73.6,Low,Resolved
+5000732,3038737,101995,2025-11-06,Rapid Transactions,58.7,Medium,Open
+5000733,3022928,102060,2025-08-20,High-Risk Merchant,58.8,Low,Resolved
+5000734,3039233,101950,2025-03-26,Multiple Failed Attempts,38.7,Medium,Resolved
+5000735,3009017,104997,2025-10-16,Multiple Failed Attempts,72.7,Medium,Resolved
+5000736,3014765,101521,2025-02-23,Multiple Failed Attempts,69.0,High,Resolved
+5000737,3005478,103635,2025-12-17,High-Risk Merchant,80.4,Low,False Positive
+5000738,3038365,101242,2025-10-22,Unusual Amount,56.5,Medium,Resolved
+5000739,3036443,100592,2025-06-25,Rapid Transactions,72.9,Low,Resolved
+5000740,3034066,101086,2025-10-15,Multiple Failed Attempts,29.2,High,Resolved
+5000741,3017873,103955,2025-06-18,Rapid Transactions,49.7,High,Resolved
+5000742,3001787,101314,2025-10-30,International Activity,55.3,Low,Open
+5000743,3049831,102903,2025-12-03,High-Risk Merchant,64.3,Low,Resolved
+5000744,3029434,101499,2025-05-18,Unusual Amount,70.2,Low,Resolved
+5000745,3032250,102077,2025-01-27,International Activity,86.8,Low,Resolved
+5000746,3039687,104593,2025-08-04,Rapid Transactions,63.7,High,Resolved
+5000747,3005312,104835,2025-10-21,Location Anomaly,89.5,Medium,Open
+5000748,3039270,103152,2025-12-15,Rapid Transactions,58.8,Low,Resolved
+5000749,3023334,101024,2025-09-29,International Activity,85.0,High,Resolved
+5000750,3040479,103688,2025-04-15,Multiple Failed Attempts,45.5,Medium,False Positive
+5000751,3047148,104164,2025-08-26,High-Risk Merchant,63.4,Low,Resolved
+5000752,3021110,101288,2025-02-18,Location Anomaly,67.3,Medium,Under Review
+5000753,3048628,104866,2025-08-17,International Activity,60.4,Medium,Resolved
+5000754,3007992,100195,2025-10-05,Location Anomaly,41.9,Medium,Under Review
+5000755,3042321,101697,2025-02-11,International Activity,92.4,High,Resolved
+5000756,3015016,101019,2025-07-10,Rapid Transactions,60.1,High,Resolved
+5000757,3011467,102325,2025-01-20,Unusual Amount,75.1,Medium,Open
+5000758,3025602,101324,2025-10-31,Multiple Failed Attempts,96.3,Medium,Resolved
+5000759,3022942,101196,2025-10-17,High-Risk Merchant,36.3,Low,Open
+5000760,3044856,103867,2025-07-21,Unusual Amount,58.3,Medium,Open
+5000761,3027302,103138,2025-01-14,High-Risk Merchant,88.9,High,Under Review
+5000762,3048359,103117,2025-11-21,Location Anomaly,45.6,Low,Resolved
+5000763,3045618,104905,2025-02-09,International Activity,85.8,Medium,Resolved
+5000764,3000414,103230,2025-04-12,Location Anomaly,50.0,Medium,Resolved
+5000765,3032757,101255,2025-05-26,Multiple Failed Attempts,76.2,Low,Under Review
+5000766,3040384,103011,2025-09-28,Rapid Transactions,57.8,Medium,Resolved
+5000767,3020032,101104,2025-06-10,Location Anomaly,61.8,Medium,Open
+5000768,3047323,100158,2025-12-10,Rapid Transactions,51.2,Low,Resolved
+5000769,3006798,103346,2025-01-23,High-Risk Merchant,63.6,Medium,Open
+5000770,3025950,102777,2025-11-14,Unusual Amount,92.3,High,Resolved
+5000771,3034110,101867,2025-02-14,High-Risk Merchant,77.1,High,Resolved
+5000772,3035100,104477,2025-10-23,Rapid Transactions,65.4,Low,Resolved
+5000773,3021880,103925,2025-02-08,Rapid Transactions,75.3,Low,Resolved
+5000774,3015309,101113,2025-01-08,International Activity,56.4,High,Resolved
+5000775,3046710,104686,2025-03-11,Location Anomaly,80.6,Medium,Resolved
+5000776,3028381,100191,2025-02-26,Unusual Amount,61.5,High,Resolved
+5000777,3001363,104778,2025-08-20,High-Risk Merchant,63.0,Critical,Resolved
+5000778,3017936,104205,2025-11-18,High-Risk Merchant,20.3,Medium,Resolved
+5000779,3049667,103579,2025-10-03,Rapid Transactions,60.7,Medium,Resolved
+5000780,3047183,100441,2025-11-29,Unusual Amount,26.8,Low,Under Review
+5000781,3004850,102315,2025-04-12,Multiple Failed Attempts,69.6,High,Resolved
+5000782,3028110,100648,2025-11-10,Rapid Transactions,54.2,Medium,Open
+5000783,3034902,103001,2025-12-14,International Activity,87.5,Medium,Under Review
+5000784,3022700,104191,2025-07-18,Multiple Failed Attempts,62.6,Low,Resolved
+5000785,3014649,102211,2025-05-03,Rapid Transactions,49.0,Critical,Under Review
+5000786,3027412,100177,2025-10-10,Multiple Failed Attempts,81.5,Medium,Resolved
+5000787,3010003,101002,2025-05-02,Unusual Amount,79.1,High,Resolved
+5000788,3009796,103642,2025-06-22,Unusual Amount,48.4,Medium,Under Review
+5000789,3029068,103733,2025-04-12,High-Risk Merchant,78.0,High,Resolved
+5000790,3032290,100466,2025-07-05,International Activity,85.3,Medium,Resolved
+5000791,3017118,101273,2025-05-25,Location Anomaly,100.0,High,Resolved
+5000792,3002865,103834,2025-11-10,Unusual Amount,77.3,Medium,Resolved
+5000793,3036260,100905,2025-08-18,Unusual Amount,62.3,Low,False Positive
+5000794,3031762,103154,2025-08-10,International Activity,73.5,Medium,Open
+5000795,3005994,102336,2025-02-17,Rapid Transactions,82.5,Medium,Open
+5000796,3018988,101322,2025-09-17,International Activity,72.0,Low,Resolved
+5000797,3030408,104491,2025-11-29,Unusual Amount,74.8,Medium,Resolved
+5000798,3006172,103517,2025-10-26,High-Risk Merchant,81.9,High,Open
+5000799,3028552,102820,2025-01-18,International Activity,75.8,Medium,Resolved
+5000800,3039717,103893,2025-09-12,Rapid Transactions,45.5,High,Resolved
+5000801,3015273,102197,2025-03-05,Multiple Failed Attempts,67.3,Low,Resolved
+5000802,3014979,102325,2025-01-14,High-Risk Merchant,92.2,Medium,False Positive
+5000803,3031819,101459,2025-12-29,Location Anomaly,38.2,Medium,Resolved
+5000804,3031098,100667,2025-01-26,Unusual Amount,51.3,Medium,Resolved
+5000805,3007643,104881,2025-11-22,International Activity,57.6,High,False Positive
+5000806,3043043,101146,2025-12-22,High-Risk Merchant,72.6,Medium,Resolved
+5000807,3009518,102554,2025-04-23,Multiple Failed Attempts,68.7,Low,Resolved
+5000808,3039413,100407,2025-05-06,International Activity,66.5,Low,Resolved
+5000809,3015589,101669,2025-05-20,Location Anomaly,63.1,Medium,Resolved
+5000810,3029354,102734,2025-11-02,International Activity,57.6,Medium,Under Review
+5000811,3018258,100679,2025-12-09,Unusual Amount,82.0,Medium,Under Review
+5000812,3033896,104910,2025-08-31,Rapid Transactions,97.9,Medium,Resolved
+5000813,3045574,102704,2025-11-07,Unusual Amount,77.5,Medium,Resolved
+5000814,3005028,100287,2025-08-08,Location Anomaly,100.0,Medium,Under Review
+5000815,3007162,104422,2025-07-10,Location Anomaly,38.3,Low,Resolved
+5000816,3020697,103100,2025-02-21,International Activity,42.3,Medium,Under Review
+5000817,3045295,104856,2025-03-16,High-Risk Merchant,44.5,Medium,Resolved
+5000818,3001928,102163,2025-04-26,International Activity,79.1,Medium,Open
+5000819,3032421,103948,2025-05-02,Location Anomaly,70.1,Medium,Resolved
+5000820,3040093,103051,2025-09-15,Location Anomaly,15.7,Low,Resolved
+5000821,3036628,102894,2025-01-15,Unusual Amount,83.4,Low,Open
+5000822,3031666,104633,2025-10-28,Rapid Transactions,53.3,Medium,Under Review
+5000823,3017420,101652,2025-03-04,International Activity,48.5,Low,Resolved
+5000824,3047249,103407,2025-04-12,Multiple Failed Attempts,55.0,Medium,Resolved
+5000825,3036763,100831,2025-11-09,Location Anomaly,70.1,Medium,Resolved
+5000826,3019934,103113,2025-05-24,Rapid Transactions,63.0,High,Resolved
+5000827,3043050,103519,2025-04-05,Unusual Amount,71.8,High,Under Review
+5000828,3014032,103601,2025-12-18,Rapid Transactions,55.6,High,Under Review
+5000829,3031236,101912,2025-01-04,High-Risk Merchant,45.1,Low,Resolved
+5000830,3014403,100745,2025-12-25,Unusual Amount,55.1,Medium,Resolved
+5000831,3028067,101849,2025-07-05,International Activity,61.3,Medium,Resolved
+5000832,3007495,103458,2025-11-12,Location Anomaly,91.8,Medium,Resolved
+5000833,3007493,104928,2025-05-23,High-Risk Merchant,28.5,Critical,Open
+5000834,3017912,104556,2025-07-13,Rapid Transactions,45.1,Low,Resolved
+5000835,3033038,100869,2025-07-05,International Activity,68.0,Medium,Resolved
+5000836,3005173,100631,2025-10-05,Unusual Amount,68.7,Medium,Open
+5000837,3024636,102960,2025-03-19,Rapid Transactions,57.9,Medium,Under Review
+5000838,13027751,100420,2025-11-26,Location Anomaly,52.5,Medium,False Positive
+5000839,3026560,101789,2025-07-04,Unusual Amount,44.2,Medium,False Positive
+5000840,3048577,103394,2025-09-28,High-Risk Merchant,52.8,Medium,Resolved
+5000841,3039853,103294,2025-05-17,High-Risk Merchant,56.4,Medium,False Positive
+5000842,3044375,101372,2025-04-21,Multiple Failed Attempts,41.0,Medium,Resolved
+5000843,3012299,103932,2025-01-03,Multiple Failed Attempts,90.9,High,Resolved
+5000844,3044848,104716,2025-12-12,Rapid Transactions,81.3,Medium,Resolved
+5000845,3015399,102318,2025-03-20,High-Risk Merchant,83.8,Medium,Resolved
+5000846,3007921,103151,2025-11-15,Unusual Amount,66.5,High,Resolved
+5000847,3046443,104365,2025-01-10,International Activity,85.1,High,Under Review
+5000848,3008654,104691,2025-12-10,International Activity,69.6,High,Resolved
+5000849,3044006,102919,2025-02-21,Multiple Failed Attempts,77.5,High,Resolved
+5000850,3033643,104829,2025-01-08,High-Risk Merchant,64.4,Medium,Resolved
+5000851,3042764,104076,2025-08-10,International Activity,80.1,High,Resolved
+5000852,3024806,103724,2025-11-17,High-Risk Merchant,53.9,Medium,False Positive
+5000853,3025718,101242,2025-01-26,Unusual Amount,63.7,Medium,Under Review
+5000854,3021875,100844,2025-09-02,Multiple Failed Attempts,60.0,Low,False Positive
+5000855,3006862,100549,2025-01-28,Location Anomaly,67.7,High,Resolved
+5000856,3002984,104270,2025-11-17,High-Risk Merchant,35.7,Medium,Open
+5000857,3000864,101988,2025-10-13,Location Anomaly,66.2,Medium,Under Review
+5000858,3012598,100037,2025-05-14,Location Anomaly,41.8,Medium,Resolved
+5000859,3004697,101872,2025-02-27,Multiple Failed Attempts,38.3,Medium,Resolved
+5000860,3042693,103149,2025-12-12,Multiple Failed Attempts,61.4,High,Under Review
+5000861,3035301,100327,2025-06-21,Rapid Transactions,49.1,Low,Resolved
+5000862,3041513,103582,2025-06-04,Rapid Transactions,81.5,High,Resolved
+5000863,3026094,100848,2025-01-11,Location Anomaly,75.0,Low,Resolved
+5000864,3001949,101264,2025-03-23,Location Anomaly,57.2,High,Resolved
+5000865,3039048,100014,2025-01-03,International Activity,100.0,Low,Resolved
+5000866,3042588,100662,2025-12-13,International Activity,65.2,Low,Resolved
+5000867,3010201,102166,2025-01-23,International Activity,82.9,Medium,Resolved
+5000868,3012203,100437,2025-08-08,Location Anomaly,55.9,Low,Open
+5000869,3015688,100874,2025-01-24,Rapid Transactions,57.1,Low,Open
+5000870,3032301,100800,2025-07-17,Rapid Transactions,79.9,Medium,Resolved
+5000871,3037805,100522,2025-03-22,International Activity,59.8,Low,Resolved
+5000872,3011818,101047,2025-07-09,High-Risk Merchant,44.1,Medium,Open
+5000873,3048065,103575,2025-01-20,High-Risk Merchant,49.4,Low,Resolved
+5000874,3033747,102556,2025-02-23,Rapid Transactions,45.5,Low,Open
+5000875,3000555,102293,2025-07-16,Unusual Amount,27.9,High,Under Review
+5000876,3009978,103118,2025-09-30,Location Anomaly,52.1,Low,False Positive
+5000877,3009423,104581,2025-11-08,Unusual Amount,63.4,Medium,Under Review
+5000878,3023303,104899,2025-02-23,International Activity,69.7,High,Resolved
+5000879,3026720,102298,2025-10-13,Unusual Amount,81.6,Low,False Positive
+5000880,3000980,102028,2025-11-07,Location Anomaly,70.9,Medium,Resolved
+5000881,3017868,100338,2025-11-03,Multiple Failed Attempts,49.1,Medium,False Positive
+5000882,3031258,101857,2025-03-31,Rapid Transactions,96.1,High,Under Review
+5000883,3019710,102427,2025-07-13,International Activity,56.0,Low,Resolved
+5000884,3032274,102772,2025-11-28,High-Risk Merchant,100.0,Medium,Open
+5000885,3023517,101335,2025-04-26,Multiple Failed Attempts,93.5,Medium,Resolved
+5000886,3038516,101513,2025-12-23,Location Anomaly,72.0,Medium,Resolved
+5000887,3041346,101576,2025-01-11,Location Anomaly,64.8,Medium,Resolved
+5000888,3017523,103173,2025-03-02,High-Risk Merchant,54.4,High,Resolved
+5000889,3001009,102044,2025-01-16,High-Risk Merchant,100.0,Medium,Open
+5000890,3010337,101104,2025-06-02,High-Risk Merchant,51.7,Low,Under Review
+5000891,3035238,102362,2025-04-09,International Activity,36.8,Low,Under Review
+5000892,3037087,104040,2025-12-14,Multiple Failed Attempts,55.4,Low,Resolved
+5000893,3006357,100474,2025-10-17,High-Risk Merchant,61.8,Medium,Resolved
+5000894,3038854,103214,2025-06-03,International Activity,74.6,High,Resolved
+5000895,3018360,103298,2025-07-07,Unusual Amount,73.2,Medium,Resolved
+5000896,3014705,100736,2025-11-09,Multiple Failed Attempts,47.7,Low,Resolved
+5000897,3046316,101131,2025-06-20,Rapid Transactions,66.9,High,Under Review
+5000898,3035630,101875,2025-06-21,Location Anomaly,79.9,Medium,Under Review
+5000899,3018627,100147,2025-12-04,High-Risk Merchant,37.7,Low,Resolved
+5000900,3030734,104325,2025-03-20,Multiple Failed Attempts,63.4,High,Resolved
+5000901,3037603,101367,2025-05-26,Location Anomaly,93.1,High,Resolved
+5000902,3038947,102356,2025-12-24,Location Anomaly,67.1,Medium,Resolved
+5000903,3040424,103268,2025-05-19,Location Anomaly,77.4,High,Resolved
+5000904,3047989,100196,2025-07-13,International Activity,57.2,High,Open
+5000905,3038369,103770,2025-10-24,Location Anomaly,62.1,Medium,Resolved
+5000906,3048854,101427,2025-05-09,Location Anomaly,51.8,Medium,Resolved
+5000907,3039744,100939,2025-06-06,Unusual Amount,41.6,Medium,Resolved
+5000908,3007098,101647,2025-05-04,Location Anomaly,77.1,Low,Resolved
+5000909,3030917,100259,2025-08-17,Location Anomaly,64.1,Medium,Open
+5000910,3021731,101112,2025-11-22,International Activity,84.2,Medium,Resolved
+5000911,3010126,100599,2025-01-18,Location Anomaly,67.7,Low,Resolved
+5000912,3005023,103718,2025-12-04,Unusual Amount,33.0,Low,Under Review
+5000913,3015938,103399,2025-10-15,Rapid Transactions,57.5,Medium,Open
+5000914,3005208,103624,2025-10-10,International Activity,41.8,Low,Resolved
+5000915,3001618,103151,2025-12-23,Location Anomaly,65.9,Medium,Resolved
+5000916,3036912,104818,2025-10-25,Multiple Failed Attempts,54.0,Medium,Under Review
+5000917,3026459,100786,2025-04-02,High-Risk Merchant,69.8,Low,Open
+5000918,3022203,103477,2025-09-24,Rapid Transactions,71.7,Medium,Open
+5000919,3004256,101639,2025-03-02,High-Risk Merchant,67.2,Medium,Resolved
+5000920,3014196,103255,2025-10-23,Unusual Amount,70.5,High,Under Review
+5000921,3039769,101218,2025-03-12,International Activity,82.8,Medium,False Positive
+5000922,3013467,103165,2025-08-02,High-Risk Merchant,60.0,Medium,Open
+5000923,3043752,103110,2025-02-08,International Activity,82.4,Medium,Open
+5000924,3017572,100375,2025-06-16,Location Anomaly,58.4,High,Resolved
+5000925,3002166,104482,2025-08-29,High-Risk Merchant,67.9,Low,Resolved
+5000926,3017240,101618,2025-08-25,High-Risk Merchant,89.6,Low,Resolved
+5000927,3028641,102385,2025-01-06,Rapid Transactions,59.5,Low,False Positive
+5000928,3047102,104429,2025-12-18,International Activity,54.9,Medium,Resolved
+5000929,3015091,102605,2025-01-31,International Activity,59.9,Low,Resolved
+5000930,3021509,103535,2025-10-02,International Activity,59.6,Medium,Resolved
+5000931,3003454,101159,2025-09-23,Unusual Amount,98.2,High,Resolved
+5000932,3049134,101812,2025-08-11,International Activity,57.0,High,Resolved
+5000933,3040769,101062,2025-08-01,International Activity,67.7,Medium,Resolved
+5000934,3028890,103026,2025-01-28,Rapid Transactions,47.5,Low,Resolved
+5000935,3001079,101506,2025-12-28,Location Anomaly,65.8,High,Resolved
+5000936,3006570,104588,2025-10-18,Unusual Amount,46.1,Critical,Resolved
+5000937,3024651,101009,2025-03-07,Rapid Transactions,65.6,Medium,Under Review
+5000938,3019602,100348,2025-12-18,International Activity,77.7,Low,Resolved
+5000939,3025369,100140,2025-07-03,International Activity,64.7,Low,Resolved
+5000940,3008391,102842,2025-04-01,High-Risk Merchant,70.4,High,Open
+5000941,3020816,103379,2025-12-27,Rapid Transactions,90.0,High,Resolved
+5000942,3016430,104538,2025-11-14,International Activity,43.1,Low,Under Review
+5000943,3047511,104460,2025-05-08,Rapid Transactions,87.4,Medium,False Positive
+5000944,3003794,101021,2025-04-08,International Activity,61.9,Medium,Under Review
+5000945,3031216,100650,2025-02-19,Location Anomaly,65.8,Low,Resolved
+5000946,3019391,104108,2025-10-14,Rapid Transactions,95.2,Medium,False Positive
+5000947,3015499,100882,2025-10-16,Multiple Failed Attempts,72.1,Low,Resolved
+5000948,3039590,101290,2025-07-11,Rapid Transactions,56.9,High,Resolved
+5000949,3013922,100073,2025-11-05,International Activity,68.2,High,Resolved
+5000950,3048560,103762,2025-05-28,Multiple Failed Attempts,93.8,High,Resolved
+5000951,3005834,104604,2025-11-24,Location Anomaly,41.9,High,Resolved
+5000952,3044844,103427,2025-08-22,Multiple Failed Attempts,64.2,Low,False Positive
+5000953,3000408,100137,2025-05-19,International Activity,100.0,Medium,Resolved
+5000954,3028674,101527,2025-10-02,Rapid Transactions,45.5,Low,Resolved
+5000955,3032207,101646,2025-03-02,Rapid Transactions,42.2,High,False Positive
+5000956,3002052,104171,2025-08-03,High-Risk Merchant,77.6,Medium,Resolved
+5000957,3022118,100738,2025-11-21,Unusual Amount,68.2,Medium,Resolved
+5000958,3027415,103785,2025-02-23,Location Anomaly,100.0,Low,Resolved
+5000959,3002257,103901,2025-08-25,International Activity,66.3,Medium,Under Review
+5000960,3041934,101331,2025-06-26,International Activity,86.4,High,False Positive
+5000961,3046898,103688,2025-05-15,Unusual Amount,97.5,Medium,Resolved
+5000962,3034986,103269,2025-05-23,Multiple Failed Attempts,51.2,High,Under Review
+5000963,3014887,100772,2025-09-05,Multiple Failed Attempts,63.7,Low,False Positive
+5000964,3040297,101368,2025-09-03,International Activity,78.0,Critical,Open
+5000965,3049914,103467,2025-07-03,Rapid Transactions,45.0,Low,Resolved
+5000966,3030718,100700,2025-04-17,Rapid Transactions,100.0,Low,Resolved
+5000967,3022854,103930,2025-11-27,Rapid Transactions,37.6,Low,Resolved
+5000968,3009932,102197,2025-11-23,Unusual Amount,100.0,High,False Positive
+5000969,3042278,104697,2025-10-28,International Activity,95.6,Medium,Resolved
+5000970,3007482,103767,2025-07-05,Multiple Failed Attempts,43.6,High,Resolved
+5000971,3020721,101966,2025-08-17,Multiple Failed Attempts,64.7,Medium,Resolved
+5000972,3034008,101037,2025-02-04,Rapid Transactions,32.2,Critical,Resolved
+5000973,3009988,101439,2025-04-30,Unusual Amount,45.9,Medium,Resolved
+5000974,3032646,101860,2025-12-08,Unusual Amount,74.4,Medium,Resolved
+5000975,3036582,103028,2025-06-07,High-Risk Merchant,96.5,Medium,Under Review
+5000976,3017698,100137,2025-06-02,High-Risk Merchant,71.9,Low,Resolved
+5000977,3048325,101527,2025-09-21,Multiple Failed Attempts,26.4,Low,Resolved
+5000978,3042465,101697,2025-07-13,International Activity,57.7,Low,Resolved
+5000979,3042051,104049,2025-09-22,Rapid Transactions,87.7,Medium,Resolved
+5000980,3008285,103143,2025-04-22,Unusual Amount,91.4,Medium,Resolved
+5000981,3039592,101143,2025-02-15,Multiple Failed Attempts,58.6,High,Resolved
+5000982,3021637,103351,2025-07-23,Location Anomaly,76.6,Medium,Resolved
+5000983,3008854,103736,2025-10-17,High-Risk Merchant,78.8,Medium,Resolved
+5000984,3021259,104801,2025-05-04,Location Anomaly,64.0,Medium,Resolved
+5000985,3047516,103267,2025-07-25,International Activity,57.5,High,Resolved
+5000986,3004627,103876,2025-04-25,Multiple Failed Attempts,87.5,Low,Resolved
+5000987,3040725,102694,2025-07-07,High-Risk Merchant,67.1,Medium,Open
+5000988,3009515,102776,2025-09-24,Unusual Amount,72.8,Low,False Positive
+5000989,3047396,101890,2025-11-11,Location Anomaly,82.3,Low,Resolved
+5000990,3014080,102298,2025-10-03,Location Anomaly,30.5,Medium,Resolved
+5000991,3036730,104481,2025-03-03,Multiple Failed Attempts,46.8,High,Resolved
+5000992,3047634,102777,2025-04-26,Unusual Amount,48.0,Medium,Resolved
+5000993,3022403,101922,2025-03-15,Multiple Failed Attempts,57.1,Medium,Resolved
+5000994,3041266,102361,2025-01-02,Unusual Amount,84.0,Medium,False Positive
+5000995,3010624,101362,2025-03-26,Rapid Transactions,78.0,High,Under Review
+5000996,3041578,104924,2025-05-19,Location Anomaly,76.2,High,Resolved
+5000997,3044370,103165,2025-11-11,High-Risk Merchant,83.5,High,Under Review
+5000998,3035742,102597,2025-12-24,High-Risk Merchant,89.6,Low,Under Review
+5000999,3040307,102459,2025-04-30,Rapid Transactions,66.8,Critical,Open
+5001000,3044917,102097,2025-09-06,International Activity,96.7,Low,Resolved
+5001001,3030502,103194,2025-10-02,Rapid Transactions,96.7,Low,Resolved
+5001002,3008428,104275,2025-10-17,Rapid Transactions,52.6,Low,Resolved
+5001003,3032779,104350,2025-03-01,High-Risk Merchant,61.7,Medium,Under Review
+5001004,3012744,102896,2025-01-30,High-Risk Merchant,55.0,Medium,Resolved
+5001005,3005652,100652,2025-09-28,High-Risk Merchant,78.8,Low,Open
+5001006,3010270,101354,2025-11-11,Multiple Failed Attempts,84.1,Low,Open
+5001007,3019727,103703,2025-02-12,Rapid Transactions,81.7,High,Resolved
+5001008,3028879,104856,2025-12-28,High-Risk Merchant,70.8,Medium,Resolved
+5001009,3028916,102116,2025-11-05,Location Anomaly,100.0,High,Under Review
+5001010,3022128,100421,2025-03-26,Rapid Transactions,35.0,Medium,Under Review
+5001011,3037599,101576,2025-06-29,Unusual Amount,65.5,Low,Resolved
+5001012,3016117,101428,2025-08-01,Unusual Amount,72.1,Low,Resolved
+5001013,3032014,100618,2025-02-23,International Activity,52.3,Low,Resolved
+5001014,3000162,104149,2025-09-09,High-Risk Merchant,45.8,High,Resolved
+5001015,3008800,103287,2025-12-09,Multiple Failed Attempts,100.0,High,Resolved
+5001016,3049884,101524,2025-10-19,Unusual Amount,75.5,Medium,Resolved
+5001017,3011440,104317,2025-08-23,International Activity,69.4,Critical,Under Review
+5001018,3016232,101867,2025-01-17,Location Anomaly,84.2,Low,Open
+5001019,3013723,103837,2025-12-06,International Activity,57.9,Low,Open
+5001020,3011331,101083,2025-09-22,Multiple Failed Attempts,49.5,Medium,Resolved
+5001021,3010437,104148,2025-03-31,Rapid Transactions,72.3,Critical,Resolved
+5001022,3007817,102723,2025-11-12,High-Risk Merchant,54.4,Medium,Resolved
+5001023,3007937,103139,2025-02-06,High-Risk Merchant,64.6,Medium,Under Review
+5001024,3009284,102363,2025-08-10,High-Risk Merchant,49.6,Low,Open
+5001025,3001208,100539,2025-09-11,Multiple Failed Attempts,79.3,Medium,Under Review
+5001026,3030973,103774,2025-12-19,Multiple Failed Attempts,81.2,High,Resolved
+5001027,3012457,102612,2025-12-28,Multiple Failed Attempts,74.6,Medium,Resolved
+5001028,3017495,103078,2025-05-02,International Activity,62.0,Medium,Open
+5001029,3013082,101660,2025-02-19,Rapid Transactions,57.8,Low,Open
+5001030,3015923,103707,2025-07-02,High-Risk Merchant,36.6,High,False Positive
+5001031,3045806,101989,2025-09-13,International Activity,94.1,High,Resolved
+5001032,3042622,104407,2025-02-23,Location Anomaly,60.7,Medium,False Positive
+5001033,3015388,103239,2025-07-07,Location Anomaly,72.3,Medium,Resolved
+5001034,3021713,104035,2025-10-27,International Activity,52.1,Low,False Positive
+5001035,3031133,102160,2025-03-19,Multiple Failed Attempts,71.3,Medium,Under Review
+5001036,3040157,103167,2025-08-07,International Activity,79.2,Low,Open
+5001037,3014138,104419,2025-02-18,Rapid Transactions,74.4,Medium,False Positive
+5001038,3041123,101179,2025-10-10,Multiple Failed Attempts,61.8,Critical,Resolved
+5001039,3009853,104695,2025-04-21,High-Risk Merchant,59.8,Low,Resolved
+5001040,3034107,104314,2025-02-14,High-Risk Merchant,94.5,Medium,Resolved
+5001041,3009452,102228,2025-01-04,Location Anomaly,86.3,Medium,Resolved
+5001042,3000015,101011,2025-06-16,High-Risk Merchant,70.1,Medium,Under Review
+5001043,3000439,100766,2025-07-04,Location Anomaly,45.0,High,Resolved
+5001044,3019828,103420,2025-03-12,High-Risk Merchant,49.5,Low,Resolved
+5001045,3028841,102189,2025-08-01,International Activity,74.1,Medium,Under Review
+5001046,3001613,103118,2025-11-10,Location Anomaly,82.0,Low,False Positive
+5001047,3022631,100851,2025-05-14,International Activity,40.5,Medium,Open
+5001048,3009146,103439,2025-02-24,High-Risk Merchant,49.3,Critical,False Positive
+5001049,3035564,102306,2025-03-29,International Activity,68.5,Medium,Resolved
+5001050,3043789,100880,2025-08-08,Rapid Transactions,50.5,High,Under Review
+5001051,3002377,104959,2025-11-28,International Activity,60.4,Medium,Resolved
+5001052,3030944,104445,2025-07-16,Location Anomaly,56.9,Critical,Resolved
+5001053,3039879,104054,2025-08-09,Unusual Amount,77.6,High,Resolved
+5001054,3033278,100452,2025-12-29,Multiple Failed Attempts,100.0,Medium,Open
+5001055,3008792,100040,2025-08-14,Rapid Transactions,78.4,Low,Open
+5001056,3018575,102929,2025-05-29,Multiple Failed Attempts,86.4,Low,Resolved
+5001057,3038693,100576,2025-05-28,Location Anomaly,65.1,Critical,False Positive
+5001058,3025749,100506,2025-12-25,Rapid Transactions,65.5,High,Resolved
+5001059,3026688,101570,2025-05-10,Location Anomaly,54.6,High,Under Review
+5001060,3022587,104425,2025-07-18,Location Anomaly,53.6,Low,Resolved
+5001061,3031289,103600,2025-11-11,High-Risk Merchant,78.1,Medium,Resolved
+5001062,3037841,104822,2025-06-01,High-Risk Merchant,54.9,High,Open
+5001063,3046939,101451,2025-06-11,High-Risk Merchant,76.1,Medium,False Positive
+5001064,3024764,104892,2025-02-23,International Activity,71.7,Medium,Resolved
+5001065,3036342,100906,2025-07-05,High-Risk Merchant,100.0,Medium,Under Review
+5001066,3002011,100020,2025-07-02,International Activity,51.9,Medium,Open
+5001067,3014793,102687,2025-03-02,Multiple Failed Attempts,96.5,Low,Resolved
+5001068,3009803,102671,2025-11-21,Multiple Failed Attempts,46.0,Low,Open
+5001069,3036898,103390,2025-10-19,Unusual Amount,89.7,Low,Resolved
+5001070,3014091,104963,2025-02-02,International Activity,30.0,Medium,Under Review
+5001071,3021433,103383,2025-10-08,Multiple Failed Attempts,12.1,Medium,Open
+5001072,3008086,102556,2025-07-16,International Activity,39.4,Medium,Open
+5001073,3029237,103073,2025-08-04,Location Anomaly,58.7,High,Resolved
+5001074,3032274,101033,2025-12-29,High-Risk Merchant,52.2,Medium,Under Review
+5001075,3024596,102712,2025-04-01,Rapid Transactions,61.3,Low,Under Review
+5001076,3040978,103207,2025-04-15,Multiple Failed Attempts,83.0,High,Open
+5001077,3026577,103070,2025-12-19,Unusual Amount,81.4,Medium,Resolved
+5001078,3046957,103210,2025-04-18,Multiple Failed Attempts,70.3,High,Under Review
+5001079,3037241,100366,2025-01-25,Multiple Failed Attempts,96.7,Low,Resolved
+5001080,3032372,101441,2025-04-09,High-Risk Merchant,54.4,Critical,Under Review
+5001081,3040496,100430,2025-05-16,Multiple Failed Attempts,64.9,Medium,False Positive
+5001082,3044790,102024,2025-06-09,Unusual Amount,60.1,Medium,Resolved
+5001083,3022281,104268,2025-10-11,Unusual Amount,63.7,High,Resolved
+5001084,3037545,104831,2025-07-23,High-Risk Merchant,48.9,High,Resolved
+5001085,3001874,100937,2025-04-02,Unusual Amount,80.1,Low,Resolved
+5001086,3012774,102989,2025-11-18,International Activity,69.2,Critical,Under Review
+5001087,3042985,102643,2025-01-20,Unusual Amount,76.8,Critical,False Positive
+5001088,3019174,103324,2025-11-10,Rapid Transactions,79.4,Medium,Resolved
+5001089,3042181,103826,2025-09-29,Location Anomaly,70.2,Low,Under Review
+5001090,3000299,102572,2025-08-25,Unusual Amount,100.0,Low,False Positive
+5001091,3036120,100420,2025-10-29,Location Anomaly,62.3,Low,Resolved
+5001092,3003831,104726,2025-09-17,Rapid Transactions,100.0,High,Resolved
+5001093,3026392,104458,2025-12-21,High-Risk Merchant,45.8,High,Under Review
+5001094,3033474,100938,2025-12-30,Location Anomaly,72.1,Critical,Resolved
+5001095,3042325,104418,2025-09-12,High-Risk Merchant,100.0,Medium,Resolved
+5001096,3040099,103776,2025-03-27,High-Risk Merchant,83.8,Low,Resolved
+5001097,3004736,102058,2025-09-25,International Activity,49.9,Medium,Resolved
+5001098,3033449,101811,2025-11-19,International Activity,90.3,Low,Resolved
+5001099,3037112,103863,2025-01-04,High-Risk Merchant,61.8,Low,False Positive
+5001100,3041602,101980,2025-06-22,Unusual Amount,83.8,Medium,Resolved
+5001101,3017453,102247,2025-08-12,International Activity,30.3,Critical,Resolved
+5001102,3015813,100047,2025-12-31,Rapid Transactions,59.6,Medium,Resolved
+5001103,3025194,101242,2025-05-17,International Activity,97.7,Critical,Resolved
+5001104,3017241,102809,2025-01-30,Location Anomaly,69.5,Medium,Open
+5001105,3009402,101666,2025-11-02,Multiple Failed Attempts,49.8,High,Under Review
+5001106,3021490,102538,2025-06-30,Multiple Failed Attempts,82.2,Critical,Resolved
+5001107,3026937,104585,2025-07-16,Unusual Amount,49.1,Medium,Resolved
+5001108,3018086,100412,2025-07-12,Multiple Failed Attempts,75.3,Medium,Resolved
+5001109,3026388,101155,2025-02-23,International Activity,59.1,Low,Resolved
+5001110,3036980,103093,2025-01-30,Location Anomaly,65.8,Medium,Under Review
+5001111,3042683,103828,2025-08-09,High-Risk Merchant,71.7,Critical,Resolved
+5001112,3040332,100559,2025-12-23,Location Anomaly,69.7,Low,Resolved
+5001113,3015847,101544,2025-05-24,Unusual Amount,82.4,Low,False Positive
+5001114,3005837,103162,2025-10-27,High-Risk Merchant,43.0,High,False Positive
+5001115,3043070,101629,2025-06-24,International Activity,41.0,Low,Under Review
+5001116,3044610,100532,2025-02-04,Unusual Amount,70.9,Medium,Under Review
+5001117,3040042,103845,2025-08-18,International Activity,74.0,Low,Resolved
+5001118,3031209,104579,2025-12-06,High-Risk Merchant,81.2,Medium,Resolved
+5001119,3040794,101933,2025-07-19,International Activity,54.3,Medium,Resolved
+5001120,3041930,100653,2025-11-27,High-Risk Merchant,62.2,High,Resolved
+5001121,3016563,102241,2025-12-30,Location Anomaly,80.5,High,Under Review
+5001122,3009942,102878,2025-03-12,International Activity,74.9,Medium,Open
+5001123,3043173,101477,2025-11-05,Location Anomaly,46.9,Low,Resolved
+5001124,3002746,100429,2025-11-18,Location Anomaly,19.0,Medium,False Positive
+5001125,3046121,100813,2025-06-14,Multiple Failed Attempts,61.2,Medium,Resolved
+5001126,3026387,103239,2025-01-01,Multiple Failed Attempts,43.3,Low,Under Review
+5001127,3007006,102485,2025-06-07,Multiple Failed Attempts,58.6,Low,Resolved
+5001128,3040565,102858,2025-10-21,Location Anomaly,89.5,Medium,Resolved
+5001129,3037254,104259,2025-01-28,High-Risk Merchant,88.1,Low,Resolved
+5001130,3002385,101509,2025-04-23,Unusual Amount,67.7,Medium,Under Review
+5001131,3013178,102589,2025-09-02,High-Risk Merchant,63.4,Critical,Resolved
+5001132,3004217,104852,2025-03-29,High-Risk Merchant,52.8,Medium,False Positive
+5001133,3019640,101226,2025-06-02,Multiple Failed Attempts,56.0,Medium,Open
+5001134,3021472,101768,2025-03-29,Location Anomaly,85.5,Low,False Positive
+5001135,3028533,100881,2025-05-20,International Activity,44.7,High,Resolved
+5001136,3018554,104540,2025-02-24,Multiple Failed Attempts,74.3,Medium,Resolved
+5001137,3030726,104383,2025-05-17,International Activity,87.3,Medium,Resolved
+5001138,3028428,102299,2025-08-30,International Activity,44.8,Medium,Resolved
+5001139,3015549,101392,2025-01-21,Rapid Transactions,66.7,High,Resolved
+5001140,3030560,100930,2025-07-29,International Activity,65.0,Low,Resolved
+5001141,3017947,100140,2025-05-27,High-Risk Merchant,50.0,Medium,Under Review
+5001142,3031513,103721,2025-05-18,Multiple Failed Attempts,64.2,High,Resolved
+5001143,3009761,101571,2025-01-19,International Activity,87.8,Medium,Resolved
+5001144,3044541,102023,2025-01-15,Multiple Failed Attempts,67.1,Critical,Resolved
+5001145,3045923,103948,2025-10-27,Location Anomaly,47.3,Low,Resolved
+5001146,3032626,101711,2025-06-25,Unusual Amount,76.3,Medium,Open
+5001147,3040890,101673,2025-11-21,International Activity,73.7,Low,False Positive
+5001148,3024329,101090,2025-12-05,Multiple Failed Attempts,67.8,High,Resolved
+5001149,3019883,100910,2025-12-10,Multiple Failed Attempts,29.8,Medium,Open
+5001150,3019166,100513,2025-09-02,International Activity,65.0,Medium,Resolved
+5001151,3011359,103512,2025-07-22,Unusual Amount,64.3,Medium,Resolved
+5001152,3019798,103965,2025-12-18,International Activity,76.1,Medium,Resolved
+5001153,3019479,100669,2025-04-23,Rapid Transactions,70.7,High,Resolved
+5001154,3040478,102262,2025-01-04,Location Anomaly,79.3,Medium,Resolved
+5001155,3044126,102475,2025-07-12,Rapid Transactions,59.0,Medium,Resolved
+5001156,3029839,100478,2025-11-16,International Activity,49.7,Low,Resolved
+5001157,3024595,103722,2025-10-27,Rapid Transactions,98.1,Medium,Resolved
+5001158,3049760,102180,2025-11-23,Rapid Transactions,34.1,Low,Under Review
+5001159,3021566,104054,2025-07-10,International Activity,63.8,Medium,Resolved
+5001160,3040983,104653,2025-11-15,Rapid Transactions,85.5,Medium,False Positive
+5001161,3039884,101085,2025-03-20,Multiple Failed Attempts,28.1,Low,Resolved
+5001162,3010932,102193,2025-10-29,Rapid Transactions,65.3,High,Resolved
+5001163,3024914,102275,2025-01-30,Unusual Amount,79.8,Low,Under Review
+5001164,3031089,103246,2025-01-10,Location Anomaly,85.2,High,False Positive
+5001165,3024843,101960,2025-10-03,Multiple Failed Attempts,50.7,Low,Resolved
+5001166,3013919,100495,2025-10-02,Location Anomaly,71.2,Low,Resolved
+5001167,3012992,102094,2025-05-05,Multiple Failed Attempts,76.3,Medium,Resolved
+5001168,3003249,103842,2025-07-30,Location Anomaly,46.6,High,False Positive
+5001169,3030231,103490,2025-03-08,Unusual Amount,95.2,Medium,Under Review
+5001170,3048583,101312,2025-02-12,Rapid Transactions,38.7,Low,Resolved
+5001171,3045686,104001,2025-07-09,International Activity,88.6,Low,Under Review
+5001172,3028786,102288,2025-11-06,Location Anomaly,76.1,Medium,Under Review
+5001173,3046917,101009,2025-08-25,High-Risk Merchant,72.1,Low,Under Review
+5001174,3041186,103778,2025-08-19,Rapid Transactions,51.3,Medium,Resolved
+5001175,3025440,103366,2025-01-09,High-Risk Merchant,64.7,High,Resolved
+5001176,3011031,102891,2025-10-20,High-Risk Merchant,51.7,Low,Resolved
+5001177,3026341,102548,2025-02-09,Location Anomaly,49.7,Medium,Resolved
+5001178,3033515,101136,2025-11-08,Unusual Amount,78.1,Medium,Resolved
+5001179,3009951,103258,2025-03-12,International Activity,58.1,High,False Positive
+5001180,3017540,102727,2025-06-04,International Activity,81.1,High,Resolved
+5001181,3001135,104779,2025-02-26,Location Anomaly,75.8,Low,Under Review
+5001182,3028884,104108,2025-09-05,Multiple Failed Attempts,74.8,Critical,Under Review
+5001183,3015135,100482,2025-04-08,Rapid Transactions,86.5,Low,Under Review
+5001184,3040087,104995,2025-11-02,Location Anomaly,82.8,High,Open
+5001185,3027914,100428,2025-04-03,Location Anomaly,47.4,Medium,Resolved
+5001186,3048500,103159,2025-01-23,Rapid Transactions,67.0,Low,Open
+5001187,3005778,103595,2025-06-24,Location Anomaly,62.0,Critical,Resolved
+5001188,3024791,102724,2025-01-13,Unusual Amount,53.6,Medium,Resolved
+5001189,3048905,100650,2025-11-26,International Activity,45.8,Low,Resolved
+5001190,3046697,102767,2025-05-16,International Activity,59.2,Low,Resolved
+5001191,3000700,101485,2025-03-17,Location Anomaly,90.6,Medium,Resolved
+5001192,3046032,104141,2025-03-29,Unusual Amount,67.8,Low,Resolved
+5001193,3009051,100296,2025-07-13,Multiple Failed Attempts,56.3,Low,Resolved
+5001194,3009457,104878,2025-01-12,Unusual Amount,84.7,Low,Resolved
+5001195,3010882,100842,2025-06-02,International Activity,89.1,Medium,Resolved
+5001196,3022227,101532,2025-04-14,Unusual Amount,71.3,Medium,Resolved
+5001197,3005315,103156,2025-01-23,Location Anomaly,82.3,High,Resolved
+5001198,3036712,102592,2025-03-28,Rapid Transactions,43.2,Low,Open
+5001199,3045342,104636,2025-03-05,High-Risk Merchant,48.5,Medium,Resolved
+5001200,3021793,100714,2025-05-06,International Activity,60.1,Low,Resolved
+5001201,3004913,101963,2025-08-06,Multiple Failed Attempts,61.7,Medium,Open
+5001202,3049555,102914,2025-09-12,Location Anomaly,37.4,High,Under Review
+5001203,3037241,101596,2025-09-26,Unusual Amount,78.4,Medium,Resolved
+5001204,3040573,103191,2025-08-12,International Activity,64.0,Medium,Open
+5001205,3022522,100200,2025-06-22,High-Risk Merchant,24.0,Low,Resolved
+5001206,3048526,102876,2025-05-20,International Activity,77.1,Medium,Resolved
+5001207,3049005,103891,2025-11-16,International Activity,79.6,Medium,Resolved
+5001208,3021300,102506,2025-11-30,International Activity,96.5,Medium,False Positive
+5001209,3036305,100632,2025-10-18,High-Risk Merchant,79.7,Low,Resolved
+5001210,3008482,101281,2025-10-07,Multiple Failed Attempts,68.9,Medium,Resolved
+5001211,3026962,101233,2025-03-21,International Activity,69.1,Low,Open
+5001212,3029641,100678,2025-12-06,Location Anomaly,73.1,Medium,Under Review
+5001213,3005877,102476,2025-05-05,International Activity,74.0,Low,Under Review
+5001214,3018241,103883,2025-10-19,High-Risk Merchant,38.2,Medium,Resolved
+5001215,3043985,102914,2025-11-01,High-Risk Merchant,60.1,Low,Resolved
+5001216,3029928,100303,2025-01-09,Location Anomaly,66.2,Low,Resolved
+5001217,3019722,101905,2025-01-22,International Activity,72.6,High,Under Review
+5001218,3009140,103257,2025-01-02,High-Risk Merchant,76.2,Medium,Open
+5001219,3046873,101946,2025-12-04,Multiple Failed Attempts,80.0,Critical,Resolved
+5001220,3048437,100718,2025-01-21,Multiple Failed Attempts,100.0,Medium,Resolved
+5001221,3028891,101328,2025-06-21,Multiple Failed Attempts,86.6,Low,Under Review
+5001222,3026823,104525,2025-05-17,High-Risk Merchant,43.1,Critical,Resolved
+5001223,3018413,102137,2025-06-22,Unusual Amount,99.8,Medium,False Positive
+5001224,3017098,102901,2025-05-27,Unusual Amount,50.6,High,Open
+5001225,3036222,103857,2025-03-27,Unusual Amount,95.7,Low,Resolved
+5001226,3000239,101642,2025-07-22,International Activity,65.7,Medium,Resolved
+5001227,3046558,103271,2025-02-06,International Activity,30.7,Medium,Resolved
+5001228,3002662,103596,2025-12-28,Location Anomaly,68.7,Medium,Open
+5001229,3034813,104471,2025-03-23,International Activity,74.2,High,Open
+5001230,3011500,101647,2025-09-07,High-Risk Merchant,56.5,Medium,Resolved
+5001231,3025948,102035,2025-06-19,High-Risk Merchant,66.6,Medium,Resolved
+5001232,3040168,100099,2025-03-19,International Activity,72.6,Low,Resolved
+5001233,3040306,103012,2025-02-12,Multiple Failed Attempts,90.7,Medium,Resolved
+5001234,3017689,104279,2025-04-03,Location Anomaly,67.0,Low,Resolved
+5001235,3026114,104627,2025-09-25,Multiple Failed Attempts,50.4,Medium,Open
+5001236,3004179,103410,2025-05-23,Multiple Failed Attempts,47.3,Medium,Resolved
+5001237,3037694,102017,2025-05-20,Multiple Failed Attempts,70.1,High,Resolved
+5001238,3022645,104882,2025-03-16,High-Risk Merchant,59.0,Medium,Resolved
+5001239,3012292,103886,2025-03-30,Multiple Failed Attempts,46.8,Medium,Resolved
+5001240,3025993,102174,2025-08-21,Location Anomaly,86.0,Medium,Under Review
+5001241,3042435,103634,2025-11-14,International Activity,98.3,Critical,Open
+5001242,3009344,103350,2025-06-18,Unusual Amount,93.6,High,Open
+5001243,3031253,101302,2025-02-06,Unusual Amount,85.3,Low,Resolved
+5001244,3048849,104548,2025-01-14,International Activity,57.8,Medium,Resolved
+5001245,3004980,101080,2025-06-05,International Activity,57.1,Low,Resolved
+5001246,3044479,101852,2025-04-20,Multiple Failed Attempts,100.0,Medium,Open
+5001247,3033026,103129,2025-02-03,International Activity,55.2,Low,Open
+5001248,3048122,100992,2025-09-03,Location Anomaly,58.7,Medium,Under Review
+5001249,3024582,102460,2025-09-16,Rapid Transactions,79.5,Medium,Resolved
+5001250,3011993,101908,2025-11-10,High-Risk Merchant,46.6,Medium,Resolved
+5001251,3001399,100055,2025-06-08,Location Anomaly,54.8,High,Under Review
+5001252,3019284,103425,2025-02-15,Rapid Transactions,56.5,Critical,Resolved
+5001253,3002939,102893,2025-08-10,International Activity,24.7,Low,Under Review
+5001254,3016370,101701,2025-11-01,Rapid Transactions,81.3,Medium,False Positive
+5001255,3029468,100070,2025-12-13,Location Anomaly,93.5,Medium,Resolved
+5001256,3002602,101221,2025-12-03,Unusual Amount,80.5,High,Resolved
+5001257,3042893,104621,2025-10-07,High-Risk Merchant,53.9,Low,Under Review
+5001258,3034782,103826,2025-11-18,Unusual Amount,79.7,Medium,Resolved
+5001259,3022334,102039,2025-11-15,High-Risk Merchant,76.6,Medium,Open
+5001260,3035918,103700,2025-09-23,International Activity,61.0,Low,Resolved
+5001261,3003820,101822,2025-10-06,Multiple Failed Attempts,77.8,Medium,Resolved
+5001262,3004816,100305,2025-01-17,Multiple Failed Attempts,61.1,High,Open
+5001263,3022590,101666,2025-09-02,Location Anomaly,55.8,Low,Under Review
+5001264,3045259,104090,2025-08-06,Multiple Failed Attempts,43.2,Low,Under Review
+5001265,3006284,101278,2025-10-25,International Activity,57.4,Medium,Under Review
+5001266,3026932,101102,2025-03-12,Unusual Amount,45.0,Low,Resolved
+5001267,3011002,104766,2025-10-20,High-Risk Merchant,20.3,Low,Resolved
+5001268,3033524,103019,2025-06-06,Multiple Failed Attempts,53.3,Low,Resolved
+5001269,3016223,103463,2025-04-29,Location Anomaly,72.3,Low,Under Review
+5001270,3004731,103429,2025-11-26,Unusual Amount,51.0,Medium,False Positive
+5001271,3048125,102550,2025-07-26,International Activity,96.2,Medium,Under Review
+5001272,3039999,102777,2025-10-31,Location Anomaly,87.0,High,Resolved
+5001273,3034105,102547,2025-11-14,High-Risk Merchant,60.7,Low,Resolved
+5001274,3024344,100433,2025-10-10,Rapid Transactions,66.0,Medium,Under Review
+5001275,3041284,102353,2025-06-19,Rapid Transactions,64.6,High,Resolved
+5001276,3046951,102872,2025-08-23,Multiple Failed Attempts,67.9,Low,Under Review
+5001277,3037682,104704,2025-02-09,Rapid Transactions,100.0,Medium,Under Review
+5001278,3007648,104858,2025-06-04,Location Anomaly,63.3,Medium,Resolved
+5001279,3019023,100855,2025-03-15,High-Risk Merchant,97.6,Medium,Under Review
+5001280,3037046,104865,2025-01-27,Location Anomaly,62.3,Medium,Resolved
+5001281,3036987,104797,2025-02-15,Unusual Amount,43.4,Medium,False Positive
+5001282,3033834,104909,2025-02-05,Rapid Transactions,77.5,Low,Resolved
+5001283,3007525,101371,2025-05-03,Unusual Amount,59.1,Low,Resolved
+5001284,3047155,104959,2025-06-30,High-Risk Merchant,65.2,Medium,Resolved
+5001285,3043819,100532,2025-01-04,Location Anomaly,73.1,Medium,False Positive
+5001286,3022968,103760,2025-01-12,Multiple Failed Attempts,81.7,Low,Under Review
+5001287,3012498,103916,2025-12-23,Rapid Transactions,26.0,Low,Resolved
+5001288,3009077,103556,2025-10-02,Location Anomaly,49.4,High,False Positive
+5001289,3024372,104108,2025-05-24,International Activity,92.0,Medium,Under Review
+5001290,3031373,103054,2025-03-03,International Activity,70.9,Low,Open
+5001291,3035789,102147,2025-08-31,Rapid Transactions,34.2,High,Resolved
+5001292,3042406,100117,2025-09-28,Multiple Failed Attempts,58.8,Low,Resolved
+5001293,3040855,104418,2025-02-12,International Activity,43.8,High,Open
+5001294,3024912,102868,2025-03-12,High-Risk Merchant,59.3,Low,Resolved
+5001295,3036159,103785,2025-12-18,Multiple Failed Attempts,49.0,Low,Resolved
+5001296,3024560,101426,2025-10-31,Multiple Failed Attempts,63.3,Medium,Resolved
+5001297,3028764,104500,2025-10-06,Rapid Transactions,100.0,Medium,False Positive
+5001298,3030046,104193,2025-12-27,Unusual Amount,56.9,Medium,Resolved
+5001299,3005429,103366,2025-12-28,Location Anomaly,65.6,Low,Resolved
+5001300,3037606,100079,2025-11-07,Location Anomaly,87.0,Low,Resolved
+5001301,3033715,101098,2025-07-12,Multiple Failed Attempts,91.5,Medium,Resolved
+5001302,3018790,101888,2025-12-27,Unusual Amount,76.3,Medium,Resolved
+5001303,3017033,102027,2025-06-17,International Activity,58.6,Critical,Under Review
+5001304,3047484,101396,2025-12-09,International Activity,67.2,Medium,Resolved
+5001305,3009035,103810,2025-10-18,Unusual Amount,62.2,Medium,Open
+5001306,3047794,104952,2025-11-08,High-Risk Merchant,48.8,Medium,Resolved
+5001307,3047903,101928,2025-01-12,Multiple Failed Attempts,76.2,Low,Resolved
+5001308,3035443,103087,2025-06-29,Unusual Amount,85.7,Medium,Resolved
+5001309,3003962,104143,2025-10-13,High-Risk Merchant,66.1,Low,Resolved
+5001310,3043539,102614,2025-04-25,Rapid Transactions,88.2,Medium,Resolved
+5001311,3020646,104116,2025-04-11,Unusual Amount,56.5,Medium,Resolved
+5001312,3041305,103969,2025-02-15,Multiple Failed Attempts,52.1,Medium,Resolved
+5001313,3044714,101535,2025-07-03,Location Anomaly,68.3,Low,Resolved
+5001314,3036363,100191,2025-08-20,Location Anomaly,66.5,Medium,Resolved
+5001315,3036368,102485,2025-09-06,Location Anomaly,65.8,Medium,Resolved
+5001316,3030941,103814,2025-11-27,International Activity,40.0,Low,Under Review
+5001317,3009063,104383,2025-02-13,International Activity,71.3,Medium,Resolved
+5001318,3040415,104426,2025-11-24,Rapid Transactions,70.9,Low,Resolved
+5001319,3000861,103388,2025-11-22,International Activity,46.0,High,False Positive
+5001320,3028929,104702,2025-05-24,International Activity,47.3,Medium,Resolved
+5001321,3048829,102356,2025-05-25,Unusual Amount,75.9,Medium,Resolved
+5001322,3048118,103850,2025-05-16,Multiple Failed Attempts,92.2,Low,Open
+5001323,3012087,104570,2025-09-25,International Activity,50.9,Medium,Resolved
+5001324,3009864,104696,2025-06-27,International Activity,56.0,Medium,Resolved
+5001325,3032189,104697,2025-04-02,High-Risk Merchant,54.2,High,Under Review
+5001326,3000541,104596,2025-07-25,Rapid Transactions,64.9,Low,False Positive
+5001327,3028262,104604,2025-03-22,Rapid Transactions,87.0,Low,Open
+5001328,3037841,101496,2025-10-28,High-Risk Merchant,86.6,Medium,Resolved
+5001329,3002837,103493,2025-08-09,International Activity,25.2,Medium,Open
+5001330,3022124,104827,2025-08-08,International Activity,59.6,Low,False Positive
+5001331,3007082,101041,2025-12-03,International Activity,77.2,High,Resolved
+5001332,3018081,104483,2025-06-26,Location Anomaly,48.5,Low,Resolved
+5001333,3009649,102970,2025-02-10,High-Risk Merchant,57.2,Critical,Resolved
+5001334,3028359,102291,2025-10-29,Multiple Failed Attempts,86.7,Low,Under Review
+5001335,3008831,103308,2025-03-07,Multiple Failed Attempts,55.9,High,Open
+5001336,3016475,104272,2025-01-01,Rapid Transactions,54.1,Low,Resolved
+5001337,3037723,104891,2025-11-22,Unusual Amount,35.8,High,False Positive
+5001338,3021080,101072,2025-06-03,Multiple Failed Attempts,75.7,Medium,Under Review
+5001339,3026911,102228,2025-01-14,Multiple Failed Attempts,71.9,Low,Resolved
+5001340,3024262,101339,2025-07-28,Rapid Transactions,46.3,Medium,Resolved
+5001341,3034005,104363,2025-04-17,High-Risk Merchant,91.7,Medium,Resolved
+5001342,3023979,100103,2025-04-15,Rapid Transactions,81.1,High,Resolved
+5001343,3004957,102214,2025-10-23,High-Risk Merchant,88.5,Medium,Under Review
+5001344,3005419,103787,2025-06-01,High-Risk Merchant,58.8,High,Open
+5001345,3022781,104144,2025-01-18,Rapid Transactions,78.1,Medium,Under Review
+5001346,3041561,103507,2025-12-12,High-Risk Merchant,76.7,Low,Resolved
+5001347,3028266,103423,2025-06-18,International Activity,56.5,Medium,Resolved
+5001348,3021834,102131,2025-08-09,International Activity,75.6,Medium,Under Review
+5001349,3013429,100507,2025-08-24,Location Anomaly,45.2,Low,False Positive
+5001350,3036843,103149,2025-05-31,International Activity,66.8,Low,Open
+5001351,3003910,102665,2025-07-21,Location Anomaly,81.1,Medium,Open
+5001352,3007146,103801,2025-04-12,Unusual Amount,78.9,Medium,Open
+5001353,3049932,100110,2025-12-17,International Activity,44.7,High,Resolved
+5001354,3033887,101145,2025-02-03,International Activity,50.0,Medium,Open
+5001355,3031919,102557,2025-08-01,High-Risk Merchant,75.2,High,Under Review
+5001356,3047167,101856,2025-10-17,Unusual Amount,83.6,High,Resolved
+5001357,3021013,104003,2025-09-12,International Activity,78.8,Medium,Resolved
+5001358,3042431,104092,2025-08-14,International Activity,61.1,Medium,Resolved
+5001359,3001311,103613,2025-02-08,Unusual Amount,65.7,Medium,Resolved
+5001360,3037359,104679,2025-04-03,Unusual Amount,50.0,High,Under Review
+5001361,3045939,100558,2025-06-12,Multiple Failed Attempts,74.4,Low,Resolved
+5001362,3021430,103963,2025-02-15,Unusual Amount,60.1,Medium,Under Review
+5001363,3018512,102390,2025-04-17,Unusual Amount,41.2,Critical,Resolved
+5001364,3003329,101334,2025-07-06,Rapid Transactions,42.8,Medium,Resolved
+5001365,3032820,102300,2025-05-24,Rapid Transactions,66.9,Medium,Resolved
+5001366,3024128,101319,2025-07-05,Multiple Failed Attempts,61.6,Medium,Resolved
+5001367,3017631,100228,2025-07-19,High-Risk Merchant,80.4,Medium,Resolved
+5001368,3034427,101536,2025-08-11,International Activity,100.0,Medium,Resolved
+5001369,3008390,101604,2025-09-18,Multiple Failed Attempts,76.5,Medium,Resolved
+5001370,3012007,100357,2025-09-05,Rapid Transactions,86.8,Medium,Under Review
+5001371,3018896,101993,2025-08-31,International Activity,34.7,Medium,Resolved
+5001372,3003736,100740,2025-02-08,Multiple Failed Attempts,72.2,Medium,Resolved
+5001373,3024864,102853,2025-10-23,Multiple Failed Attempts,71.9,Medium,False Positive
+5001374,3021253,102342,2025-03-14,Multiple Failed Attempts,65.5,Critical,Resolved
+5001375,3007607,101300,2025-10-28,High-Risk Merchant,36.8,High,Resolved
+5001376,3049614,104317,2025-03-30,Location Anomaly,51.1,High,Resolved
+5001377,3034061,102885,2025-08-27,High-Risk Merchant,25.6,Medium,Resolved
+5001378,3030689,100353,2025-12-30,High-Risk Merchant,79.8,High,Under Review
+5001379,3002060,104744,2025-05-29,High-Risk Merchant,65.5,Low,Resolved
+5001380,3007151,102677,2025-03-17,Location Anomaly,68.8,High,Resolved
+5001381,3032870,100117,2025-04-07,Unusual Amount,100.0,Critical,False Positive
+5001382,3024154,103013,2025-04-09,International Activity,57.6,Medium,Resolved
+5001383,3022014,100089,2025-06-10,Location Anomaly,46.3,High,Resolved
+5001384,3025038,104686,2025-02-16,Location Anomaly,88.1,Low,Resolved
+5001385,3002556,101961,2025-05-26,International Activity,85.2,High,False Positive
+5001386,3035491,103389,2025-06-08,Location Anomaly,93.1,High,Resolved
+5001387,3003241,102053,2025-04-09,International Activity,89.6,Low,Under Review
+5001388,3000026,101978,2025-08-16,Rapid Transactions,44.3,Low,Open
+5001389,3049459,104220,2025-01-18,Location Anomaly,62.6,High,Resolved
+5001390,3005804,100174,2025-12-20,Multiple Failed Attempts,51.5,Low,Resolved
+5001391,3026833,102193,2025-10-22,Unusual Amount,74.8,Medium,Resolved
+5001392,3019686,103977,2025-01-24,Location Anomaly,88.2,Medium,False Positive
+5001393,3018914,101438,2025-12-30,High-Risk Merchant,44.4,Medium,Under Review
+5001394,3046941,103231,2025-11-27,Unusual Amount,82.9,Low,Resolved
+5001395,3009621,103336,2025-12-14,Location Anomaly,70.1,Medium,Resolved
+5001396,3022040,104726,2025-08-05,Rapid Transactions,68.6,Medium,Resolved
+5001397,3022154,103575,2025-10-30,Unusual Amount,75.8,Medium,Resolved
+5001398,3014414,100724,2025-11-16,Rapid Transactions,100.0,High,Under Review
+5001399,3036670,103798,2025-01-19,High-Risk Merchant,93.8,High,Under Review
+5001400,3032476,100040,2025-05-19,Unusual Amount,75.2,Low,Resolved
+5001401,3012174,100274,2025-05-03,Location Anomaly,44.7,Medium,Resolved
+5001402,3013113,100617,2025-11-11,Location Anomaly,61.0,Medium,Resolved
+5001403,3041993,102619,2025-10-26,Rapid Transactions,58.3,High,Resolved
+5001404,3037803,102872,2025-09-08,Unusual Amount,71.6,High,Resolved
+5001405,3016097,101875,2025-10-30,Unusual Amount,57.2,Medium,Under Review
+5001406,3018121,100238,2025-06-28,Rapid Transactions,62.3,Low,Resolved
+5001407,3033320,100546,2025-09-24,High-Risk Merchant,66.0,Medium,False Positive
+5001408,3006720,102878,2025-10-02,High-Risk Merchant,64.1,Medium,Resolved
+5001409,3044801,104726,2025-12-22,Multiple Failed Attempts,59.4,Medium,Resolved
+5001410,3026255,104389,2025-02-07,International Activity,100.0,Medium,Under Review
+5001411,3000839,103667,2025-06-12,Location Anomaly,45.3,High,Under Review
+5001412,3027120,104032,2025-07-09,Unusual Amount,93.1,Medium,Resolved
+5001413,3000640,100696,2025-04-12,Unusual Amount,90.6,Medium,Under Review
+5001414,3044527,104410,2025-04-21,International Activity,35.7,Low,Resolved
+5001415,3000397,100148,2025-09-30,Multiple Failed Attempts,78.1,High,Resolved
+5001416,3022676,102169,2025-08-27,International Activity,96.6,Medium,Resolved
+5001417,3025250,104501,2025-05-31,Rapid Transactions,72.7,Medium,False Positive
+5001418,3013727,102020,2025-11-11,Unusual Amount,91.0,Low,Resolved
+5001419,3020221,102216,2025-06-06,Location Anomaly,31.5,High,Open
+5001420,3016156,100413,2025-04-22,Unusual Amount,67.9,Medium,Resolved
+5001421,3017197,101027,2025-06-24,Rapid Transactions,67.4,High,Resolved
+5001422,3001659,100382,2025-09-03,High-Risk Merchant,68.0,Medium,Open
+5001423,3045862,103325,2025-10-07,High-Risk Merchant,61.4,High,False Positive
+5001424,3008525,101928,2025-08-09,Location Anomaly,69.1,Medium,Under Review
+5001425,3035446,102742,2025-08-24,High-Risk Merchant,84.8,Low,Open
+5001426,3036783,103628,2025-07-14,Location Anomaly,39.6,Low,Resolved
+5001427,3022550,102586,2025-01-12,International Activity,49.1,Medium,Resolved
+5001428,3046749,103991,2025-01-19,International Activity,67.1,Medium,Under Review
+5001429,3000185,101887,2025-04-15,Unusual Amount,93.3,Low,Under Review
+5001430,3038923,101074,2025-01-18,International Activity,76.5,Medium,Resolved
+5001431,3048105,101967,2025-05-10,Rapid Transactions,65.5,Medium,Under Review
+5001432,3000918,102072,2025-09-08,High-Risk Merchant,63.1,High,False Positive
+5001433,3015208,101894,2025-04-25,Location Anomaly,81.9,High,Resolved
+5001434,3029403,103271,2025-04-29,Rapid Transactions,63.2,Medium,Under Review
+5001435,3043590,104829,2025-02-02,International Activity,100.0,Medium,Under Review
+5001436,3038279,102614,2025-03-13,Rapid Transactions,100.0,Low,Resolved
+5001437,3021536,102334,2025-11-24,High-Risk Merchant,80.1,Low,Resolved
+5001438,3014510,101411,2025-05-20,Multiple Failed Attempts,69.6,High,Resolved
+5001439,3003101,103793,2025-06-11,Location Anomaly,64.9,Low,Resolved
+5001440,3010361,101876,2025-09-13,Rapid Transactions,57.0,High,False Positive
+5001441,3030016,100608,2025-12-20,Rapid Transactions,79.8,Medium,Resolved
+5001442,3039061,103684,2025-10-12,Unusual Amount,60.1,High,Resolved
+5001443,3012547,103726,2025-09-27,Unusual Amount,96.7,High,Under Review
+5001444,3005849,102727,2025-03-18,Unusual Amount,39.6,Medium,Resolved
+5001445,3013322,100593,2025-05-08,Multiple Failed Attempts,81.7,Medium,Resolved
+5001446,3010432,103432,2025-01-20,Multiple Failed Attempts,57.1,High,Resolved
+5001447,3012534,103805,2025-01-15,International Activity,84.0,Low,Resolved
+5001448,3013706,100915,2025-07-25,Multiple Failed Attempts,87.7,High,Resolved
+5001449,3030111,101766,2025-10-16,High-Risk Merchant,70.4,High,Resolved
+5001450,3013392,103120,2025-03-17,Location Anomaly,74.1,High,Resolved
+5001451,3044685,101070,2025-04-19,Rapid Transactions,79.3,Medium,Under Review
+5001452,3000393,101173,2025-11-13,High-Risk Merchant,92.8,High,False Positive
+5001453,3006770,102326,2025-01-05,International Activity,85.8,Low,Under Review
+5001454,3000400,100770,2025-09-05,Location Anomaly,98.7,Low,Resolved
+5001455,3014070,101261,2025-10-01,High-Risk Merchant,73.2,Medium,Resolved
+5001456,3047751,100164,2025-11-20,International Activity,74.2,Medium,Resolved
+5001457,3035148,104958,2025-06-14,Multiple Failed Attempts,82.2,High,Resolved
+5001458,3015967,103609,2025-09-09,Rapid Transactions,62.6,High,Resolved
+5001459,3044846,103432,2025-10-26,Multiple Failed Attempts,72.1,Low,Resolved
+5001460,3025251,104359,2025-07-29,High-Risk Merchant,42.7,Low,Resolved
+5001461,3045866,100407,2025-10-22,International Activity,66.5,Low,False Positive
+5001462,3009325,101903,2025-09-14,Multiple Failed Attempts,71.5,Critical,Resolved
+5001463,3047258,100276,2025-01-23,Multiple Failed Attempts,69.6,High,False Positive
+5001464,3010180,100898,2025-08-28,International Activity,37.6,High,Resolved
+5001465,3024270,104743,2025-01-07,Location Anomaly,47.4,High,Resolved
+5001466,3015604,103942,2025-02-17,International Activity,48.2,High,False Positive
+5001467,3039483,102143,2025-02-01,Multiple Failed Attempts,78.4,High,Resolved
+5001468,3038357,100269,2025-11-22,Rapid Transactions,75.6,Low,Resolved
+5001469,3008287,104203,2025-05-14,Location Anomaly,79.4,Medium,Resolved
+5001470,3034865,104858,2025-10-15,Unusual Amount,18.4,High,Resolved
+5001471,3022098,100009,2025-11-21,Unusual Amount,95.5,Medium,Resolved
+5001472,3015850,102755,2025-10-28,Unusual Amount,55.1,Low,Open
+5001473,3000255,100253,2025-01-17,Multiple Failed Attempts,60.5,Medium,Resolved
+5001474,3003428,100507,2025-11-14,Location Anomaly,60.4,Medium,Resolved
+5001475,3045730,101148,2025-12-06,Rapid Transactions,93.3,Low,Open
+5001476,3004059,102761,2025-08-09,Location Anomaly,65.3,Medium,Open
+5001477,3010977,102677,2025-08-05,Multiple Failed Attempts,100.0,Medium,Resolved
+5001478,3010100,103319,2025-11-14,International Activity,58.5,Medium,Under Review
+5001479,3037258,103824,2025-01-14,Rapid Transactions,82.0,High,Resolved
+5001480,3014765,102410,2025-01-27,Multiple Failed Attempts,64.2,High,False Positive
+5001481,3046645,103845,2025-01-25,High-Risk Merchant,100.0,Low,Under Review
+5001482,3022941,100971,2025-02-19,Rapid Transactions,76.3,High,Open
+5001483,3001828,100407,2025-09-26,Unusual Amount,71.6,High,False Positive
+5001484,3012234,101904,2025-01-04,Unusual Amount,83.5,Medium,Resolved
+5001485,3032336,100896,2025-10-21,Multiple Failed Attempts,92.1,High,Resolved
+5001486,3048453,101697,2025-08-30,Rapid Transactions,56.3,Medium,Resolved
+5001487,3046620,103541,2025-09-01,High-Risk Merchant,91.6,Medium,Under Review
+5001488,3042457,104035,2025-07-21,International Activity,80.8,Medium,Resolved
+5001489,3029149,100501,2025-01-19,International Activity,80.6,Medium,Resolved
+5001490,3042665,101434,2025-06-26,Multiple Failed Attempts,53.7,Medium,Resolved
+5001491,3027922,100676,2025-12-11,International Activity,23.3,Low,False Positive
+5001492,3003177,100366,2025-08-11,High-Risk Merchant,48.1,Medium,Resolved
+5001493,3049114,103046,2025-11-03,High-Risk Merchant,62.2,Medium,Resolved
+5001494,3033261,100169,2025-03-02,Rapid Transactions,43.4,Low,Resolved
+5001495,3046089,104692,2025-09-12,Multiple Failed Attempts,71.0,Medium,Resolved
+5001496,3010599,101668,2025-03-31,High-Risk Merchant,63.6,Medium,Resolved
+5001497,3049948,103655,2025-11-14,Multiple Failed Attempts,62.9,Low,Resolved
+5001498,3048260,100228,2025-06-04,High-Risk Merchant,62.8,High,Resolved
+5001499,3018834,100664,2025-06-25,High-Risk Merchant,61.5,High,Under Review
+5001500,3018271,104945,2025-05-05,Rapid Transactions,80.7,Low,Resolved
+5001501,3012393,101265,2025-05-25,Multiple Failed Attempts,80.2,Medium,Under Review
+5001502,3005416,104413,2025-12-21,Location Anomaly,56.9,High,Under Review
+5001503,3048267,100171,2025-11-29,Unusual Amount,88.6,Low,Under Review
+5001504,3013215,100217,2025-02-13,Multiple Failed Attempts,61.8,High,False Positive
+5001505,3024745,103750,2025-09-06,Unusual Amount,100.0,Critical,Under Review
+5001506,3034959,101589,2025-03-05,High-Risk Merchant,90.5,Low,Resolved
+5001507,3008864,103412,2025-02-05,International Activity,91.0,Critical,Resolved
+5001508,3035930,100518,2025-10-08,Location Anomaly,65.8,Low,Resolved
+5001509,3022404,103747,2025-01-16,Location Anomaly,69.6,Medium,Open
+5001510,3038920,102297,2025-09-02,International Activity,48.6,High,Resolved
+5001511,3039592,101650,2025-05-06,High-Risk Merchant,56.7,High,Resolved
+5001512,3027689,103942,2025-02-04,High-Risk Merchant,37.4,Critical,Resolved
+5001513,3012318,100358,2025-03-26,High-Risk Merchant,65.9,Low,False Positive
+5001514,3026678,102503,2025-08-05,Location Anomaly,85.1,Medium,Under Review
+5001515,3041300,101661,2025-01-10,High-Risk Merchant,67.3,High,Resolved
+5001516,3006723,104077,2025-01-07,Multiple Failed Attempts,61.4,High,Resolved
+5001517,3036702,100418,2025-01-18,International Activity,82.2,Medium,Under Review
+5001518,3027652,101528,2025-06-13,Unusual Amount,65.8,Medium,False Positive
+5001519,3031307,101080,2025-05-19,High-Risk Merchant,68.4,Low,Resolved
+5001520,3009923,103155,2025-10-28,Unusual Amount,34.9,Low,Resolved
+5001521,3019758,104734,2025-10-05,Multiple Failed Attempts,97.5,Medium,Under Review
+5001522,3005476,103899,2025-04-07,International Activity,72.2,Low,Open
+5001523,3035437,104780,2025-05-26,Multiple Failed Attempts,82.8,Medium,Resolved
+5001524,3034282,104059,2025-06-30,International Activity,74.6,High,Resolved
+5001525,3041507,104216,2025-09-13,Location Anomaly,64.2,Medium,Under Review
+5001526,3006735,104900,2025-01-05,International Activity,85.7,Medium,Under Review
+5001527,3031564,102917,2025-12-17,International Activity,69.2,Low,Open
+5001528,3001459,103133,2025-01-23,Location Anomaly,38.0,Medium,Resolved
+5001529,3019684,101856,2025-04-16,Rapid Transactions,76.8,Medium,Resolved
+5001530,3019107,103458,2025-08-15,High-Risk Merchant,78.3,High,Under Review
+5001531,3017891,103988,2025-03-17,Location Anomaly,67.1,Low,Resolved
+5001532,3017271,103175,2025-12-31,International Activity,38.2,Low,Resolved
+5001533,3032568,102504,2025-04-26,International Activity,38.3,Low,Open
+5001534,3023477,102033,2025-02-12,Rapid Transactions,67.2,Medium,Resolved
+5001535,3008758,101791,2025-12-21,Location Anomaly,38.5,Medium,Resolved
+5001536,3038410,101641,2025-01-31,International Activity,58.1,High,Resolved
+5001537,3003139,103427,2025-07-20,International Activity,98.9,Low,Open
+5001538,3040314,100895,2025-10-08,Multiple Failed Attempts,93.0,Medium,Resolved
+5001539,3032135,103939,2025-04-04,Multiple Failed Attempts,33.3,Medium,Open
+5001540,3007676,103000,2025-01-11,Location Anomaly,30.6,Medium,Resolved
+5001541,3025238,103469,2025-12-25,International Activity,65.1,Critical,Resolved
+5001542,3015625,101398,2025-09-06,International Activity,68.5,High,Under Review
+5001543,3028662,101335,2025-05-07,Location Anomaly,100.0,Medium,Resolved
+5001544,3016994,102674,2025-05-29,Unusual Amount,71.2,Low,Open
+5001545,3016909,102214,2025-01-10,Multiple Failed Attempts,56.2,Low,Resolved
+5001546,3015712,103666,2025-10-30,Multiple Failed Attempts,65.1,High,Under Review
+5001547,3049024,103199,2025-12-04,High-Risk Merchant,58.3,Medium,False Positive
+5001548,3013205,104090,2025-11-16,International Activity,73.9,Critical,Resolved
+5001549,3011438,102378,2025-04-27,International Activity,86.7,High,Resolved
+5001550,3007895,100002,2025-12-30,Location Anomaly,78.6,Medium,Under Review
+5001551,3020696,101621,2025-05-23,International Activity,49.9,High,Resolved
+5001552,3042809,104822,2025-05-20,High-Risk Merchant,60.2,Medium,Open
+5001553,3025136,102212,2025-09-27,Unusual Amount,29.4,High,Under Review
+5001554,3027514,101597,2025-04-12,Unusual Amount,80.9,Critical,Resolved
+5001555,3026526,104983,2025-05-31,International Activity,80.6,Medium,Resolved
+5001556,3010557,102621,2025-07-30,Rapid Transactions,67.7,High,Under Review
+5001557,3025505,101701,2025-05-29,Rapid Transactions,84.9,High,Under Review
+5001558,3019713,103501,2025-08-30,Unusual Amount,81.7,Medium,Resolved
+5001559,3001742,103446,2025-02-03,International Activity,58.2,Medium,Resolved
+5001560,3038901,103334,2025-11-04,High-Risk Merchant,60.8,High,Resolved
+5001561,3008382,104443,2025-12-15,International Activity,81.2,High,Open
+5001562,3018294,103513,2025-12-02,International Activity,81.6,Low,Resolved
+5001563,3019899,100953,2025-05-27,Rapid Transactions,31.0,Medium,Resolved
+5001564,3025926,100690,2025-07-15,Location Anomaly,100.0,Critical,Resolved
+5001565,3035286,103348,2025-08-05,International Activity,70.5,Low,Resolved
+5001566,3026413,103372,2025-10-24,Multiple Failed Attempts,66.3,Medium,Resolved
+5001567,3009136,102467,2025-11-29,Unusual Amount,64.2,Low,Under Review
+5001568,3004774,102015,2025-06-16,International Activity,64.2,Critical,Resolved
+5001569,3034071,102975,2025-05-12,Multiple Failed Attempts,91.8,High,Under Review
+5001570,3043999,101046,2025-03-14,Rapid Transactions,93.4,Low,Under Review
+5001571,3001526,104262,2025-05-22,Multiple Failed Attempts,50.0,Medium,Resolved
+5001572,3041224,102985,2025-04-28,High-Risk Merchant,60.9,High,Under Review
+5001573,3032522,103488,2025-10-28,International Activity,100.0,Low,False Positive
+5001574,3005564,104333,2025-10-13,International Activity,45.3,Low,False Positive
+5001575,3025638,102423,2025-02-20,High-Risk Merchant,45.2,Medium,Under Review
+5001576,3000803,100551,2025-12-30,Rapid Transactions,42.3,Medium,Resolved
+5001577,3011865,100508,2025-08-07,Unusual Amount,89.0,High,Resolved
+5001578,3001520,102808,2025-06-17,Multiple Failed Attempts,74.4,High,Resolved
+5001579,3018191,103726,2025-02-06,Unusual Amount,72.8,Medium,Resolved
+5001580,3016477,100391,2025-12-28,High-Risk Merchant,50.7,Low,Resolved
+5001581,3022546,101628,2025-08-11,Unusual Amount,62.1,High,Resolved
+5001582,3005641,104565,2025-12-07,High-Risk Merchant,92.6,High,Resolved
+5001583,3008848,102515,2025-06-14,Multiple Failed Attempts,75.5,Low,Resolved
+5001584,3011596,103425,2025-09-12,Unusual Amount,58.2,Low,Resolved
+5001585,3021067,103007,2025-05-20,International Activity,86.8,High,Resolved
+5001586,3017756,101189,2025-02-11,International Activity,53.3,Medium,Resolved
+5001587,3012143,100581,2025-04-08,Location Anomaly,76.0,Medium,Resolved
+5001588,3011993,102120,2025-12-29,High-Risk Merchant,56.2,Low,Open
+5001589,3031953,103243,2025-12-05,High-Risk Merchant,71.4,Low,Resolved
+5001590,3037999,104641,2025-03-15,High-Risk Merchant,49.4,Low,Resolved
+5001591,3000458,103037,2025-11-27,High-Risk Merchant,70.0,Medium,Resolved
+5001592,3015279,102885,2025-09-28,Multiple Failed Attempts,46.3,Low,Resolved
+5001593,3024951,103359,2025-11-22,Location Anomaly,49.9,Low,Under Review
+5001594,3021238,104509,2025-10-19,Rapid Transactions,79.3,Low,Under Review
+5001595,3032973,101446,2025-10-13,Location Anomaly,89.6,Low,False Positive
+5001596,3005806,103235,2025-07-29,Multiple Failed Attempts,83.1,Medium,Under Review
+5001597,3022399,103354,2025-12-27,International Activity,78.8,Low,Open
+5001598,3030356,104767,2025-03-13,Location Anomaly,65.2,Medium,Open
+5001599,3020979,104816,2025-04-03,Location Anomaly,84.5,Medium,Resolved
+5001600,3042467,102405,2025-06-27,International Activity,65.0,Low,Resolved
+5001601,3037766,100550,2025-09-11,Location Anomaly,100.0,Low,Resolved
+5001602,3003886,103274,2025-04-19,Rapid Transactions,100.0,Medium,Open
+5001603,3003564,104783,2025-03-14,Multiple Failed Attempts,84.3,Medium,Under Review
+5001604,3029571,101439,2025-10-10,Rapid Transactions,73.5,Low,False Positive
+5001605,3041100,102663,2025-07-03,Unusual Amount,48.9,High,Resolved
+5001606,3045460,100651,2025-09-15,High-Risk Merchant,57.9,Low,Resolved
+5001607,3007343,100550,2025-07-18,Unusual Amount,68.7,Low,Resolved
+5001608,3016739,104512,2025-08-13,Multiple Failed Attempts,43.2,High,False Positive
+5001609,3036951,103158,2025-06-15,High-Risk Merchant,71.1,High,Resolved
+5001610,3036980,100277,2025-01-18,Location Anomaly,62.7,Medium,Resolved
+5001611,3021729,100605,2025-01-22,Unusual Amount,46.8,Medium,Resolved
+5001612,3033306,103351,2025-03-30,Unusual Amount,100.0,Low,False Positive
+5001613,3028147,104330,2025-02-25,International Activity,71.0,High,Under Review
+5001614,3049029,104965,2025-03-17,International Activity,69.6,Low,Under Review
+5001615,3013609,101900,2025-11-13,Location Anomaly,72.9,Critical,Resolved
+5001616,3028284,103508,2025-05-31,Multiple Failed Attempts,78.5,Medium,Open
+5001617,3043996,101787,2025-08-23,Multiple Failed Attempts,55.9,Low,Under Review
+5001618,3034895,103059,2025-06-26,Location Anomaly,58.1,High,Resolved
+5001619,3022818,102730,2025-10-20,Rapid Transactions,74.5,High,Open
+5001620,3029343,100143,2025-02-27,High-Risk Merchant,58.5,Low,Resolved
+5001621,3029363,100958,2025-09-21,Multiple Failed Attempts,56.9,Low,Open
+5001622,3044560,103121,2025-10-30,Rapid Transactions,79.6,Medium,Under Review
+5001623,3025569,102022,2025-10-04,Rapid Transactions,100.0,Medium,Open
+5001624,3008927,100461,2025-03-08,Location Anomaly,76.3,Medium,Resolved
+5001625,3029156,103295,2025-11-17,Rapid Transactions,70.0,Low,Resolved
+5001626,3015699,100947,2025-05-14,International Activity,80.2,Medium,Resolved
+5001627,3030690,104030,2025-01-05,Rapid Transactions,59.0,Medium,Open
+5001628,3015626,101919,2025-01-26,High-Risk Merchant,52.3,Medium,Resolved
+5001629,3045032,103696,2025-12-20,Multiple Failed Attempts,61.9,Low,False Positive
+5001630,3012362,102541,2025-12-28,Multiple Failed Attempts,81.8,Medium,Under Review
+5001631,3044226,100275,2025-08-15,Location Anomaly,100.0,Low,Resolved
+5001632,3005703,101666,2025-07-12,Rapid Transactions,31.3,Medium,Resolved
+5001633,3032412,101609,2025-07-03,High-Risk Merchant,76.3,Low,Resolved
+5001634,3046429,100630,2025-11-14,High-Risk Merchant,65.4,Medium,Resolved
+5001635,3014647,100430,2025-10-08,Unusual Amount,100.0,Medium,Resolved
+5001636,3004684,101336,2025-01-31,Unusual Amount,94.1,Medium,Open
+5001637,3009909,104082,2025-08-23,Location Anomaly,80.5,Medium,Resolved
+5001638,3035821,101379,2025-10-14,Multiple Failed Attempts,72.2,Low,Under Review
+5001639,3017302,104526,2025-06-07,Multiple Failed Attempts,68.2,High,Resolved
+5001640,3013171,103044,2025-12-29,International Activity,67.4,Low,Open
+5001641,3046603,101990,2025-03-10,Location Anomaly,43.8,Low,Under Review
+5001642,3020905,104785,2025-08-05,High-Risk Merchant,56.6,Medium,Resolved
+5001643,3001747,100514,2025-12-12,Multiple Failed Attempts,66.0,Medium,Open
+5001644,3008053,100047,2025-12-02,Location Anomaly,72.2,Low,Resolved
+5001645,3001161,101870,2025-05-09,Rapid Transactions,68.3,Medium,Resolved
+5001646,3011174,104336,2025-08-02,High-Risk Merchant,60.6,High,Resolved
+5001647,3025593,103824,2025-07-15,Multiple Failed Attempts,72.9,High,Resolved
+5001648,3000418,103457,2025-07-24,Rapid Transactions,100.0,Medium,Resolved
+5001649,3048677,100382,2025-03-30,High-Risk Merchant,88.3,High,Resolved
+5001650,3039721,103987,2025-10-22,Multiple Failed Attempts,89.8,Critical,Resolved
+5001651,3000126,104702,2025-07-08,Rapid Transactions,82.7,Medium,Open
+5001652,3039200,103499,2025-03-19,Unusual Amount,100.0,Low,Resolved
+5001653,3028318,100922,2025-02-02,High-Risk Merchant,69.2,Medium,Under Review
+5001654,3033121,101080,2025-12-11,Rapid Transactions,92.0,Medium,Resolved
+5001655,3036802,100659,2025-10-31,Rapid Transactions,72.4,High,Resolved
+5001656,3010631,103451,2025-02-21,Location Anomaly,18.5,High,Resolved
+5001657,3021593,100138,2025-08-17,Multiple Failed Attempts,74.7,High,Resolved
+5001658,3031456,101425,2025-05-25,High-Risk Merchant,74.1,Medium,Resolved
+5001659,3017453,103902,2025-02-06,Unusual Amount,27.6,Medium,Under Review
+5001660,3002463,101750,2025-03-07,Location Anomaly,58.8,Low,Open
+5001661,3037733,103239,2025-03-01,High-Risk Merchant,76.8,Low,Resolved
+5001662,3040704,102041,2025-08-06,International Activity,45.5,High,False Positive
+5001663,3024426,104631,2025-04-29,International Activity,69.3,Medium,Open
+5001664,3018863,101131,2025-10-09,Multiple Failed Attempts,72.8,Medium,Resolved
+5001665,3016736,103444,2025-02-15,Multiple Failed Attempts,83.1,Low,Resolved
+5001666,3011879,104262,2025-02-09,Location Anomaly,93.5,High,Under Review
+5001667,3038675,102186,2025-08-11,International Activity,32.5,Medium,Resolved
+5001668,3017562,103213,2025-06-20,Multiple Failed Attempts,84.2,High,False Positive
+5001669,3025122,104371,2025-06-11,Rapid Transactions,92.6,Critical,Resolved
+5001670,3032260,102465,2025-12-26,Rapid Transactions,41.3,Medium,Resolved
+5001671,3022405,103990,2025-08-19,Multiple Failed Attempts,42.2,Medium,Resolved
+5001672,3016353,104765,2025-03-24,Multiple Failed Attempts,77.5,Medium,Resolved
+5001673,3011003,103179,2025-02-20,Multiple Failed Attempts,34.8,Medium,Resolved
+5001674,3017599,104740,2025-02-20,Location Anomaly,60.0,Medium,Resolved
+5001675,3011879,104645,2025-04-16,High-Risk Merchant,72.4,High,False Positive
+5001676,3042907,101347,2025-04-27,Unusual Amount,83.8,Low,Open
+5001677,3021375,103547,2025-12-26,High-Risk Merchant,46.1,High,Resolved
+5001678,3006307,104005,2025-07-07,High-Risk Merchant,47.9,Low,Under Review
+5001679,3008601,103158,2025-09-08,Multiple Failed Attempts,59.6,Medium,Resolved
+5001680,3046075,104398,2025-05-22,Location Anomaly,82.4,Low,Resolved
+5001681,3001490,104472,2025-12-10,High-Risk Merchant,53.9,Medium,Under Review
+5001682,3000169,102885,2025-03-03,High-Risk Merchant,70.0,Medium,Open
+5001683,3010673,102178,2025-09-03,International Activity,74.4,High,Resolved
+5001684,3009503,103365,2025-03-23,High-Risk Merchant,59.3,Low,Under Review
+5001685,3002935,102885,2025-02-16,Rapid Transactions,59.8,Medium,Resolved
+5001686,3026458,101143,2025-12-16,Unusual Amount,49.0,Medium,Resolved
+5001687,3028250,101926,2025-07-09,Multiple Failed Attempts,75.0,Low,Under Review
+5001688,3000715,100302,2025-12-09,International Activity,74.6,Medium,Open
+5001689,3004249,104481,2025-03-11,Rapid Transactions,74.9,High,Resolved
+5001690,3039222,102924,2025-12-18,Location Anomaly,56.9,Low,False Positive
+5001691,3029672,103843,2025-01-16,Unusual Amount,80.5,High,Resolved
+5001692,3025267,100257,2025-11-01,Location Anomaly,27.0,Medium,Under Review
+5001693,3020454,103441,2025-11-30,High-Risk Merchant,81.8,Medium,Resolved
+5001694,3041650,102255,2025-08-23,High-Risk Merchant,94.7,Low,Resolved
+5001695,3012045,101220,2025-02-26,High-Risk Merchant,53.3,High,Resolved
+5001696,3016963,101276,2025-06-23,International Activity,61.8,Low,Under Review
+5001697,3041103,101534,2025-04-28,High-Risk Merchant,100.0,Medium,Under Review
+5001698,3019713,102312,2025-12-02,High-Risk Merchant,47.5,Medium,Under Review
+5001699,3040391,101965,2025-11-27,Unusual Amount,63.6,Medium,Resolved
+5001700,3025725,104520,2025-09-13,Unusual Amount,79.9,Low,Under Review
+5001701,3023921,101815,2025-04-20,High-Risk Merchant,100.0,Medium,Resolved
+5001702,3017842,104889,2025-07-15,High-Risk Merchant,88.8,High,Resolved
+5001703,3046167,101464,2025-02-06,High-Risk Merchant,73.1,Medium,False Positive
+5001704,3048545,103209,2025-02-10,Unusual Amount,46.6,Low,Under Review
+5001705,3005122,101287,2025-03-17,Rapid Transactions,60.1,Medium,Resolved
+5001706,3027510,104918,2025-11-04,International Activity,46.0,Critical,Resolved
+5001707,3010038,103648,2025-06-28,Location Anomaly,79.3,Low,Resolved
+5001708,3036637,102722,2025-07-08,Rapid Transactions,77.5,Medium,Resolved
+5001709,3035248,104807,2025-12-05,Rapid Transactions,76.8,Medium,Open
+5001710,3020454,103623,2025-03-13,Location Anomaly,80.2,Low,Under Review
+5001711,3006044,102901,2025-12-14,Rapid Transactions,89.4,High,False Positive
+5001712,3014346,104048,2025-07-13,High-Risk Merchant,96.5,Medium,False Positive
+5001713,3028700,103709,2025-10-09,Multiple Failed Attempts,54.1,High,Open
+5001714,3037881,100057,2025-01-03,Rapid Transactions,73.8,Critical,Resolved
+5001715,3011209,103272,2025-01-12,Unusual Amount,56.8,High,Under Review
+5001716,3003884,104055,2025-07-04,International Activity,70.8,High,False Positive
+5001717,3033213,102065,2025-02-18,International Activity,38.6,Medium,False Positive
+5001718,3011837,100881,2025-04-27,Multiple Failed Attempts,67.5,Medium,Resolved
+5001719,3015483,103325,2025-07-03,Multiple Failed Attempts,82.3,Low,Under Review
+5001720,3041337,104651,2025-10-19,Unusual Amount,50.6,Medium,Open
+5001721,3041621,101270,2025-01-03,High-Risk Merchant,48.5,High,False Positive
+5001722,3017682,100934,2025-03-21,Rapid Transactions,67.0,Low,Resolved
+5001723,3037892,102761,2025-02-23,Unusual Amount,50.5,Critical,Open
+5001724,3009032,101264,2025-06-12,Rapid Transactions,54.1,High,Resolved
+5001725,3012109,100740,2025-09-25,High-Risk Merchant,55.0,High,Open
+5001726,3016245,102294,2025-03-03,Rapid Transactions,62.0,Medium,Resolved
+5001727,3031225,101468,2025-04-18,Multiple Failed Attempts,59.9,Medium,Resolved
+5001728,3027740,100605,2025-01-10,Multiple Failed Attempts,63.5,Low,False Positive
+5001729,3010748,100571,2025-01-28,International Activity,62.3,High,Resolved
+5001730,3028275,101157,2025-03-21,International Activity,77.2,Medium,Under Review
+5001731,3003398,100309,2025-09-23,Unusual Amount,77.6,High,Resolved
+5001732,3011659,104870,2025-06-12,Location Anomaly,31.3,Medium,Open
+5001733,3039344,102015,2025-10-08,Rapid Transactions,76.2,Low,False Positive
+5001734,3046059,100986,2025-02-22,Multiple Failed Attempts,43.2,Medium,Under Review
+5001735,3032124,100481,2025-07-21,High-Risk Merchant,53.1,Medium,Resolved
+5001736,3002608,101998,2025-06-23,International Activity,68.0,High,Resolved
+5001737,3044656,101187,2025-04-28,Unusual Amount,67.4,Medium,Open
+5001738,3000457,103924,2025-02-15,Multiple Failed Attempts,34.2,Low,Resolved
+5001739,3027781,100777,2025-02-23,Location Anomaly,61.3,Low,Resolved
+5001740,3041881,100251,2025-10-23,Multiple Failed Attempts,73.2,High,Resolved
+5001741,3030108,101288,2025-07-14,Multiple Failed Attempts,29.4,Low,Resolved
+5001742,3044074,100643,2025-10-11,International Activity,18.1,Medium,Under Review
+5001743,3012892,101577,2025-02-04,Rapid Transactions,100.0,Medium,Resolved
+5001744,3032624,104114,2025-12-10,Rapid Transactions,84.7,High,Under Review
+5001745,3015126,103925,2025-12-19,Multiple Failed Attempts,91.9,Medium,Resolved
+5001746,3037860,102503,2025-11-30,High-Risk Merchant,67.0,Low,Under Review
+5001747,3040209,101337,2025-03-29,Multiple Failed Attempts,88.1,High,Resolved
+5001748,3011519,101850,2025-02-03,International Activity,100.0,Low,Under Review
+5001749,3020487,102502,2025-05-18,Multiple Failed Attempts,73.6,Medium,Resolved
+5001750,3037691,103585,2025-07-16,High-Risk Merchant,45.5,Low,Under Review
+5001751,3036603,103469,2025-03-14,Multiple Failed Attempts,51.4,Medium,Under Review
+5001752,3004155,102008,2025-07-23,Rapid Transactions,99.1,High,Resolved
+5001753,3021422,100429,2025-08-25,Rapid Transactions,60.9,High,Under Review
+5001754,3003687,103090,2025-10-01,High-Risk Merchant,54.7,Medium,Under Review
+5001755,3006886,100018,2025-08-21,Unusual Amount,79.5,High,False Positive
+5001756,3043838,104706,2025-05-22,Location Anomaly,60.4,Medium,Resolved
+5001757,3031470,100435,2025-01-06,International Activity,50.3,Medium,Resolved
+5001758,3045607,101078,2025-03-03,High-Risk Merchant,56.7,Medium,Resolved
+5001759,3017640,104697,2025-10-26,High-Risk Merchant,61.8,Medium,Resolved
+5001760,3027681,104229,2025-05-30,Rapid Transactions,65.6,Medium,Open
+5001761,3040859,102334,2025-03-17,Location Anomaly,81.0,Medium,Open
+5001762,3037921,100753,2025-07-11,Rapid Transactions,56.8,Medium,Resolved
+5001763,3012966,100136,2025-11-13,Unusual Amount,75.9,High,Under Review
+5001764,3041433,102182,2025-10-21,International Activity,68.0,Medium,Resolved
+5001765,3022183,100659,2025-05-15,Multiple Failed Attempts,57.3,Medium,Resolved
+5001766,3041461,100069,2025-07-28,Location Anomaly,66.4,Low,Resolved
+5001767,3021065,102119,2025-01-20,Multiple Failed Attempts,78.5,Medium,Resolved
+5001768,3014752,103513,2025-06-10,Location Anomaly,57.1,Low,Resolved
+5001769,3026578,103387,2025-09-04,Multiple Failed Attempts,39.7,Medium,Under Review
+5001770,3029949,102022,2025-03-23,International Activity,80.6,Low,Open
+5001771,3015195,104557,2025-05-31,Location Anomaly,33.6,Medium,Resolved
+5001772,3021750,100879,2025-03-25,Unusual Amount,100.0,Medium,False Positive
+5001773,3046773,100123,2025-08-25,Rapid Transactions,59.0,Medium,Resolved
+5001774,3018110,101601,2025-08-19,Rapid Transactions,58.8,High,Resolved
+5001775,3018789,102019,2025-09-29,Multiple Failed Attempts,65.8,Low,Open
+5001776,3020627,102445,2025-12-18,Location Anomaly,59.9,High,Resolved
+5001777,3034625,103690,2025-05-04,Unusual Amount,87.2,Medium,Resolved
+5001778,3048616,101981,2025-05-18,Rapid Transactions,68.0,Critical,Under Review
+5001779,3016276,102264,2025-05-12,Multiple Failed Attempts,49.8,Medium,Open
+5001780,3031031,102329,2025-02-09,High-Risk Merchant,89.6,Low,Resolved
+5001781,3033069,101002,2025-03-28,Multiple Failed Attempts,67.6,Low,Open
+5001782,3021128,102571,2025-04-03,Location Anomaly,66.8,Medium,Under Review
+5001783,3049608,101078,2025-06-18,High-Risk Merchant,97.8,Low,False Positive
+5001784,3048115,102638,2025-11-15,Location Anomaly,9.0,Low,Resolved
+5001785,3032854,104203,2025-09-26,Location Anomaly,77.8,High,Resolved
+5001786,3004709,100391,2025-05-02,Rapid Transactions,45.8,High,False Positive
+5001787,3043101,101078,2025-06-05,High-Risk Merchant,73.7,Low,Open
+5001788,3032321,101524,2025-01-19,International Activity,58.0,Low,False Positive
+5001789,3043323,102238,2025-06-14,Rapid Transactions,35.6,Medium,Under Review
+5001790,3038291,101403,2025-12-20,Rapid Transactions,78.7,Medium,Resolved
+5001791,3007793,101655,2025-06-28,Location Anomaly,85.5,Medium,Open
+5001792,3035168,102254,2025-03-25,Rapid Transactions,71.4,High,False Positive
+5001793,3002879,100782,2025-12-22,High-Risk Merchant,81.7,High,Under Review
+5001794,3012165,104599,2025-04-18,International Activity,85.7,Low,Resolved
+5001795,3035436,104119,2025-07-16,Multiple Failed Attempts,30.1,Low,Resolved
+5001796,3026274,100861,2025-06-01,High-Risk Merchant,32.1,Medium,Resolved
+5001797,3026085,102575,2025-08-12,Rapid Transactions,62.7,High,Resolved
+5001798,3013233,103279,2025-04-23,Rapid Transactions,70.5,High,Open
+5001799,3033466,101254,2025-03-21,Location Anomaly,65.8,High,Resolved
+5001800,3020718,100653,2025-07-25,International Activity,78.5,Low,Resolved
+5001801,3048885,101721,2025-06-16,Rapid Transactions,91.1,Critical,Resolved
+5001802,3000791,100175,2025-05-18,High-Risk Merchant,100.0,Low,Resolved
+5001803,3019058,102324,2025-12-11,Location Anomaly,77.4,Low,Resolved
+5001804,3022582,100280,2025-09-04,High-Risk Merchant,99.0,Low,Resolved
+5001805,3018444,101018,2025-06-28,Rapid Transactions,68.8,Medium,Under Review
+5001806,3013889,100188,2025-03-18,Unusual Amount,58.5,Low,Open
+5001807,3034694,101192,2025-01-08,Rapid Transactions,73.4,Medium,Resolved
+5001808,3039555,102832,2025-04-15,Location Anomaly,91.0,Medium,Resolved
+5001809,3002193,101306,2025-08-12,Location Anomaly,74.6,Low,Resolved
+5001810,3040151,103939,2025-07-27,Multiple Failed Attempts,59.7,High,Resolved
+5001811,3029137,100593,2025-05-01,Unusual Amount,74.7,Medium,False Positive
+5001812,3004014,101529,2025-04-09,High-Risk Merchant,61.4,Low,Resolved
+5001813,3001096,103116,2025-10-16,High-Risk Merchant,100.0,Low,Under Review
+5001814,3049547,100874,2025-03-19,Rapid Transactions,83.3,Low,Resolved
+5001815,3027656,101713,2025-04-20,High-Risk Merchant,82.3,Low,Resolved
+5001816,3002446,100129,2025-06-30,Multiple Failed Attempts,84.9,Medium,Under Review
+5001817,3022620,100916,2025-06-03,Multiple Failed Attempts,72.6,Low,Resolved
+5001818,3043586,100548,2025-08-15,Multiple Failed Attempts,61.1,Medium,False Positive
+5001819,3043142,103018,2025-04-19,International Activity,53.7,Low,Resolved
+5001820,3044419,102815,2025-04-23,Location Anomaly,78.5,Medium,Open
+5001821,3025319,104704,2025-07-11,High-Risk Merchant,52.0,Medium,Resolved
+5001822,3001691,101847,2025-08-09,Location Anomaly,61.2,Medium,Resolved
+5001823,3039121,101336,2025-07-05,High-Risk Merchant,45.3,Low,Under Review
+5001824,3027973,100754,2025-04-25,Unusual Amount,75.4,High,Resolved
+5001825,3015908,103228,2025-07-01,High-Risk Merchant,92.9,Low,Resolved
+5001826,3034470,100374,2025-07-20,Multiple Failed Attempts,27.7,High,Resolved
+5001827,3025895,104223,2025-09-11,Location Anomaly,70.9,Medium,Resolved
+5001828,3018959,102004,2025-10-20,International Activity,84.8,Medium,Resolved
+5001829,3008525,101352,2025-08-08,International Activity,61.7,Medium,Under Review
+5001830,3013470,101111,2025-04-18,International Activity,48.1,High,Under Review
+5001831,3037033,102842,2025-03-01,Rapid Transactions,81.5,High,Open
+5001832,3030204,100324,2025-02-05,Unusual Amount,70.9,Low,Under Review
+5001833,3026633,102093,2025-01-26,Rapid Transactions,30.3,Low,Resolved
+5001834,3001990,104684,2025-06-09,Unusual Amount,79.3,High,False Positive
+5001835,3036092,102649,2025-05-12,Multiple Failed Attempts,82.2,High,Resolved
+5001836,3049853,103708,2025-11-26,International Activity,57.4,Low,Under Review
+5001837,3016381,104396,2025-06-15,Location Anomaly,97.1,Medium,Open
+5001838,3046532,102535,2025-10-29,Multiple Failed Attempts,54.8,High,Resolved
+5001839,3013245,103894,2025-04-01,Unusual Amount,75.9,Critical,Open
+5001840,3004256,102055,2025-10-02,International Activity,40.1,High,Resolved
+5001841,13025928,103858,2025-07-17,Multiple Failed Attempts,100.0,Low,Under Review
+5001842,3009980,103199,2025-08-30,Multiple Failed Attempts,44.6,High,Open
+5001843,3040963,100834,2025-01-04,High-Risk Merchant,100.0,Medium,Under Review
+5001844,3027899,103978,2025-03-12,Rapid Transactions,55.1,Medium,False Positive
+5001845,3014663,103484,2025-12-12,International Activity,54.5,Low,Open
+5001846,3013017,102028,2025-05-03,High-Risk Merchant,66.4,High,Resolved
+5001847,3001995,103429,2025-07-03,Unusual Amount,69.4,High,Under Review
+5001848,3015673,101221,2025-08-12,Unusual Amount,51.1,Low,Under Review
+5001849,3028399,104728,2025-01-24,High-Risk Merchant,56.8,Low,Under Review
+5001850,3003890,104100,2025-11-24,Location Anomaly,73.4,Medium,Resolved
+5001851,3010978,104602,2025-12-04,Unusual Amount,68.6,High,Resolved
+5001852,3012834,103905,2025-07-05,Unusual Amount,60.1,High,Open
+5001853,3046330,101512,2025-11-07,Rapid Transactions,47.0,Low,Resolved
+5001854,3031449,104527,2025-09-26,High-Risk Merchant,70.0,Low,Resolved
+5001855,3019897,100627,2025-04-03,Unusual Amount,47.7,Medium,Under Review
+5001856,3026569,100988,2025-06-29,Rapid Transactions,16.9,Medium,Under Review
+5001857,3013481,104084,2025-05-30,Unusual Amount,80.9,High,Resolved
+5001858,3021861,102438,2025-06-21,Unusual Amount,58.0,Medium,Resolved
+5001859,3008987,100828,2025-06-18,International Activity,38.7,Medium,Resolved
+5001860,3016764,102040,2025-05-23,Location Anomaly,61.8,High,Under Review
+5001861,3012146,102327,2025-03-13,Multiple Failed Attempts,71.8,Medium,Resolved
+5001862,3016440,100047,2025-11-23,Location Anomaly,100.0,Low,Resolved
+5001863,3001724,103613,2025-01-31,High-Risk Merchant,68.4,Medium,Resolved
+5001864,3021886,101146,2025-01-22,Rapid Transactions,100.0,High,Resolved
+5001865,3029318,102472,2025-06-02,Rapid Transactions,73.5,Medium,Resolved
+5001866,3035052,104675,2025-12-23,International Activity,57.3,Low,Under Review
+5001867,3032083,103042,2025-02-17,Multiple Failed Attempts,48.8,Medium,Resolved
+5001868,3005713,103973,2025-12-19,High-Risk Merchant,100.0,High,Resolved
+5001869,3004479,100005,2025-08-16,Unusual Amount,90.2,Low,Under Review
+5001870,3029226,102906,2025-11-16,Multiple Failed Attempts,86.6,High,Resolved
+5001871,3036787,100425,2025-07-31,Unusual Amount,51.2,Low,Resolved
+5001872,3025518,103814,2025-08-09,Rapid Transactions,57.9,Low,Resolved
+5001873,3029223,102839,2025-01-28,Unusual Amount,96.0,Low,Resolved
+5001874,3042940,101738,2025-10-02,High-Risk Merchant,96.4,High,Resolved
+5001875,3004693,101174,2025-10-26,Location Anomaly,82.8,Critical,Resolved
+5001876,3001921,101480,2025-06-05,International Activity,57.1,High,Resolved
+5001877,3040630,102810,2025-07-12,International Activity,66.1,Low,Resolved
+5001878,3048629,102534,2025-08-04,Unusual Amount,89.3,Medium,Resolved
+5001879,3045201,100033,2025-09-23,Unusual Amount,55.3,Low,Open
+5001880,3032129,102808,2025-05-03,Unusual Amount,77.6,Medium,Resolved
+5001881,3006967,101561,2025-09-03,Multiple Failed Attempts,53.9,Medium,Resolved
+5001882,3039929,102367,2025-12-14,Unusual Amount,76.3,Low,False Positive
+5001883,3007461,101908,2025-01-26,High-Risk Merchant,34.9,Medium,Under Review
+5001884,3006325,104516,2025-05-07,Multiple Failed Attempts,54.6,Critical,Resolved
+5001885,3024301,103698,2025-01-03,Rapid Transactions,40.4,Low,Resolved
+5001886,3046178,104611,2025-08-22,Rapid Transactions,97.0,High,Under Review
+5001887,3002020,104361,2025-06-26,Rapid Transactions,56.9,Low,Resolved
+5001888,3031083,102098,2025-12-04,Location Anomaly,88.4,Medium,Resolved
+5001889,3007208,103893,2025-12-02,Location Anomaly,63.9,High,Resolved
+5001890,3011603,102700,2025-02-12,High-Risk Merchant,100.0,Medium,Resolved
+5001891,3007286,104041,2025-01-16,International Activity,34.1,Low,Resolved
+5001892,3023138,100673,2025-11-09,Multiple Failed Attempts,80.8,Medium,Resolved
+5001893,3010250,100360,2025-07-22,Location Anomaly,82.7,Medium,Resolved
+5001894,3002333,101912,2025-12-05,International Activity,49.6,Medium,Resolved
+5001895,3017090,104928,2025-10-14,Rapid Transactions,85.4,Medium,Open
+5001896,3022462,101636,2025-02-15,Location Anomaly,83.9,Medium,False Positive
+5001897,3027448,100886,2025-06-14,Rapid Transactions,55.0,Critical,Under Review
+5001898,3004938,101469,2025-04-09,Unusual Amount,53.8,High,Resolved
+5001899,3024541,101880,2025-07-25,International Activity,49.1,Medium,Open
+5001900,3030816,101545,2025-05-15,Unusual Amount,59.4,Medium,Open
+5001901,3016546,101967,2025-04-15,Location Anomaly,90.1,Low,Under Review
+5001902,3018003,102257,2025-01-13,International Activity,75.2,Critical,Resolved
+5001903,3014916,102192,2025-04-13,Unusual Amount,53.0,Low,Resolved
+5001904,3010142,100911,2025-12-01,Rapid Transactions,47.4,Medium,Resolved
+5001905,3015371,103719,2025-06-29,High-Risk Merchant,92.4,High,Open
+5001906,3036976,102459,2025-05-11,High-Risk Merchant,71.8,Low,Resolved
+5001907,3008836,103948,2025-12-28,Rapid Transactions,34.8,Medium,Resolved
+5001908,3018081,102069,2025-05-05,International Activity,79.0,Medium,Resolved
+5001909,3049209,101328,2025-12-17,Unusual Amount,44.0,Medium,Resolved
+5001910,3049830,101609,2025-05-25,Unusual Amount,41.9,Medium,Under Review
+5001911,3002472,104693,2025-09-18,Rapid Transactions,100.0,Critical,Resolved
+5001912,3048024,101171,2025-04-29,International Activity,61.3,Critical,Open
+5001913,3009195,104408,2025-06-25,International Activity,66.6,High,False Positive
+5001914,3039236,102979,2025-05-05,International Activity,55.5,Medium,Resolved
+5001915,3021072,103198,2025-09-08,Rapid Transactions,55.4,High,False Positive
+5001916,3006844,104735,2025-11-15,Unusual Amount,100.0,Critical,Open
+5001917,3037519,102094,2025-10-31,Multiple Failed Attempts,91.0,High,Under Review
+5001918,3031258,102580,2025-09-04,Multiple Failed Attempts,70.0,Low,False Positive
+5001919,3035379,104434,2025-07-19,Location Anomaly,26.6,Medium,Resolved
+5001920,3014839,100673,2025-04-28,Location Anomaly,67.0,Medium,False Positive
+5001921,3022909,104334,2025-12-25,Unusual Amount,50.7,High,Resolved
+5001922,3034801,104016,2025-05-15,International Activity,46.1,Low,Under Review
+5001923,3049982,103457,2025-03-30,Rapid Transactions,50.9,Medium,Resolved
+5001924,3028798,104057,2025-02-20,High-Risk Merchant,74.9,Medium,Open
+5001925,3043916,100929,2025-04-12,Rapid Transactions,85.8,Critical,Resolved
+5001926,3012182,103993,2025-08-31,Unusual Amount,45.4,Low,Resolved
+5001927,3049534,102866,2025-05-13,Rapid Transactions,65.1,High,Under Review
+5001928,3004282,103009,2025-09-13,Rapid Transactions,81.7,Low,Resolved
+5001929,3043551,102307,2025-02-09,International Activity,88.9,High,Open
+5001930,3000843,100131,2025-07-08,Location Anomaly,46.4,Low,Open
+5001931,3042158,104474,2025-03-06,Rapid Transactions,90.2,High,Resolved
+5001932,3044202,104781,2025-02-02,Rapid Transactions,54.7,High,False Positive
+5001933,3018708,102100,2025-01-17,Rapid Transactions,53.9,Low,Resolved
+5001934,3001766,100756,2025-03-17,Rapid Transactions,74.3,Medium,Under Review
+5001935,3045238,103265,2025-01-04,High-Risk Merchant,71.9,Medium,Open
+5001936,3000559,102585,2025-04-09,Rapid Transactions,21.2,Low,False Positive
+5001937,3020075,100218,2025-03-15,International Activity,75.8,Low,Open
+5001938,3022050,104826,2025-07-10,Location Anomaly,46.4,High,Resolved
+5001939,3012420,100177,2025-11-27,International Activity,80.1,Medium,Resolved
+5001940,3020221,100800,2025-02-05,Rapid Transactions,87.2,High,Resolved
+5001941,3008291,100471,2025-12-21,Location Anomaly,87.2,High,Resolved
+5001942,3017980,100814,2025-01-30,High-Risk Merchant,53.1,Low,Resolved
+5001943,3011884,102516,2025-11-02,Rapid Transactions,87.8,High,Resolved
+5001944,3002407,101670,2025-09-01,Location Anomaly,63.4,Medium,Open
+5001945,3032167,100471,2025-06-09,Location Anomaly,83.3,Critical,Open
+5001946,3009299,100836,2025-05-09,Unusual Amount,51.4,Medium,Resolved
+5001947,3000139,104873,2025-02-01,International Activity,69.3,Medium,Resolved
+5001948,3015918,100405,2025-04-23,Multiple Failed Attempts,83.4,Critical,Resolved
+5001949,3003048,104279,2025-10-24,Multiple Failed Attempts,81.2,Low,Resolved
+5001950,3002560,102209,2025-06-03,High-Risk Merchant,63.7,Medium,Under Review
+5001951,3027473,100155,2025-06-27,High-Risk Merchant,84.8,Medium,Resolved
+5001952,3007221,102248,2025-09-12,Rapid Transactions,79.8,Medium,Resolved
+5001953,3000519,102498,2025-03-17,Unusual Amount,81.6,Low,False Positive
+5001954,3010810,104617,2025-06-07,Unusual Amount,37.8,Medium,False Positive
+5001955,3038317,101224,2025-04-04,International Activity,53.4,Medium,Under Review
+5001956,3032440,103899,2025-03-11,High-Risk Merchant,18.4,Low,Open
+5001957,3020855,100035,2025-02-11,Multiple Failed Attempts,79.8,Medium,Resolved
+5001958,3003069,104960,2025-04-05,Multiple Failed Attempts,59.9,Medium,Resolved
+5001959,3019944,102854,2025-04-19,High-Risk Merchant,49.9,High,Resolved
+5001960,3005443,103547,2025-01-16,International Activity,57.0,Medium,Resolved
+5001961,3048457,102952,2025-01-02,Multiple Failed Attempts,74.5,High,Resolved
+5001962,3043658,103100,2025-06-18,Multiple Failed Attempts,63.5,Medium,Under Review
+5001963,3041972,104190,2025-02-16,Rapid Transactions,100.0,Medium,Resolved
+5001964,3032372,104907,2025-12-26,Location Anomaly,76.2,Medium,Resolved
+5001965,3040217,102284,2025-09-13,Rapid Transactions,79.6,High,Resolved
+5001966,3017726,104792,2025-04-14,Multiple Failed Attempts,72.5,Medium,Resolved
+5001967,3033769,103645,2025-12-26,High-Risk Merchant,66.7,Medium,Under Review
+5001968,3009793,102657,2025-11-04,International Activity,61.9,High,Under Review
+5001969,3042202,101700,2025-01-21,High-Risk Merchant,62.9,Low,Under Review
+5001970,3040928,103543,2025-08-24,Rapid Transactions,51.8,High,Resolved
+5001971,3013189,103371,2025-08-17,Unusual Amount,48.9,Low,Open
+5001972,3037629,101983,2025-04-05,High-Risk Merchant,58.6,High,False Positive
+5001973,3019014,102316,2025-09-01,Unusual Amount,84.3,Critical,Resolved
+5001974,3029886,104333,2025-02-24,Unusual Amount,58.5,Low,Resolved
+5001975,3029746,100860,2025-12-21,International Activity,42.9,High,Open
+5001976,3031993,104904,2025-11-20,International Activity,55.9,Low,Under Review
+5001977,3015940,100043,2025-07-29,Location Anomaly,46.8,High,Under Review
+5001978,3005945,104058,2025-04-14,Rapid Transactions,87.3,Low,Resolved
+5001979,3021012,104293,2025-10-21,Multiple Failed Attempts,75.0,High,Under Review
+5001980,3039705,102598,2025-10-18,High-Risk Merchant,86.8,Low,False Positive
+5001981,3018012,102404,2025-01-03,International Activity,74.9,High,Open
+5001982,3036426,100239,2025-07-29,Location Anomaly,67.9,Low,Resolved
+5001983,3043685,101196,2025-09-08,International Activity,64.7,Low,Resolved
+5001984,3018162,100826,2025-08-01,High-Risk Merchant,31.2,Low,Open
+5001985,3046424,101075,2025-03-28,Multiple Failed Attempts,84.6,Medium,Open
+5001986,3011209,103477,2025-03-27,High-Risk Merchant,45.7,Medium,Resolved
+5001987,3021470,104656,2025-02-12,Multiple Failed Attempts,80.0,Low,Resolved
+5001988,3035441,100380,2025-04-15,International Activity,64.1,Medium,Under Review
+5001989,3034861,102244,2025-11-15,Multiple Failed Attempts,64.6,Low,Resolved
+5001990,3029790,101682,2025-11-26,Multiple Failed Attempts,82.5,High,Resolved
+5001991,3000174,102834,2025-02-07,High-Risk Merchant,63.4,Low,Under Review
+5001992,3048771,100758,2025-10-14,Unusual Amount,34.3,Low,Resolved
+5001993,3041059,102345,2025-12-21,Multiple Failed Attempts,32.0,High,Resolved
+5001994,3008731,104252,2025-09-12,Rapid Transactions,70.3,Low,Open
+5001995,3032695,103678,2025-05-11,Multiple Failed Attempts,100.0,Low,Under Review
+5001996,3037362,103744,2025-12-22,Unusual Amount,84.9,Low,Resolved
+5001997,3014039,103802,2025-09-17,Multiple Failed Attempts,87.7,Medium,Open
+5001998,3016699,102058,2025-03-30,International Activity,60.4,Low,Resolved
+5001999,3048668,100569,2025-09-20,High-Risk Merchant,57.5,Low,Under Review
+5002000,3010615,100824,2025-05-06,International Activity,56.5,Low,Resolved
+5002001,3021385,101890,2025-01-26,Multiple Failed Attempts,61.4,Low,Resolved
+5002002,3029645,101952,2025-10-29,High-Risk Merchant,59.5,Medium,Resolved
+5002003,3049425,100573,2025-02-01,Multiple Failed Attempts,61.1,Medium,Under Review
+5002004,3002076,104538,2025-01-29,International Activity,86.9,Low,Open
+5002005,3025501,101437,2025-01-22,Unusual Amount,70.4,Medium,Under Review
+5002006,3029286,104374,2025-11-03,Rapid Transactions,72.5,Medium,Resolved
+5002007,3030309,103062,2025-07-15,International Activity,56.4,Low,Resolved
+5002008,3041748,101042,2025-02-10,International Activity,67.7,Medium,Resolved
+5002009,3033961,101228,2025-12-23,Unusual Amount,85.4,Low,Resolved
+5002010,3013038,101198,2025-04-16,Location Anomaly,67.8,Medium,Under Review
+5002011,3047487,101550,2025-03-21,Location Anomaly,71.1,High,Under Review
+5002012,3022417,100769,2025-01-08,International Activity,89.9,Medium,Resolved
+5002013,3046112,100374,2025-03-12,Multiple Failed Attempts,57.9,Low,False Positive
+5002014,3018522,103150,2025-10-10,Unusual Amount,77.6,Low,Under Review
+5002015,3001059,101429,2025-03-02,High-Risk Merchant,76.3,Medium,Resolved
+5002016,3013753,104583,2025-05-11,Unusual Amount,58.6,Critical,Resolved
+5002017,3020316,102509,2025-05-08,International Activity,37.8,High,Resolved
+5002018,3043437,104807,2025-01-05,Multiple Failed Attempts,84.5,Medium,False Positive
+5002019,3022006,101553,2025-07-23,Unusual Amount,69.3,Low,Resolved
+5002020,3011922,104086,2025-03-02,Location Anomaly,53.9,Low,Resolved
+5002021,3042153,104712,2025-12-08,High-Risk Merchant,82.0,High,Open
+5002022,3023849,103466,2025-07-14,Multiple Failed Attempts,59.2,Low,Resolved
+5002023,3011868,103174,2025-11-14,Rapid Transactions,65.1,High,Resolved
+5002024,3043918,103148,2025-03-06,International Activity,76.0,Low,Resolved
+5002025,3012231,101616,2025-06-26,Rapid Transactions,46.9,High,Resolved
+5002026,3004638,101603,2025-09-08,Unusual Amount,4.9,Medium,Under Review
+5002027,3024406,103227,2025-12-31,Location Anomaly,52.6,Medium,Resolved
+5002028,3047080,102802,2025-07-24,Rapid Transactions,60.0,High,Resolved
+5002029,3003552,103379,2025-04-22,Rapid Transactions,41.4,Low,Resolved
+5002030,3048223,102117,2025-03-14,High-Risk Merchant,65.9,Medium,Under Review
+5002031,3041405,103384,2025-02-27,Rapid Transactions,69.7,Medium,Resolved
+5002032,3025115,103425,2025-04-21,Rapid Transactions,85.7,Low,Resolved
+5002033,3019815,102708,2025-02-24,Unusual Amount,58.5,Medium,Under Review
+5002034,3022462,104636,2025-11-27,Unusual Amount,74.5,Medium,Resolved
+5002035,3006272,102611,2025-03-27,Location Anomaly,61.3,High,Open
+5002036,3026660,101926,2025-02-25,Multiple Failed Attempts,62.6,Low,False Positive
+5002037,3011359,104619,2025-11-21,Unusual Amount,50.2,Low,Resolved
+5002038,3049818,104620,2025-12-08,Unusual Amount,52.0,Low,Resolved
+5002039,3010060,104719,2025-04-18,Multiple Failed Attempts,53.6,Low,Resolved
+5002040,3005777,101218,2025-08-20,High-Risk Merchant,52.0,Low,Resolved
+5002041,3034167,100889,2025-05-02,High-Risk Merchant,75.3,Low,Open
+5002042,3021184,102096,2025-07-23,Unusual Amount,62.3,Low,Resolved
+5002043,3037219,100278,2025-04-16,International Activity,55.5,Medium,Resolved
+5002044,3008277,103612,2025-11-06,Rapid Transactions,71.4,Low,Resolved
+5002045,3005345,104967,2025-08-31,Location Anomaly,82.2,Low,False Positive
+5002046,3013207,104794,2025-04-11,International Activity,63.7,Low,Resolved
+5002047,3002389,103936,2025-08-10,International Activity,90.9,Low,Open
+5002048,3018338,100011,2025-06-14,Rapid Transactions,100.0,Medium,False Positive
+5002049,3030412,102819,2025-12-09,Location Anomaly,40.2,High,Resolved
+5002050,3043810,101817,2025-10-02,Unusual Amount,66.1,High,False Positive
+5002051,3045523,102551,2025-03-31,Multiple Failed Attempts,92.2,Low,Resolved
+5002052,3026955,101588,2025-09-26,International Activity,85.9,Low,Resolved
+5002053,3029496,102240,2025-03-12,Multiple Failed Attempts,66.7,High,Resolved
+5002054,3048947,101400,2025-11-05,High-Risk Merchant,52.9,High,Resolved
+5002055,3045544,100517,2025-04-20,Unusual Amount,49.3,Medium,False Positive
+5002056,3006117,102761,2025-09-30,Location Anomaly,61.6,Critical,Under Review
+5002057,3038870,103960,2025-07-09,International Activity,83.9,Low,False Positive
+5002058,3040333,100622,2025-06-12,Unusual Amount,77.1,Low,Resolved
+5002059,3041798,101161,2025-04-05,International Activity,44.8,Medium,Resolved
+5002060,3018646,103733,2025-11-25,High-Risk Merchant,68.8,Medium,Resolved
+5002061,3046778,101552,2025-02-03,Multiple Failed Attempts,66.1,High,Resolved
+5002062,3015069,104833,2025-10-11,Rapid Transactions,46.1,High,Resolved
+5002063,3039173,102485,2025-06-20,High-Risk Merchant,77.7,High,Resolved
+5002064,3032253,101189,2025-03-06,Rapid Transactions,77.6,Medium,Under Review
+5002065,3017237,104744,2025-05-30,Multiple Failed Attempts,94.5,High,False Positive
+5002066,3006894,102821,2025-08-30,Unusual Amount,60.5,Critical,Resolved
+5002067,3048157,104205,2025-09-23,International Activity,38.3,Low,Under Review
+5002068,3043918,103760,2025-04-18,High-Risk Merchant,85.5,Low,Resolved
+5002069,3043610,104250,2025-01-26,Unusual Amount,66.8,Medium,Under Review
+5002070,3030763,100199,2025-12-05,Location Anomaly,75.0,Medium,Resolved
+5002071,3037599,102067,2025-02-10,Multiple Failed Attempts,67.3,Low,Resolved
+5002072,3048140,101239,2025-10-07,Multiple Failed Attempts,82.3,Medium,Resolved
+5002073,3026103,103959,2025-03-10,International Activity,72.5,Low,Resolved
+5002074,3038343,102752,2025-03-03,High-Risk Merchant,66.7,Low,False Positive
+5002075,3042163,102142,2025-01-04,Location Anomaly,69.0,High,Resolved
+5002076,3012497,100316,2025-11-15,Rapid Transactions,64.7,High,Open
+5002077,3045407,104026,2025-05-19,Rapid Transactions,71.8,Low,Under Review
+5002078,3039752,101220,2025-12-26,International Activity,59.2,High,Resolved
+5002079,3022690,104516,2025-12-13,Location Anomaly,56.2,Low,Resolved
+5002080,3022910,100771,2025-09-14,International Activity,65.8,Low,False Positive
+5002081,3014323,101457,2025-12-12,International Activity,93.0,Medium,Resolved
+5002082,3029022,104005,2025-09-15,High-Risk Merchant,67.8,Medium,False Positive
+5002083,3049933,102973,2025-05-07,Unusual Amount,71.1,High,Open
+5002084,3044616,103038,2025-08-09,Rapid Transactions,38.0,Low,Under Review
+5002085,3039971,100866,2025-07-21,Location Anomaly,72.8,Low,Open
+5002086,3043265,104060,2025-02-23,Multiple Failed Attempts,58.9,Medium,False Positive
+5002087,3031582,103404,2025-02-17,Unusual Amount,55.2,Critical,Resolved
+5002088,3037472,103123,2025-08-18,High-Risk Merchant,85.1,Medium,Under Review
+5002089,3046359,101830,2025-02-24,Rapid Transactions,100.0,High,Under Review
+5002090,3034512,101207,2025-05-21,International Activity,27.0,Medium,Resolved
+5002091,3023446,103349,2025-01-07,High-Risk Merchant,61.2,High,Resolved
+5002092,3027659,104874,2025-08-29,Location Anomaly,27.3,Medium,Resolved
+5002093,3003774,104085,2025-09-29,Multiple Failed Attempts,61.4,High,Under Review
+5002094,3037650,101290,2025-07-02,Unusual Amount,36.5,Medium,False Positive
+5002095,3010772,102452,2025-10-12,High-Risk Merchant,48.0,Low,Resolved
+5002096,3049938,100277,2025-01-21,Unusual Amount,85.7,Medium,Resolved
+5002097,3049491,102226,2025-08-20,Unusual Amount,68.1,Medium,False Positive
+5002098,3037098,104333,2025-09-13,Rapid Transactions,77.8,Low,Resolved
+5002099,3008901,101631,2025-07-04,International Activity,91.0,Medium,False Positive
+5002100,3017888,101702,2025-01-19,Location Anomaly,67.2,Medium,False Positive
+5002101,3034990,103387,2025-09-13,Multiple Failed Attempts,64.1,High,Under Review
+5002102,3035601,102884,2025-02-11,High-Risk Merchant,77.8,Low,Open
+5002103,3017162,102691,2025-10-08,High-Risk Merchant,100.0,Low,Resolved
+5002104,3025626,104584,2025-01-03,International Activity,79.9,Medium,False Positive
+5002105,3025523,103986,2025-01-29,High-Risk Merchant,67.7,High,Open
+5002106,3035736,100172,2025-01-16,Unusual Amount,66.8,Critical,Resolved
+5002107,3004215,101673,2025-09-04,Multiple Failed Attempts,99.0,High,Resolved
+5002108,3006754,100564,2025-11-07,Multiple Failed Attempts,60.0,Critical,Resolved
+5002109,3023880,104202,2025-12-26,Multiple Failed Attempts,81.4,High,Resolved
+5002110,3001366,104233,2025-03-22,Rapid Transactions,78.9,Low,Open
+5002111,3014270,102459,2025-06-18,Location Anomaly,45.4,Low,Resolved
+5002112,3009144,102737,2025-01-08,International Activity,84.1,High,Resolved
+5002113,3007826,101980,2025-11-11,Rapid Transactions,54.8,Low,Under Review
+5002114,3015815,100073,2025-08-01,International Activity,53.8,Critical,Under Review
+5002115,3038436,101887,2025-02-24,Location Anomaly,68.4,Low,Resolved
+5002116,3035054,102690,2025-01-24,Multiple Failed Attempts,66.6,Low,Open
+5002117,3044453,100641,2025-01-01,International Activity,100.0,Medium,Resolved
+5002118,3024952,103939,2025-10-19,Multiple Failed Attempts,80.0,Low,Under Review
+5002119,3047054,102409,2025-02-28,International Activity,44.3,Low,Under Review
+5002120,3035993,102677,2025-06-23,Multiple Failed Attempts,62.3,Medium,Resolved
+5002121,3030432,101707,2025-09-07,International Activity,100.0,Low,Resolved
+5002122,3028009,103326,2025-01-22,Unusual Amount,44.7,Low,Resolved
+5002123,3009187,100371,2025-06-12,Location Anomaly,56.0,Low,Open
+5002124,3000440,104028,2025-01-28,Location Anomaly,52.5,Low,Under Review
+5002125,3029271,101432,2025-02-19,Unusual Amount,84.0,Low,Resolved
+5002126,3033447,100870,2025-02-06,Location Anomaly,44.8,Low,Resolved
+5002127,3002102,100058,2025-01-21,Location Anomaly,87.2,Critical,Under Review
+5002128,3006800,103434,2025-12-17,Location Anomaly,66.7,Low,Under Review
+5002129,3029711,103508,2025-05-02,Location Anomaly,57.0,Critical,Resolved
+5002130,3028953,102557,2025-08-13,Rapid Transactions,78.5,High,Resolved
+5002131,3029378,103965,2025-07-14,Unusual Amount,70.2,Low,Resolved
+5002132,3022889,103704,2025-11-28,Unusual Amount,100.0,High,Resolved
+5002133,3022272,104256,2025-08-18,Location Anomaly,86.5,High,Open
+5002134,3038986,104288,2025-12-17,International Activity,86.4,High,Resolved
+5002135,3014203,100347,2025-01-10,Rapid Transactions,63.2,Low,False Positive
+5002136,3018777,103087,2025-03-08,International Activity,49.4,Medium,Resolved
+5002137,3011338,102915,2025-09-13,Location Anomaly,53.9,Medium,Resolved
+5002138,3042314,103521,2025-10-03,Multiple Failed Attempts,73.0,Medium,Resolved
+5002139,3003632,101962,2025-11-27,Multiple Failed Attempts,71.8,Low,False Positive
+5002140,3045102,102254,2025-11-22,Rapid Transactions,40.0,Medium,Resolved
+5002141,3045811,102665,2025-10-31,Location Anomaly,61.1,Medium,Resolved
+5002142,3027706,101010,2025-09-23,High-Risk Merchant,70.6,Medium,Resolved
+5002143,3038586,104754,2025-07-11,Location Anomaly,74.1,High,Resolved
+5002144,3012172,102484,2025-08-30,Unusual Amount,67.5,Medium,Resolved
+5002145,3013608,101680,2025-08-29,High-Risk Merchant,67.4,High,Resolved
+5002146,3049888,100316,2025-02-02,Unusual Amount,58.8,Low,Resolved
+5002147,3007590,102103,2025-08-20,Multiple Failed Attempts,100.0,Low,Resolved
+5002148,3025900,104963,2025-04-23,High-Risk Merchant,72.9,High,False Positive
+5002149,3002816,103847,2025-06-26,Multiple Failed Attempts,92.9,Critical,False Positive
+5002150,3000561,102496,2025-07-15,Unusual Amount,52.7,Low,False Positive
+5002151,3028612,100553,2025-10-03,International Activity,45.5,Medium,False Positive
+5002152,3013161,104689,2025-12-11,Rapid Transactions,61.8,Medium,Under Review
+5002153,3032955,100918,2025-08-30,Unusual Amount,69.3,High,Resolved
+5002154,3039320,103927,2025-09-15,Multiple Failed Attempts,49.9,Low,Resolved
+5002155,3026612,100199,2025-11-21,Multiple Failed Attempts,44.8,Low,Resolved
+5002156,3046198,101229,2025-08-15,Unusual Amount,44.6,Medium,Resolved
+5002157,3005468,103039,2025-12-31,Multiple Failed Attempts,68.3,Medium,Resolved
+5002158,3000101,101056,2025-12-29,Multiple Failed Attempts,52.4,High,Resolved
+5002159,3004213,101245,2025-11-06,Unusual Amount,81.7,Low,Resolved
+5002160,3034571,100211,2025-08-25,High-Risk Merchant,52.9,Medium,Under Review
+5002161,3000292,101259,2025-01-31,Location Anomaly,63.5,High,Resolved
+5002162,3029870,102049,2025-09-16,Multiple Failed Attempts,56.7,Low,Resolved
+5002163,3040165,100009,2025-06-29,Rapid Transactions,89.1,Medium,Under Review
+5002164,3015551,100859,2025-04-21,International Activity,70.6,Critical,Resolved
+5002165,3005103,100397,2025-02-04,International Activity,55.1,High,Resolved
+5002166,3002885,100198,2025-07-27,High-Risk Merchant,79.4,Medium,Resolved
+5002167,3025518,103261,2025-05-07,Rapid Transactions,68.4,Low,Open
+5002168,3029144,103259,2025-02-16,Location Anomaly,71.3,High,Resolved
+5002169,3013546,100863,2025-07-22,Rapid Transactions,83.1,Low,Resolved
+5002170,3034046,103163,2025-10-26,Unusual Amount,68.6,High,Resolved
+5002171,3004666,101441,2025-08-28,International Activity,65.9,Low,Resolved
+5002172,3018381,102694,2025-04-20,High-Risk Merchant,89.5,Medium,Resolved
+5002173,3036609,100865,2025-12-23,Location Anomaly,53.3,Medium,Resolved
+5002174,3043879,101636,2025-09-06,Multiple Failed Attempts,77.8,Low,Resolved
+5002175,3015537,104193,2025-08-14,Location Anomaly,58.3,Low,Under Review
+5002176,3037041,100828,2025-02-01,High-Risk Merchant,82.6,Medium,Under Review
+5002177,3042901,101086,2025-11-18,Rapid Transactions,93.5,Low,Resolved
+5002178,3045739,102429,2025-02-06,Location Anomaly,71.6,High,Under Review
+5002179,3038692,102562,2025-10-27,High-Risk Merchant,62.0,High,Resolved
+5002180,3009261,104490,2025-04-08,Location Anomaly,68.5,Medium,Resolved
+5002181,3017387,104779,2025-07-17,Rapid Transactions,35.2,Medium,Resolved
+5002182,3037655,101873,2025-12-08,Rapid Transactions,51.2,Medium,Open
+5002183,3005162,104726,2025-12-08,Rapid Transactions,83.5,Low,Resolved
+5002184,3007571,104946,2025-09-21,Location Anomaly,61.8,Low,Resolved
+5002185,3037712,103241,2025-07-04,Location Anomaly,58.1,High,Resolved
+5002186,3028676,104656,2025-04-12,High-Risk Merchant,62.4,Medium,Resolved
+5002187,3030611,103512,2025-08-02,Unusual Amount,44.3,Low,Resolved
+5002188,3034182,102923,2025-05-12,Multiple Failed Attempts,59.2,Low,Under Review
+5002189,3042180,100260,2025-03-15,Unusual Amount,55.9,Medium,Under Review
+5002190,3035728,100850,2025-09-07,Rapid Transactions,61.2,Medium,Open
+5002191,3037820,104994,2025-10-04,Location Anomaly,43.7,Medium,Resolved
+5002192,3046634,101428,2025-07-25,Rapid Transactions,90.7,Medium,Resolved
+5002193,3030626,102713,2025-12-22,Rapid Transactions,55.7,High,False Positive
+5002194,3008294,102655,2025-03-17,High-Risk Merchant,48.3,Medium,Resolved
+5002195,3036422,103012,2025-02-04,Multiple Failed Attempts,58.1,High,Resolved
+5002196,3049144,103792,2025-01-04,High-Risk Merchant,96.8,Medium,Resolved
+5002197,3017589,103529,2025-02-07,Multiple Failed Attempts,38.3,Medium,Under Review
+5002198,3022812,104328,2025-03-17,Location Anomaly,84.4,Medium,Under Review
+5002199,3000708,101760,2025-10-22,Location Anomaly,90.1,High,Resolved
+5002200,3045050,100963,2025-07-19,Rapid Transactions,66.7,Critical,Open
+5002201,3044915,101219,2025-05-12,Unusual Amount,89.2,Medium,Resolved
+5002202,3049049,102331,2025-03-04,Unusual Amount,49.6,High,Resolved
+5002203,3044408,102507,2025-05-26,International Activity,31.9,Low,Resolved
+5002204,3004833,104628,2025-10-21,High-Risk Merchant,53.1,High,Resolved
+5002205,3005049,101919,2025-02-09,Unusual Amount,64.0,Medium,Under Review
+5002206,3008574,102187,2025-01-20,High-Risk Merchant,100.0,Medium,Under Review
+5002207,3044284,101133,2025-02-06,High-Risk Merchant,76.3,Low,Resolved
+5002208,3020953,103614,2025-09-07,High-Risk Merchant,96.5,Low,Open
+5002209,3011867,104964,2025-07-28,Location Anomaly,51.6,Medium,Resolved
+5002210,3021791,101995,2025-07-28,Rapid Transactions,60.6,High,Under Review
+5002211,3005527,102539,2025-01-31,High-Risk Merchant,58.3,Medium,Resolved
+5002212,3023823,100098,2025-08-22,International Activity,80.6,High,Resolved
+5002213,3025432,103564,2025-06-26,Unusual Amount,25.2,Medium,Under Review
+5002214,3008512,102162,2025-05-04,High-Risk Merchant,63.7,Medium,Resolved
+5002215,3002601,103256,2025-01-21,Multiple Failed Attempts,76.0,Critical,Under Review
+5002216,3031159,103750,2025-11-14,International Activity,82.4,Medium,Resolved
+5002217,3040321,100651,2025-01-05,Rapid Transactions,90.1,Medium,Resolved
+5002218,3041435,103700,2025-01-30,High-Risk Merchant,67.6,Low,Under Review
+5002219,3027506,100386,2025-11-26,High-Risk Merchant,90.0,Medium,Resolved
+5002220,3009440,104269,2025-11-18,International Activity,60.1,Low,Under Review
+5002221,3041958,102037,2025-07-03,International Activity,74.1,Low,False Positive
+5002222,3046093,103239,2025-03-25,Rapid Transactions,58.9,Low,Resolved
+5002223,3035328,100565,2025-08-14,Unusual Amount,79.0,Medium,Under Review
+5002224,3026784,101632,2025-06-26,International Activity,93.0,Medium,Under Review
+5002225,3030348,104086,2025-06-19,Unusual Amount,100.0,High,Resolved
+5002226,3011035,103184,2025-11-29,Location Anomaly,91.9,High,Under Review
+5002227,3042527,100817,2025-10-19,Unusual Amount,99.6,Critical,Resolved
+5002228,3004961,104182,2025-06-15,High-Risk Merchant,80.9,Critical,Under Review
+5002229,3032556,102407,2025-09-20,Multiple Failed Attempts,48.4,High,Resolved
+5002230,3045374,100884,2025-04-14,International Activity,52.6,Low,Under Review
+5002231,3012224,103218,2025-05-08,Unusual Amount,27.2,Low,Resolved
+5002232,3008231,104266,2025-04-29,Rapid Transactions,79.9,High,False Positive
+5002233,3047861,101170,2025-07-16,International Activity,29.9,Critical,Resolved
+5002234,3049928,101312,2025-09-04,Rapid Transactions,53.8,High,Open
+5002235,3039555,102909,2025-01-23,Unusual Amount,55.8,Low,Open
+5002236,3003823,104063,2025-02-02,Multiple Failed Attempts,49.6,High,Resolved
+5002237,3047230,102530,2025-12-04,Unusual Amount,29.9,Low,Under Review
+5002238,3007200,102690,2025-11-16,Unusual Amount,89.7,Low,Under Review
+5002239,3033550,103504,2025-01-13,Rapid Transactions,75.0,Medium,Resolved
+5002240,3000732,102836,2025-03-20,Multiple Failed Attempts,63.0,Low,Resolved
+5002241,3019520,101874,2025-04-02,Location Anomaly,91.0,Medium,Resolved
+5002242,3031139,100597,2025-03-08,Unusual Amount,52.7,Low,Resolved
+5002243,3027729,102529,2025-09-29,Rapid Transactions,100.0,Low,Resolved
+5002244,3045731,104206,2025-06-30,Location Anomaly,84.2,Critical,Resolved
+5002245,3024406,104382,2025-05-03,Rapid Transactions,100.0,Critical,Resolved
+5002246,3033447,104928,2025-05-31,Unusual Amount,53.3,Medium,Under Review
+5002247,3009358,100317,2025-08-05,High-Risk Merchant,75.3,High,False Positive
+5002248,3005433,103723,2025-02-27,Rapid Transactions,58.5,Medium,Resolved
+5002249,3005046,103181,2025-08-15,Location Anomaly,64.2,Medium,Resolved
+5002250,3037824,102406,2025-08-12,Unusual Amount,79.8,Medium,Resolved
+5002251,3009281,103453,2025-04-23,Multiple Failed Attempts,67.9,Critical,Resolved
+5002252,3047279,101627,2025-01-28,High-Risk Merchant,47.4,Low,Resolved
+5002253,3027200,101845,2025-01-23,Multiple Failed Attempts,81.7,Medium,Under Review
+5002254,3038895,101895,2025-12-16,Multiple Failed Attempts,76.8,Medium,Resolved
+5002255,3030878,103032,2025-02-06,Rapid Transactions,93.7,High,Resolved
+5002256,3033402,101284,2025-03-30,High-Risk Merchant,61.4,Critical,Resolved
+5002257,3048421,101893,2025-09-25,Unusual Amount,80.7,High,Under Review
+5002258,3014409,100249,2025-09-03,Multiple Failed Attempts,60.7,Low,Resolved
+5002259,3039683,100507,2025-01-30,Location Anomaly,67.8,Low,False Positive
+5002260,3040924,102887,2025-11-11,High-Risk Merchant,60.5,Low,Resolved
+5002261,3037663,100966,2025-07-18,High-Risk Merchant,66.0,Medium,Resolved
+5002262,3037809,101243,2025-02-21,Multiple Failed Attempts,100.0,Medium,Under Review
+5002263,3013875,104262,2025-09-01,Location Anomaly,70.6,High,Resolved
+5002264,3006199,100313,2025-12-13,High-Risk Merchant,63.6,Medium,Open
+5002265,3003031,101567,2025-08-13,High-Risk Merchant,41.4,Medium,Resolved
+5002266,3038227,100003,2025-08-21,Multiple Failed Attempts,70.8,Medium,Under Review
+5002267,3040759,100334,2025-06-18,International Activity,54.7,Low,Resolved
+5002268,3007189,101641,2025-07-12,Unusual Amount,36.5,High,Resolved
+5002269,3000818,103161,2025-05-28,Rapid Transactions,78.6,High,Resolved
+5002270,3019367,103643,2025-05-18,Rapid Transactions,54.6,High,Resolved
+5002271,3020376,103334,2025-07-17,Multiple Failed Attempts,44.4,Low,Resolved
+5002272,3006202,100226,2025-07-02,Unusual Amount,48.1,Medium,Resolved
+5002273,3021292,103049,2025-10-04,High-Risk Merchant,74.5,Medium,Resolved
+5002274,3033086,103388,2025-02-25,High-Risk Merchant,90.0,High,Resolved
+5002275,3044200,102457,2025-10-25,Location Anomaly,70.5,High,Open
+5002276,3017799,102485,2025-01-08,Location Anomaly,25.7,Low,Resolved
+5002277,3016585,101530,2025-06-12,Rapid Transactions,73.1,Low,Under Review
+5002278,3025782,101440,2025-07-09,High-Risk Merchant,77.9,High,False Positive
+5002279,3037367,102123,2025-11-18,Unusual Amount,56.4,Medium,Resolved
+5002280,3002054,100622,2025-01-10,Multiple Failed Attempts,45.8,Low,Under Review
+5002281,3049880,100808,2025-02-11,Unusual Amount,81.2,High,Resolved
+5002282,3018793,102462,2025-10-11,Unusual Amount,66.0,Medium,False Positive
+5002283,3020270,103913,2025-03-22,High-Risk Merchant,72.2,Medium,Open
+5002284,3035774,100138,2025-03-19,Location Anomaly,73.1,Medium,Open
+5002285,3041403,104008,2025-07-03,Location Anomaly,31.8,Medium,Resolved
+5002286,3015306,101398,2025-06-09,Multiple Failed Attempts,90.7,High,False Positive
+5002287,3036743,103323,2025-06-02,High-Risk Merchant,62.0,Medium,Resolved
+5002288,3023516,101987,2025-09-15,Rapid Transactions,26.0,Medium,Resolved
+5002289,3020853,100411,2025-11-05,Location Anomaly,28.0,Low,Resolved
+5002290,3024719,104870,2025-09-03,Location Anomaly,51.0,Low,Resolved
+5002291,3000850,103905,2025-03-09,High-Risk Merchant,83.3,Medium,Open
+5002292,3044110,104423,2025-07-18,International Activity,62.1,Medium,False Positive
+5002293,3029595,102049,2025-03-28,Multiple Failed Attempts,76.8,High,Resolved
+5002294,3010473,103433,2025-09-26,Unusual Amount,75.1,Medium,Resolved
+5002295,3005387,100219,2025-08-14,Unusual Amount,71.5,Low,Open
+5002296,3010038,104387,2025-09-21,High-Risk Merchant,63.8,Low,Resolved
+5002297,3006925,102801,2025-02-15,High-Risk Merchant,67.3,Medium,Resolved
+5002298,3023337,104312,2025-08-28,High-Risk Merchant,69.3,Low,Resolved
+5002299,3046467,101958,2025-03-12,High-Risk Merchant,78.9,Critical,Resolved
+5002300,3026235,104621,2025-09-02,Unusual Amount,53.6,Medium,Under Review
+5002301,3042441,100280,2025-11-14,Rapid Transactions,60.4,Medium,Resolved
+5002302,3010477,104459,2025-10-26,International Activity,96.3,Low,Resolved
+5002303,3019353,100253,2025-05-07,Multiple Failed Attempts,78.3,Medium,Resolved
+5002304,3018524,100794,2025-10-13,High-Risk Merchant,58.0,Medium,Resolved
+5002305,3003737,100566,2025-03-24,International Activity,63.4,Low,Resolved
+5002306,3000649,102599,2025-09-20,High-Risk Merchant,51.1,Medium,Resolved
+5002307,3001329,103338,2025-03-12,Multiple Failed Attempts,87.7,Medium,Open
+5002308,3049236,102142,2025-09-22,Multiple Failed Attempts,64.8,Medium,Open
+5002309,3008373,100426,2025-01-11,International Activity,81.0,Medium,Resolved
+5002310,3021534,104840,2025-12-23,Rapid Transactions,70.2,Low,Resolved
+5002311,3021585,102664,2025-12-01,Multiple Failed Attempts,38.1,High,Resolved
+5002312,3013681,104277,2025-01-22,Rapid Transactions,66.6,Low,Resolved
+5002313,3027157,100955,2025-11-02,High-Risk Merchant,56.1,Medium,Under Review
+5002314,3029907,103783,2025-03-19,Unusual Amount,37.5,Low,Resolved
+5002315,3039101,100574,2025-04-29,International Activity,37.7,Medium,Under Review
+5002316,3030626,104612,2025-05-05,Rapid Transactions,91.2,Low,Resolved
+5002317,3014782,103326,2025-09-22,High-Risk Merchant,67.1,Medium,Resolved
+5002318,3036774,103847,2025-04-29,Rapid Transactions,80.5,Low,Resolved
+5002319,3037898,103054,2025-04-09,High-Risk Merchant,62.9,Medium,False Positive
+5002320,3003869,101198,2025-10-05,Multiple Failed Attempts,99.9,Critical,Under Review
+5002321,3039013,100186,2025-03-28,High-Risk Merchant,48.0,Low,Resolved
+5002322,3033215,103482,2025-05-03,Rapid Transactions,57.7,High,Under Review
+5002323,3041923,100894,2025-03-08,Location Anomaly,46.6,Low,Resolved
+5002324,3049378,102462,2025-04-30,Unusual Amount,71.9,Medium,Resolved
+5002325,3015736,102091,2025-01-19,Multiple Failed Attempts,48.8,Medium,Resolved
+5002326,3028826,101486,2025-12-23,Location Anomaly,59.5,Medium,Under Review
+5002327,3017242,100525,2025-07-07,International Activity,52.1,Low,Resolved
+5002328,3024220,100909,2025-08-14,High-Risk Merchant,56.4,High,Under Review
+5002329,3033669,102894,2025-09-19,Rapid Transactions,91.2,Low,Open
+5002330,3021272,103770,2025-12-22,Unusual Amount,46.9,Critical,Under Review
+5002331,3022842,100955,2025-07-31,Rapid Transactions,88.5,High,False Positive
+5002332,3001815,103776,2025-03-23,Rapid Transactions,67.7,Medium,Resolved
+5002333,3046569,100480,2025-09-07,Location Anomaly,64.3,Critical,Resolved
+5002334,3028681,100119,2025-01-17,Multiple Failed Attempts,74.1,High,Open
+5002335,3017630,102043,2025-04-12,Location Anomaly,64.4,High,Resolved
+5002336,3048630,102262,2025-02-12,Unusual Amount,100.0,Low,Resolved
+5002337,3021764,103357,2025-12-15,Multiple Failed Attempts,70.2,Low,Under Review
+5002338,3033812,100301,2025-03-02,High-Risk Merchant,52.1,Critical,Open
+5002339,3001754,100926,2025-08-07,Location Anomaly,44.4,Low,Resolved
+5002340,3019211,101281,2025-11-18,Rapid Transactions,37.8,Low,Under Review
+5002341,3018016,103598,2025-04-16,High-Risk Merchant,78.5,Low,Resolved
+5002342,3044408,102349,2025-03-29,Multiple Failed Attempts,49.8,High,Under Review
+5002343,3015398,101838,2025-07-02,Rapid Transactions,43.1,Low,Under Review
+5002344,3040611,103775,2025-11-25,Multiple Failed Attempts,77.9,High,False Positive
+5002345,3033609,100695,2025-04-19,High-Risk Merchant,77.9,High,Resolved
+5002346,3019134,100156,2025-05-13,High-Risk Merchant,42.8,High,Resolved
+5002347,3036239,101246,2025-08-15,Unusual Amount,89.3,Medium,Resolved
+5002348,3035814,103512,2025-10-29,Rapid Transactions,71.0,Low,Resolved
+5002349,3041477,101772,2025-05-28,High-Risk Merchant,57.1,Medium,Resolved
+5002350,3041263,103847,2025-06-02,High-Risk Merchant,59.6,Medium,Under Review
+5002351,3027718,102852,2025-10-09,Multiple Failed Attempts,62.1,High,Resolved
+5002352,3007192,102584,2025-05-27,High-Risk Merchant,44.6,Low,Resolved
+5002353,3004968,100930,2025-12-19,International Activity,74.2,Critical,Under Review
+5002354,3032554,103113,2025-08-02,High-Risk Merchant,42.9,Medium,Resolved
+5002355,3000026,102482,2025-04-16,Rapid Transactions,91.6,Low,Resolved
+5002356,3049431,104326,2025-07-10,Rapid Transactions,59.5,High,Under Review
+5002357,3006780,104656,2025-11-14,Multiple Failed Attempts,96.8,Low,Resolved
+5002358,3007430,103412,2025-03-29,International Activity,61.6,Low,Under Review
+5002359,3001031,102991,2025-01-23,Multiple Failed Attempts,64.8,High,Open
+5002360,3045322,102907,2025-04-11,International Activity,57.7,Medium,Resolved
+5002361,3020711,101774,2025-08-10,Rapid Transactions,100.0,High,Resolved
+5002362,3006241,102980,2025-12-03,Rapid Transactions,39.5,Low,Open
+5002363,3007624,103309,2025-02-06,Location Anomaly,75.2,Medium,Resolved
+5002364,3044098,104316,2025-12-01,Multiple Failed Attempts,59.6,Medium,Open
+5002365,3047276,103780,2025-11-21,Location Anomaly,70.7,High,Resolved
+5002366,3009545,104907,2025-01-19,Multiple Failed Attempts,46.0,Low,Resolved
+5002367,3047738,101621,2025-04-20,Multiple Failed Attempts,75.8,Low,Under Review
+5002368,3000420,102066,2025-03-14,Unusual Amount,66.1,Critical,Resolved
+5002369,3006436,104080,2025-10-07,Multiple Failed Attempts,100.0,Medium,Resolved
+5002370,3003688,104922,2025-04-22,Location Anomaly,33.2,Low,Resolved
+5002371,3045118,103604,2025-06-12,International Activity,77.1,High,Open
+5002372,3028935,101928,2025-09-14,International Activity,56.8,High,Resolved
+5002373,3025609,100253,2025-07-18,Unusual Amount,100.0,Critical,Resolved
+5002374,3026503,102892,2025-04-26,Unusual Amount,92.7,Low,Resolved
+5002375,3033221,101245,2025-09-14,Unusual Amount,43.5,Medium,Open
+5002376,3046878,102438,2025-12-26,Rapid Transactions,66.2,Medium,Under Review
+5002377,3049544,102798,2025-06-10,Unusual Amount,72.8,High,Resolved
+5002378,3049693,101714,2025-06-28,Unusual Amount,55.7,Medium,Resolved
+5002379,3005790,104953,2025-06-19,Unusual Amount,46.5,Low,Resolved
+5002380,3030073,104344,2025-06-15,Rapid Transactions,94.9,High,Under Review
+5002381,3009452,103649,2025-08-26,Rapid Transactions,74.1,Medium,Resolved
+5002382,3015724,100783,2025-09-15,High-Risk Merchant,79.3,Medium,Open
+5002383,3008401,102829,2025-11-02,High-Risk Merchant,70.3,Critical,Resolved
+5002384,3018568,101971,2025-09-25,Unusual Amount,29.8,High,Open
+5002385,3046965,104529,2025-05-22,High-Risk Merchant,54.7,High,Open
+5002386,3029964,103271,2025-06-30,Rapid Transactions,66.3,Medium,Resolved
+5002387,3017021,100608,2025-10-26,High-Risk Merchant,79.8,Medium,Resolved
+5002388,3033301,104854,2025-01-28,International Activity,92.3,Medium,Open
+5002389,3048392,101441,2025-08-03,International Activity,87.1,Medium,Open
+5002390,3018031,102596,2025-11-03,Multiple Failed Attempts,72.1,Medium,Under Review
+5002391,3025052,104400,2025-02-16,Rapid Transactions,32.6,Medium,Resolved
+5002392,3046734,101994,2025-03-22,Location Anomaly,47.2,Low,Open
+5002393,3011606,103106,2025-07-16,Unusual Amount,97.3,Low,Resolved
+5002394,3043770,101822,2025-09-17,Location Anomaly,54.1,Low,Resolved
+5002395,3002035,102445,2025-04-22,International Activity,58.2,Medium,Resolved
+5002396,3005176,102305,2025-11-25,Multiple Failed Attempts,29.1,High,Resolved
+5002397,3021720,100893,2025-01-23,Rapid Transactions,81.7,Medium,Open
+5002398,3016819,103463,2025-01-04,Rapid Transactions,72.0,High,Under Review
+5002399,3040991,101407,2025-06-26,Location Anomaly,89.6,Low,Under Review
+5002400,3038546,101666,2025-12-06,Rapid Transactions,58.1,Low,Resolved
+5002401,3036315,102420,2025-09-08,Unusual Amount,12.9,Critical,False Positive
+5002402,3008685,102830,2025-12-27,Location Anomaly,52.4,Medium,Resolved
+5002403,3044058,102865,2025-06-05,High-Risk Merchant,35.1,Medium,Resolved
+5002404,3039553,104083,2025-03-18,Unusual Amount,58.4,Critical,Resolved
+5002405,3019351,100829,2025-12-24,Unusual Amount,68.8,Low,False Positive
+5002406,3040092,103472,2025-01-19,Multiple Failed Attempts,77.9,High,Resolved
+5002407,3021915,104059,2025-06-26,Location Anomaly,61.3,Low,False Positive
+5002408,13029431,100711,2025-03-13,Unusual Amount,62.4,Low,Under Review
+5002409,3041945,104686,2025-01-02,International Activity,100.0,Low,Under Review
+5002410,3004693,101259,2025-02-25,High-Risk Merchant,63.1,Medium,Under Review
+5002411,3035825,101703,2025-05-24,Location Anomaly,58.2,Medium,False Positive
+5002412,3002639,104562,2025-03-11,Multiple Failed Attempts,87.7,Medium,Open
+5002413,3016631,103986,2025-12-14,Location Anomaly,55.4,Low,False Positive
+5002414,3040511,103101,2025-12-11,High-Risk Merchant,82.7,Medium,Under Review
+5002415,3035077,103990,2025-01-14,International Activity,68.8,High,Open
+5002416,3015139,104548,2025-05-05,High-Risk Merchant,34.8,Medium,Resolved
+5002417,3031291,104822,2025-10-14,High-Risk Merchant,89.9,Low,False Positive
+5002418,3002553,104166,2025-12-04,Location Anomaly,34.0,Critical,Resolved
+5002419,3028015,104412,2025-08-18,Location Anomaly,68.8,Low,False Positive
+5002420,3001859,103988,2025-03-19,Rapid Transactions,56.3,Low,Resolved
+5002421,3025434,100846,2025-12-07,High-Risk Merchant,52.8,Medium,Resolved
+5002422,3041492,100896,2025-05-25,Rapid Transactions,64.7,Medium,Under Review
+5002423,3020493,103546,2025-06-04,International Activity,67.0,Medium,Resolved
+5002424,3012222,102833,2025-02-17,Location Anomaly,81.2,Low,Resolved
+5002425,3029841,104437,2025-01-18,Rapid Transactions,100.0,High,Resolved
+5002426,3005546,104871,2025-05-15,Location Anomaly,77.8,Low,Under Review
+5002427,3014170,104971,2025-10-14,Multiple Failed Attempts,49.2,Low,Resolved
+5002428,3021884,104765,2025-05-05,High-Risk Merchant,82.0,High,False Positive
+5002429,3049649,103479,2025-09-24,International Activity,65.2,Low,Resolved
+5002430,3049305,102101,2025-12-08,Unusual Amount,50.4,Medium,Resolved
+5002431,3034716,104918,2025-12-25,Location Anomaly,48.7,Low,Resolved
+5002432,3048252,103282,2025-09-08,Location Anomaly,71.9,High,Under Review
+5002433,3043941,100187,2025-02-05,Location Anomaly,63.5,Low,False Positive
+5002434,3005352,101357,2025-05-29,Unusual Amount,71.8,Low,Under Review
+5002435,3019277,100879,2025-06-06,Multiple Failed Attempts,70.7,Medium,Resolved
+5002436,3032748,104899,2025-02-16,Unusual Amount,63.8,Medium,Resolved
+5002437,3011771,102817,2025-04-29,High-Risk Merchant,42.3,Medium,Resolved
+5002438,3029467,100078,2025-09-26,Multiple Failed Attempts,39.9,Medium,False Positive
+5002439,3016001,102522,2025-12-14,Location Anomaly,47.0,Low,Resolved
+5002440,3017916,100797,2025-07-13,Location Anomaly,56.2,Low,Resolved
+5002441,3046600,102305,2025-12-09,High-Risk Merchant,41.4,Low,Under Review
+5002442,3014882,103016,2025-09-28,Multiple Failed Attempts,64.1,Medium,Under Review
+5002443,3025439,102590,2025-08-28,Location Anomaly,100.0,Medium,Resolved
+5002444,3026177,100865,2025-04-24,Multiple Failed Attempts,52.9,High,Resolved
+5002445,3020631,103328,2025-08-12,Multiple Failed Attempts,50.5,Medium,Open
+5002446,3037971,104596,2025-07-19,Unusual Amount,59.9,High,Resolved
+5002447,3013337,102257,2025-12-03,Unusual Amount,61.8,Medium,Resolved
+5002448,3030258,100813,2025-04-19,Multiple Failed Attempts,85.0,Medium,Resolved
+5002449,3008933,104445,2025-12-08,Unusual Amount,97.0,High,Resolved
+5002450,3017319,104445,2025-06-19,Location Anomaly,70.3,Medium,False Positive
+5002451,3045013,100006,2025-08-27,Location Anomaly,50.4,Medium,Under Review
+5002452,3041196,103643,2025-01-01,Multiple Failed Attempts,42.1,Medium,False Positive
+5002453,3023592,104902,2025-06-20,Rapid Transactions,77.3,High,Resolved
+5002454,3024953,102746,2025-10-22,Location Anomaly,75.3,Low,Resolved
+5002455,3028759,100061,2025-08-21,International Activity,75.7,High,Resolved
+5002456,3033245,104548,2025-02-08,High-Risk Merchant,11.4,High,Resolved
+5002457,3010427,101502,2025-06-24,Location Anomaly,54.8,Low,False Positive
+5002458,3044740,101010,2025-02-04,High-Risk Merchant,84.2,Low,Resolved
+5002459,3033707,103662,2025-11-14,High-Risk Merchant,64.0,Medium,Resolved
+5002460,3029542,104559,2025-03-04,Unusual Amount,44.7,Low,Resolved
+5002461,3011855,104237,2025-02-15,Multiple Failed Attempts,51.0,High,Open
+5002462,3040256,104210,2025-03-25,Location Anomaly,54.2,Low,Resolved
+5002463,3014556,103747,2025-05-31,Location Anomaly,25.4,Medium,Open
+5002464,3021274,101070,2025-06-27,Unusual Amount,60.6,Medium,Open
+5002465,3027611,101925,2025-12-03,Multiple Failed Attempts,47.1,Critical,False Positive
+5002466,3002266,100309,2025-07-30,High-Risk Merchant,86.2,Medium,Resolved
+5002467,3005449,101128,2025-05-25,International Activity,68.5,Low,Resolved
+5002468,3005866,104412,2025-01-22,Unusual Amount,57.8,Low,Under Review
+5002469,3014867,103965,2025-12-23,International Activity,47.0,Medium,Resolved
+5002470,3018301,102845,2025-12-17,Rapid Transactions,69.9,Low,Under Review
+5002471,3001265,100814,2025-10-12,Unusual Amount,79.9,Low,Under Review
+5002472,3011987,100981,2025-01-13,Rapid Transactions,53.0,High,Under Review
+5002473,3026679,104924,2025-12-12,Unusual Amount,57.2,Medium,Under Review
+5002474,3026207,100758,2025-06-25,Multiple Failed Attempts,48.2,Medium,Under Review
+5002475,3030764,103467,2025-01-23,Unusual Amount,73.8,Medium,Under Review
+5002476,3037867,102412,2025-06-24,Rapid Transactions,66.4,Low,Resolved
+5002477,3040580,104432,2025-10-28,Multiple Failed Attempts,61.5,Low,Under Review
+5002478,3008034,102211,2025-08-07,Location Anomaly,79.1,Low,Resolved
+5002479,3019039,104572,2025-01-23,International Activity,61.4,High,False Positive
+5002480,3034614,103005,2025-12-15,Unusual Amount,79.9,Critical,Open
+5002481,3003198,100825,2025-11-02,Unusual Amount,54.8,Medium,Resolved
+5002482,3019346,104577,2025-07-31,Multiple Failed Attempts,59.7,High,Open
+5002483,3039761,104543,2025-02-09,Multiple Failed Attempts,77.4,Medium,Resolved
+5002484,3033456,103103,2025-10-08,Location Anomaly,63.4,Critical,Resolved
+5002485,3003478,102665,2025-11-30,Multiple Failed Attempts,48.1,Low,Open
+5002486,3035132,104001,2025-11-13,Rapid Transactions,67.4,Medium,Resolved
+5002487,3008984,104397,2025-01-28,Multiple Failed Attempts,52.5,Medium,Under Review
+5002488,3040512,104653,2025-05-27,Multiple Failed Attempts,58.0,Low,False Positive
+5002489,3019648,104659,2025-04-18,Multiple Failed Attempts,80.4,Low,Open
+5002490,3017121,104513,2025-11-29,Unusual Amount,91.5,Medium,Resolved
+5002491,3019533,100885,2025-11-24,Multiple Failed Attempts,91.0,Low,False Positive
+5002492,3039769,104168,2025-12-20,Multiple Failed Attempts,84.1,High,Resolved
+5002493,3028510,102867,2025-04-10,Unusual Amount,77.5,High,Resolved
+5002494,3042625,101220,2025-12-13,Multiple Failed Attempts,53.2,Medium,Resolved
+5002495,3012322,101086,2025-04-11,International Activity,77.4,Medium,Resolved
+5002496,3042182,102375,2025-01-22,Unusual Amount,94.4,Low,Resolved
+5002497,3043695,100227,2025-11-29,Rapid Transactions,63.2,Medium,Resolved
+5002498,3040274,100639,2025-08-13,Unusual Amount,89.5,Critical,Resolved
+5002499,3021717,104202,2025-06-28,International Activity,83.3,Low,Resolved
+5002500,3030780,100860,2025-04-30,Rapid Transactions,86.8,High,Resolved

@@ -1,0 +1,21 @@
+branch_id,branch_name,city,state,region
+B001,FinSight Bengaluru Central,Bengaluru,Karnataka,South
+B002,FinSight Mysuru Central,Mysuru,Karnataka,South
+B003,FinSight Mangaluru Central,Mangaluru,Karnataka,South
+B004,FinSight Hubballi Central,Hubballi,Karnataka,South
+B005,FinSight Shivamogga Central,Shivamogga,Karnataka,South
+B006,FinSight Pune Central,Pune,Maharashtra,West
+B007,FinSight Mumbai Central,Mumbai,Maharashtra,West
+B008,FinSight Hyderabad Central,Hyderabad,Telangana,South
+B009,FinSight Chennai Central,Chennai,Tamil Nadu,South
+B010,FinSight Delhi Central,Delhi,Delhi,North
+B011,FinSight Gurugram Central,Gurugram,Haryana,North
+B012,FinSight Noida Central,Noida,Uttar Pradesh,North
+B013,FinSight Kolkata Central,Kolkata,West Bengal,East
+B014,FinSight Ahmedabad Central,Ahmedabad,Gujarat,West
+B015,FinSight Jaipur Central,Jaipur,Rajasthan,West
+B016,FinSight Kochi Central,Kochi,Kerala,South
+B017,FinSight Coimbatore Central,Coimbatore,Tamil Nadu,South
+B018,FinSight Bhopal Central,Bhopal,Madhya Pradesh,West
+B019,FinSight Indore Central,Indore,Madhya Pradesh,West
+B020,FinSight Visakhapatnam Central,Visakhapatnam,Andhra Pradesh,South
